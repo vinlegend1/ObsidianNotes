@@ -1,0 +1,6 @@
+{
+  "userIgnoreFilters": [
+    "/^Pasted image.*\\.png$/",
+    "/Pasted*.png"
+  ]
+}

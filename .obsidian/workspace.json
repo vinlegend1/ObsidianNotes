@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "6ed79858027b8204",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e39340f22f98068",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f9438af00070c21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ELECME1/Capacitor Filters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capacitor Filters"
+            }
+          },
+          {
+            "id": "d2d46d10eca1e3ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ELECME1/Rectifiers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rectifiers"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "872481b321c0f76e",
+    "type": "split",
+    "children": [
+      {
+        "id": "817fb597733c3fae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaf4ee864cd336d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "834cc509d7a54ad2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "miles",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d0f20a134d8648e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5
+  },
+  "right": {
+    "id": "ad2d8ade51622112",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd1575dac3bf514a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e82c7f15dcb19380",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ELECME1/Capacitor Filters.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Capacitor Filters"
+            }
+          },
+          {
+            "id": "102ca07759eb1abc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "937428953e2d704a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4eba22e1a784ced3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "omnisearch:Omnisearch": true,
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4eba22e1a784ced3",
+  "lastOpenFiles": [
+    "ELECME1/Rectifiers.md",
+    "ELECME1/Capacitor Filters.md",
+    "Pasted image 20241023191002.png",
+    "Pasted image 20241023190856.png",
+    "Pasted image 20241023185213.png",
+    "Daily/2024-10-23.md",
+    "Automation/Script for MES Membership Card AY 24-25.md",
+    "VIBEENG/Rjaymz Notes/VIBEENG-Long-Exam-2-Notes.pdf",
+    "VIBEENG/Rjaymz Notes/VIBEENG-Long-Exam-3-Notes.pdf",
+    "VIBEENG/Rjaymz Notes",
+    "VIBEENG/Rjaymz Notes/VIBEENG-Long-Exam-1-Notes.pdf",
+    "VIBEENG",
+    "ELECME1/DC Regulated Power Supply.canvas",
+    "03 - LBYEC3P Experiment 03 Group 2 Final Report.pdf",
+    "DC REGULATED POWER SUPPLY(PART3) 3.ppt",
+    "ELECME1/DC REGULATED POWER SUPPLY(PART3).ppt",
+    "DC REGULATED POWER SUPPLY(PART3) 2.ppt",
+    "DC REGULATED POWER SUPPLY 1.ppt",
+    "ELECME1/Transformers.md",
+    "Welcome.md",
+    "Pasted image 20241023151553.png",
+    "ELECME1/EE Software.canvas",
+    "ELECME1/EDA, SPICE Simulations, and EE Softwares.md",
+    "Pasted image 20241023145248.png",
+    "Pasted image 20241023144810.png",
+    "Pasted image 20241023144305.png",
+    "ELECME1/DC Regulated Voltage Supply.md",
+    "Pasted image 20241023141724.png",
+    "Pasted image 20241023141821.png",
+    "2024-10-23.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
