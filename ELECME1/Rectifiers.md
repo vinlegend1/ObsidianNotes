@@ -1,13 +1,13 @@
 ## Summary of Rectifiers
 ---
 
-|                                                  | # Diodes | $V_m$       | $V_{rms}$      | $V_{dc}$                            | $V_{r(rms)}$ | percent ripple |
-| ------------------------------------------------ | -------- | ----------- | -------------- | ----------------------------------- | ------------ | -------------- |
-| Half-Wave Rectifier                              | 1        | $V_s$ @peak | $V_m$/2        | $V_m/\pi$ or $0.318 V_m$            | $0.386 V_m$  | 121%           |
-| Full-Bridge Rectifier                            | 4        | $V_s$ @peak | $V_m/\sqrt{2}$ | $2 V_m/\pi$ or $0.637 V_m$          | $0.308 V_m$  | 48%            |
-| Full-Wave Center-Tapped Transformer              | 2        | $V_s/2$     |                |                                     |              |                |
-| $V_m = V_s - 2 V_T$ for **Full-Bridge**          |          |             |                | **Relationship**                    |              |                |
-| **Ripple Factor:** $r = \frac{V_{rrms}}{V_{dc}}$ |          |             |                | $V_{rms}^2 = V_{r(rms)}^2 + V_{dc}$ |              |                |
+|                                                  | # Diodes | $V_m$       | $V_{rms}$      | $V_{dc}$                              | $V_{r(rms)}$ | percent ripple |
+| ------------------------------------------------ | -------- | ----------- | -------------- | ------------------------------------- | ------------ | -------------- |
+| Half-Wave Rectifier                              | 1        | $V_s$ @peak | $V_m$/2        | $V_m/\pi$ or $0.318 V_m$              | $0.386 V_m$  | 121%           |
+| Full-Bridge Rectifier                            | 4        | $V_s$ @peak | $V_m/\sqrt{2}$ | $2 V_m/\pi$ or $0.637 V_m$            | $0.308 V_m$  | 48%            |
+| Full-Wave Center-Tapped Transformer              | 2        | $V_s/2$     |                |                                       |              |                |
+| $V_m = V_s - 2 V_T$ for **Full-Bridge**          |          |             |                | **Relationship**                      |              |                |
+| **Ripple Factor:** $r = \frac{V_{rrms}}{V_{dc}}$ |          |             |                | $V_{rms}^2 = V_{r(rms)}^2 + V_{dc}^2$ |              |                |
 
 ---
 ![[Pasted image 20241023145248.png]]
@@ -26,7 +26,7 @@
 	* For Half-Wave: $V_{rms} = V_m / 2$
 	* RMS and Average DC Voltage are Different (e.g. Half Wave): $V_{dc} = V_m / \pi$
 	* When dealing with RMS values, there's both a DC and AC Component
-	* $$V_{rms}^2 = V_{r(rms)}^2 + V_{dc}$$
+	* $$V_{rms}^2 = V_{r(rms)}^2 + V_{dc}^2$$
 	* V_rrms is like the AC component (or ripple) of the rectifier
 ---
 **Center-Tapped Transformers**
