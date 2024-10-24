@@ -16,3 +16,4 @@
 Ripple Voltage or AC Variation at the output of a capacitor filter is equal to the $\Delta V_c$ where
 ![[Capacitor Filters.png]]
 ![[Pasted image 20241024103303.png]]
+![[Pasted image 20241024103443.png]]
