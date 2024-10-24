@@ -9,7 +9,10 @@
 		{"id":"bf60fb7bac8bd3ec","type":"text","text":"Miles DC Power Supply Project","x":-40,"y":-980,"width":411,"height":60},
 		{"id":"72665254f8e4f5ef","type":"file","file":"Pastes/Pasted image 20241023144305.png","x":-19,"y":-800,"width":390,"height":279},
 		{"id":"090f09bc931ab6dc","type":"text","text":"# DC Regulated Power Suppply","x":-681,"y":-521,"width":441,"height":81},
-		{"id":"5a9832e30365d14f","type":"file","file":"Pasted image 20241024154613.png","x":671,"y":-1057,"width":1600,"height":617}
+		{"id":"5a9832e30365d14f","type":"file","file":"Pastes/Pasted image 20241024154613.png","x":671,"y":-1057,"width":1600,"height":617},
+		{"id":"ca905527044738ed","type":"file","file":"Pastes/Pasted image 20241024155359.png","x":1720,"y":-258,"width":400,"height":256},
+		{"id":"f4d31c4a5789f3a9","type":"file","file":"Pastes/Pasted image 20241024155444.png","x":1071,"y":-258,"width":400,"height":192},
+		{"id":"8dcf3089a6869f3a","x":1720,"y":20,"width":400,"height":60,"type":"text","text":"The peak voltage is not 12, why is that?"}
 	],
 	"edges":[
 		{"id":"bcd2f982b9362c50","fromNode":"bf60fb7bac8bd3ec","fromSide":"left","toNode":"72665254f8e4f5ef","toSide":"left"},
@@ -19,6 +22,8 @@
 		{"id":"92cf8a309fae279b","fromNode":"090f09bc931ab6dc","fromSide":"bottom","toNode":"4e20c03e000f15cb","toSide":"top"},
 		{"id":"534da523f20e7aae","fromNode":"090f09bc931ab6dc","fromSide":"right","toNode":"076ccd3a0ac88927","toSide":"top"},
 		{"id":"e2400759333ac9bc","fromNode":"4e20c03e000f15cb","fromSide":"left","toNode":"b94d67876a7e8c79","toSide":"left"},
-		{"id":"1e3d5ef43db7e040","fromNode":"076ccd3a0ac88927","fromSide":"left","toNode":"9c98feebfdc79778","toSide":"top"}
+		{"id":"1e3d5ef43db7e040","fromNode":"076ccd3a0ac88927","fromSide":"left","toNode":"9c98feebfdc79778","toSide":"top"},
+		{"id":"ce8be41b0e160e91","fromNode":"f4d31c4a5789f3a9","fromSide":"right","toNode":"ca905527044738ed","toSide":"left"},
+		{"id":"45ba8dfbe1b98a76","fromNode":"076ccd3a0ac88927","fromSide":"right","toNode":"f4d31c4a5789f3a9","toSide":"left"}
 	]
 }

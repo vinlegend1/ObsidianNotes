@@ -11,27 +11,13 @@
             "id": "7c46dfba79126d48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DLSU/Term 7/ELECME1/Rectifiers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rectifiers"
-            }
-          },
-          {
-            "id": "779197e7146e63fc",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
                 "file": "DLSU/Term 7/ELECME1/DC Regulated Power Supply.canvas",
                 "viewState": {
-                  "x": 715.5,
-                  "y": 61.5,
-                  "zoom": -2.289455091451988
+                  "x": 1898.1824862556443,
+                  "y": 119.42362283507617,
+                  "zoom": 1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -39,7 +25,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -194,13 +179,15 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "779197e7146e63fc",
+  "active": "7c46dfba79126d48",
   "lastOpenFiles": [
+    "Pastes/Pasted image 20241024155444.png",
+    "DLSU/Term 7/ELECME1/DC Regulated Power Supply.canvas",
+    "Pastes/Pasted image 20241024155359.png",
     "DLSU/Term 7/ELECME1/Rectifiers.md",
     "DLSU/Term 7/ELECME1/Voltage Regulator.md",
-    "DLSU/Term 7/ELECME1/DC Regulated Power Supply.canvas",
-    "Pasted image 20241024154613.png",
-    "Pasted image 20241024154532.png",
+    "Pastes/Pasted image 20241024154613.png",
+    "Pastes/Pasted image 20241024154532.png",
     "DLSU/Term 7/ELECME1/EE Software.canvas",
     "Omnivore/2024-10-24/Voltage Regulation - Transformers - Electronics Textbook.md",
     "DLSU/Term 7/ELECME1/Transformers.md",
@@ -224,8 +211,6 @@
     "Pastes/20241024 115732.png",
     "Pastes/20241024 115645.png",
     "Pastes/20241024 115515.png",
-    "Pastes/20241024 115411.png",
-    "Pastes/20241024 115323.png",
     "20241024 115057.md",
     "20241024 114616.md",
     "DLSU/Term 7/ELECME1/Capacitor Filters.md",
