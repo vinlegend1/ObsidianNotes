@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"076ccd3a0ac88927","type":"file","file":"ELECME1/Rectifiers.md","x":140,"y":-258,"width":680,"height":458},
 		{"id":"3f11f9cbacd83af6","type":"file","file":"ELECME1/Transformers.md","x":-319,"y":-258,"width":379,"height":358},
-		{"id":"72665254f8e4f5ef","type":"file","file":"Pasted image 20241023144305.png","x":-329,"y":-600,"width":400,"height":286},
+		{"id":"72665254f8e4f5ef","type":"file","file":"Pastes/Pasted image 20241023144305.png","x":-329,"y":-600,"width":400,"height":286},
 		{"id":"bf60fb7bac8bd3ec","type":"text","text":"Miles DC Power Supply Project","x":-329,"y":-700,"width":411,"height":60}
 	],
 	"edges":[

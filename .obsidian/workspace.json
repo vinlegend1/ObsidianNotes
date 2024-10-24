@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "ELECME1/EE Software.canvas",
+                "file": "ELECME1/DC Regulated Power Supply.canvas",
                 "viewState": {
-                  "x": 65.51168280291412,
-                  "y": 41.69571540692104,
-                  "zoom": -0.11070346440621968
+                  "x": 245.5,
+                  "y": -250,
+                  "zoom": -0.5877046161409042
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "EE Software"
+              "title": "DC Regulated Power Supply"
             }
           }
         ],
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELECME1/EE Software.canvas",
+                "file": "ELECME1/DC Regulated Power Supply.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for EE Software"
+              "title": "Backlinks for DC Regulated Power Supply"
             }
           },
           {
@@ -151,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELECME1/EE Software.canvas",
+                "file": "ELECME1/DC Regulated Power Supply.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from EE Software"
+              "title": "Outgoing links from DC Regulated Power Supply"
             }
           }
         ],
@@ -177,16 +177,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4eba22e1a784ced3",
+  "active": "d2d46d10eca1e3ea",
   "lastOpenFiles": [
+    "Pastes/Pasted image 20241023141724.png",
+    "ELECME1/EE Software.canvas",
+    "Pastes",
     "ELECME1/Rectifiers.md",
     "ELECME1/Capacitor Filters.md",
-    "Pasted image 20241023214325.png",
-    "Pasted image 20241023214122.png",
-    "Pasted image 20241023213858.png",
-    "Pasted image 20241023212530.png",
-    "Pasted image 20241023212523.png",
-    "Pasted image 20241023212332.png",
+    "Pastes/Pasted image 20241023214325.png",
+    "Pastes/Pasted image 20241023214122.png",
+    "Pastes/Pasted image 20241023213858.png",
+    "Pastes/Pasted image 20241023212530.png",
+    "Pastes/Pasted image 20241023212523.png",
+    "Pastes/Pasted image 20241023212332.png",
     "DC REGULATED POWER SUPPLY.ppt",
     "DC REGULATED POWER SUPPLY(PART3).ppt",
     "DC REGULATED POWER SUPPLY(PART3) 3.ppt",
@@ -195,18 +198,16 @@
     "DC REGULATED POWER SUPPLY 1.ppt",
     "DC REGULATED POWER SUPPLY (PART2).ppt",
     "DC REGULATED POWER SUPPLY (PART2) 1.ppt",
-    "ELECME1/EE Software.canvas",
     "ELECME1/DC Regulated Power Supply.canvas",
-    "Pasted image 20241023191002.png",
-    "Pasted image 20241023190856.png",
-    "Pasted image 20241023185213.png",
+    "Pastes/Pasted image 20241023191002.png",
+    "Pastes/Pasted image 20241023190856.png",
+    "Pastes/Pasted image 20241023185213.png",
     "Daily/2024-10-23.md",
     "Automation/Script for MES Membership Card AY 24-25.md",
     "VIBEENG/Rjaymz Notes/VIBEENG-Long-Exam-2-Notes.pdf",
-    "VIBEENG/Rjaymz Notes/VIBEENG-Long-Exam-3-Notes.pdf",
     "ELECME1/Transformers.md",
     "Welcome.md",
-    "Pasted image 20241023151553.png",
+    "Pastes/Pasted image 20241023151553.png",
     "ELECME1/EDA, SPICE Simulations, and EE Softwares.md",
     "ELECME1/DC Regulated Voltage Supply.md",
     "2024-10-23.md",
