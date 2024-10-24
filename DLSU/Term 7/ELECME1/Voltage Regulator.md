@@ -18,5 +18,6 @@ From figure 6.43, we can see that a Zener diode is like an ordinary silicon diod
 	- hence, it can function as a voltage regulator
 	- $$I_{smax} = I_{zmax} + I_L$$
 	-  $$I_{smin} = I_{zmin} + I_L$$
-	- 
+	- We need to know the value of R_s that will ensure regulation at minimum input voltage conditions:
+	- $$R_s = \frac{V_{imin}-V_z}{I_{smin}}$$
 ![[20241024 11603.png]]
