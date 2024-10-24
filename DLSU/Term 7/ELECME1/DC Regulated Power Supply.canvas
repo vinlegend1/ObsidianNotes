@@ -9,7 +9,7 @@
 		{"id":"bf60fb7bac8bd3ec","type":"text","text":"Miles DC Power Supply Project","x":-40,"y":-980,"width":411,"height":60},
 		{"id":"72665254f8e4f5ef","type":"file","file":"Pastes/Pasted image 20241023144305.png","x":-19,"y":-800,"width":390,"height":279},
 		{"id":"090f09bc931ab6dc","type":"text","text":"# DC Regulated Power Suppply","x":-681,"y":-521,"width":441,"height":81},
-		{"id":"5a9832e30365d14f","x":671,"y":-1057,"width":1600,"height":617,"type":"file","file":"Pasted image 20241024154613.png"}
+		{"id":"5a9832e30365d14f","type":"file","file":"Pasted image 20241024154613.png","x":671,"y":-1057,"width":1600,"height":617}
 	],
 	"edges":[
 		{"id":"bcd2f982b9362c50","fromNode":"bf60fb7bac8bd3ec","fromSide":"left","toNode":"72665254f8e4f5ef","toSide":"left"},

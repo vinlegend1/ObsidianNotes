@@ -11,13 +11,27 @@
             "id": "7c46dfba79126d48",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DLSU/Term 7/ELECME1/Rectifiers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rectifiers"
+            }
+          },
+          {
+            "id": "779197e7146e63fc",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
                 "file": "DLSU/Term 7/ELECME1/DC Regulated Power Supply.canvas",
                 "viewState": {
-                  "x": 410.19291899573693,
-                  "y": 245.19519290000108,
-                  "zoom": -1.2314404402081907
+                  "x": 715.5,
+                  "y": 61.5,
+                  "zoom": -2.289455091451988
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -25,6 +39,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -179,15 +194,16 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "7c46dfba79126d48",
+  "active": "779197e7146e63fc",
   "lastOpenFiles": [
+    "DLSU/Term 7/ELECME1/Rectifiers.md",
+    "DLSU/Term 7/ELECME1/Voltage Regulator.md",
+    "DLSU/Term 7/ELECME1/DC Regulated Power Supply.canvas",
     "Pasted image 20241024154613.png",
     "Pasted image 20241024154532.png",
-    "DLSU/Term 7/ELECME1/Voltage Regulator.md",
     "DLSU/Term 7/ELECME1/EE Software.canvas",
     "Omnivore/2024-10-24/Voltage Regulation - Transformers - Electronics Textbook.md",
     "DLSU/Term 7/ELECME1/Transformers.md",
-    "DLSU/Term 7/ELECME1/DC Regulated Power Supply.canvas",
     "Omnivore/2024-10-24/How to Learn Any Skill Quickly (and Forever).md",
     "Omnivore/2024-10-24/Lecture 09a-Velocity Triangle & Pumps.md",
     "Omnivore/2024-10-24/Ripple Voltage.md",
@@ -211,10 +227,8 @@
     "Pastes/20241024 115411.png",
     "Pastes/20241024 115323.png",
     "20241024 115057.md",
-    "Pastes/20241024 115057.png",
     "20241024 114616.md",
     "DLSU/Term 7/ELECME1/Capacitor Filters.md",
-    "DLSU/Term 7/ELECME1/Rectifiers.md",
     "Omnivore/2024-10-24/The Secret Power of ‘Read It Later’ Apps.md",
     "Omnivore/2024-10-24/Organize your Omnivore library with labels.md",
     "Omnivore/2024-10-24/Getting Started with Omnivore.md",
