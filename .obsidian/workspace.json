@@ -15,8 +15,8 @@
               "state": {
                 "file": "ELECME1/EE Software.canvas",
                 "viewState": {
-                  "x": 240,
-                  "y": -29.999999999999986,
+                  "x": 65.51168280291412,
+                  "y": 41.69571540692104,
                   "zoom": -0.11070346440621968
                 }
               },
@@ -177,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2d46d10eca1e3ea",
+  "active": "4eba22e1a784ced3",
   "lastOpenFiles": [
     "ELECME1/Rectifiers.md",
     "ELECME1/Capacitor Filters.md",
