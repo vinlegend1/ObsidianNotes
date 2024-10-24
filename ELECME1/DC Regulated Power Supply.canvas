@@ -4,8 +4,9 @@
 		{"id":"3f11f9cbacd83af6","type":"file","file":"ELECME1/Transformers.md","x":-319,"y":-258,"width":379,"height":358},
 		{"id":"72665254f8e4f5ef","type":"file","file":"Pastes/Pasted image 20241023144305.png","x":-329,"y":-600,"width":400,"height":286},
 		{"id":"bf60fb7bac8bd3ec","type":"text","text":"Miles DC Power Supply Project","x":-329,"y":-700,"width":411,"height":60},
-		{"id":"4e20c03e000f15cb","x":-840,"y":-258,"width":400,"height":400,"type":"file","file":"ELECME1/Capacitor Filters.md"},
-		{"id":"b94d67876a7e8c79","type":"file","file":"Pastes/Pasted image 20241024114228.png","x":-840,"y":200,"width":400,"height":261}
+		{"id":"4e20c03e000f15cb","type":"file","file":"ELECME1/Capacitor Filters.md","x":-840,"y":-258,"width":400,"height":400},
+		{"id":"b94d67876a7e8c79","type":"file","file":"Pastes/Pasted image 20241024114228.png","x":-840,"y":200,"width":400,"height":261},
+		{"id":"9c98feebfdc79778","type":"file","file":"ELECME1/Voltage Regulator.md","x":-340,"y":200,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"bcd2f982b9362c50","fromNode":"bf60fb7bac8bd3ec","fromSide":"left","toNode":"72665254f8e4f5ef","toSide":"left"}
