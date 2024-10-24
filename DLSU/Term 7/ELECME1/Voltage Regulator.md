@@ -1,4 +1,4 @@
-## Cases
+v## Cases
 - **Case 1**: Variable V_i, fixed R_L
 	- The purpose of the Zener Diode is to output a constant voltage value of $V_z$
 	- hence, it can function as a voltage regulator
