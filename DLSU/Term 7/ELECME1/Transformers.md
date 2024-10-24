@@ -3,3 +3,5 @@ $$
 $$
 ![[Pasted image 20241023144810.png]]
 Step-Down, Step-Up Transformers :: lower voltage, less turns ratio for step-down
+ [[Voltage Regulation - Transformers - Electronics Textbook]]
+ 

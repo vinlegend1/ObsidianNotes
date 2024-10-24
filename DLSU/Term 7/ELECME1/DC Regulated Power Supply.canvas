@@ -2,13 +2,22 @@
 	"nodes":[
 		{"id":"076ccd3a0ac88927","type":"file","file":"DLSU/Term 7/ELECME1/Rectifiers.md","x":140,"y":-258,"width":680,"height":458},
 		{"id":"3f11f9cbacd83af6","type":"file","file":"DLSU/Term 7/ELECME1/Transformers.md","x":-319,"y":-258,"width":379,"height":358},
-		{"id":"72665254f8e4f5ef","type":"file","file":"Pastes/Pasted image 20241023144305.png","x":-329,"y":-600,"width":400,"height":286},
-		{"id":"bf60fb7bac8bd3ec","type":"text","text":"Miles DC Power Supply Project","x":-329,"y":-700,"width":411,"height":60},
 		{"id":"4e20c03e000f15cb","type":"file","file":"DLSU/Term 7/ELECME1/Capacitor Filters.md","x":-840,"y":-258,"width":400,"height":400},
 		{"id":"b94d67876a7e8c79","type":"file","file":"Pastes/Pasted image 20241024114228.png","x":-840,"y":200,"width":400,"height":261},
-		{"id":"9c98feebfdc79778","type":"file","file":"DLSU/Term 7/ELECME1/Voltage Regulator.md","x":-340,"y":200,"width":400,"height":400}
+		{"id":"9c98feebfdc79778","type":"file","file":"DLSU/Term 7/ELECME1/Voltage Regulator.md","x":-340,"y":200,"width":400,"height":400},
+		{"id":"d7aaae4a6a74d2a7","x":140,"y":260,"width":1062,"height":920,"type":"file","file":"Omnivore/2024-10-24/Voltage Regulation - Transformers - Electronics Textbook.md"},
+		{"id":"bf60fb7bac8bd3ec","type":"text","text":"Miles DC Power Supply Project","x":-40,"y":-980,"width":411,"height":60},
+		{"id":"72665254f8e4f5ef","type":"file","file":"Pastes/Pasted image 20241023144305.png","x":-19,"y":-800,"width":390,"height":279},
+		{"id":"090f09bc931ab6dc","x":-681,"y":-521,"width":441,"height":81,"type":"text","text":"# DC Regulated Power Suppply"}
 	],
 	"edges":[
-		{"id":"bcd2f982b9362c50","fromNode":"bf60fb7bac8bd3ec","fromSide":"left","toNode":"72665254f8e4f5ef","toSide":"left"}
+		{"id":"bcd2f982b9362c50","fromNode":"bf60fb7bac8bd3ec","fromSide":"left","toNode":"72665254f8e4f5ef","toSide":"left"},
+		{"id":"68de2d9592cedcc3","fromNode":"9c98feebfdc79778","fromSide":"bottom","toNode":"d7aaae4a6a74d2a7","toSide":"left"},
+		{"id":"5e4133944aea2790","fromNode":"72665254f8e4f5ef","fromSide":"right","toNode":"076ccd3a0ac88927","toSide":"top"},
+		{"id":"dd468365aa17a5b9","fromNode":"090f09bc931ab6dc","fromSide":"right","toNode":"3f11f9cbacd83af6","toSide":"top"},
+		{"id":"92cf8a309fae279b","fromNode":"090f09bc931ab6dc","fromSide":"bottom","toNode":"4e20c03e000f15cb","toSide":"top"},
+		{"id":"534da523f20e7aae","fromNode":"090f09bc931ab6dc","fromSide":"right","toNode":"076ccd3a0ac88927","toSide":"top"},
+		{"id":"e2400759333ac9bc","fromNode":"4e20c03e000f15cb","fromSide":"left","toNode":"b94d67876a7e8c79","toSide":"left"},
+		{"id":"1e3d5ef43db7e040","fromNode":"076ccd3a0ac88927","fromSide":"left","toNode":"9c98feebfdc79778","toSide":"top"}
 	]
 }
