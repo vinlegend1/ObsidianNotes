@@ -11,14 +11,17 @@
             "id": "d2d46d10eca1e3ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "ELECME1/Capacitor Filters.md",
-                "mode": "source",
-                "source": false
+                "file": "ELECME1/EE Software.canvas",
+                "viewState": {
+                  "x": 240,
+                  "y": -29.999999999999986,
+                  "zoom": -0.11070346440621968
+                }
               },
-              "icon": "lucide-file",
-              "title": "Capacitor Filters"
+              "icon": "lucide-layout-dashboard",
+              "title": "EE Software"
             }
           }
         ],
@@ -129,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELECME1/Capacitor Filters.md",
+                "file": "ELECME1/EE Software.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Capacitor Filters"
+              "title": "Backlinks for EE Software"
             }
           },
           {
@@ -148,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELECME1/Capacitor Filters.md",
+                "file": "ELECME1/EE Software.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Capacitor Filters"
+              "title": "Outgoing links from EE Software"
             }
           }
         ],
@@ -161,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,16 +179,24 @@
   },
   "active": "d2d46d10eca1e3ea",
   "lastOpenFiles": [
+    "ELECME1/Rectifiers.md",
+    "ELECME1/Capacitor Filters.md",
     "Pasted image 20241023214325.png",
     "Pasted image 20241023214122.png",
     "Pasted image 20241023213858.png",
-    "ELECME1/EE Software.canvas",
-    "ELECME1/DC Regulated Power Supply.canvas",
-    "ELECME1/Capacitor Filters.md",
     "Pasted image 20241023212530.png",
     "Pasted image 20241023212523.png",
     "Pasted image 20241023212332.png",
-    "ELECME1/Rectifiers.md",
+    "DC REGULATED POWER SUPPLY.ppt",
+    "DC REGULATED POWER SUPPLY(PART3).ppt",
+    "DC REGULATED POWER SUPPLY(PART3) 3.ppt",
+    "DC REGULATED POWER SUPPLY(PART3) 2.ppt",
+    "DC REGULATED POWER SUPPLY(PART3) 1.ppt",
+    "DC REGULATED POWER SUPPLY 1.ppt",
+    "DC REGULATED POWER SUPPLY (PART2).ppt",
+    "DC REGULATED POWER SUPPLY (PART2) 1.ppt",
+    "ELECME1/EE Software.canvas",
+    "ELECME1/DC Regulated Power Supply.canvas",
     "Pasted image 20241023191002.png",
     "Pasted image 20241023190856.png",
     "Pasted image 20241023185213.png",
@@ -194,19 +204,10 @@
     "Automation/Script for MES Membership Card AY 24-25.md",
     "VIBEENG/Rjaymz Notes/VIBEENG-Long-Exam-2-Notes.pdf",
     "VIBEENG/Rjaymz Notes/VIBEENG-Long-Exam-3-Notes.pdf",
-    "VIBEENG/Rjaymz Notes",
-    "VIBEENG/Rjaymz Notes/VIBEENG-Long-Exam-1-Notes.pdf",
-    "VIBEENG",
-    "03 - LBYEC3P Experiment 03 Group 2 Final Report.pdf",
-    "DC REGULATED POWER SUPPLY(PART3) 3.ppt",
-    "ELECME1/DC REGULATED POWER SUPPLY(PART3).ppt",
-    "DC REGULATED POWER SUPPLY(PART3) 2.ppt",
-    "DC REGULATED POWER SUPPLY 1.ppt",
     "ELECME1/Transformers.md",
     "Welcome.md",
     "Pasted image 20241023151553.png",
     "ELECME1/EDA, SPICE Simulations, and EE Softwares.md",
-    "Pasted image 20241023145248.png",
     "ELECME1/DC Regulated Voltage Supply.md",
     "2024-10-23.md",
     "Untitled.canvas",
