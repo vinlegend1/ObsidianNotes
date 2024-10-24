@@ -36,6 +36,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -190,10 +191,10 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "d2d46d10eca1e3ea",
+  "active": "cfdb9f0083a27c14",
   "lastOpenFiles": [
-    "ELECME1/Rectifiers.md",
     "ELECME1/Capacitor Filters.md",
+    "ELECME1/Rectifiers.md",
     "Pasted image 20241024104414.png",
     "Pasted image 20241024104344.png",
     "Pastes/Capacitor Filters-20241024.png",
