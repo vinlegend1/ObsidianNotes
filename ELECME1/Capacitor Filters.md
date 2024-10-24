@@ -7,7 +7,7 @@
 | **Capacitor-Voltage-Current Relationship** | ![[Pasted image 20241024104344.png]]                          |                | ![[Pasted image 20241024104414.png]] |
 | **Ripple Factor**                          | $V_{rrms} / V_{dc}$                                           |                |                                      |
 | **Peak-to-Peak Ripple Voltage**            | $I_{dc} / fC = V_{dc} / fR_LC$                                |                |                                      |
-| **Ripple RMS Voltage**                     |                                                               |                |                                      |
+| **Ripple RMS Voltage**                     | $V_{dc}/2\sqrt 3$                                             |                |                                      |
 
 ![[Pasted image 20241023212332.png]]
 ![[Pasted image 20241023212523.png]]
