@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2d46d10eca1e3ea",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "DLSU/Term 7/MECFLUM/GLA/Lecture 05-Angular Momentum.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 05-Angular Momentum"
-            }
-          },
-          {
             "id": "7c46dfba79126d48",
             "type": "leaf",
             "state": {
@@ -188,8 +176,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "d2d46d10eca1e3ea",
+  "active": "7c46dfba79126d48",
   "lastOpenFiles": [
+    "Pastes/20241024 11603.png",
+    "Pastes/20241024 11254.png",
+    "DLSU/Term 7/MECFLUM/GLA/Lecture 05-Angular Momentum.pdf",
     "DLSU/Term 7/MECFLUM/GLA/Lecture 06-Buckingham&Rayleigh Methods.pdf",
     "DLSU/Term 7/MECFLUM/GLA/Lecture 04b-Solutions_Exercise 301.pdf",
     "DLSU/Term 7/MECFLUM/GLA/Lecture 01a-Governing Equations_EE1.pdf",
@@ -199,8 +190,6 @@
     "DLSU/Term 7/MECFLUM/GLA/Lecture 09a-Velocity Triangle & Pumps.pdf.crdownload",
     "DLSU/Term 7/MECFLUM/GLA/241017-MECFLUM_Fluid Machinery_gerryaugusto_7-9.pdf",
     "DLSU/Term 7/MECFLUM/GLA/241017-PumpRequirementsData_2Tanks with Pump.xlsx",
-    "DLSU/Term 7/MECFLUM/GLA/Unconfirmed 675769.crdownload",
-    "DLSU/Term 7/MECFLUM/GLA/241017-MECFLUM_Fluid Machinery_gerryaugusto_7-9.pdf.crdownload",
     "Untitled.md",
     "DLSU/Term 7/ELECME1/DC Regulated Power Supply.canvas",
     "DLSU/Term 7/ELECME1/Voltage Regulator.md",
@@ -215,7 +204,6 @@
     "Pastes/20241024 114849.png",
     "Pastes/20241024 114846.png",
     "Pastes/20241024 114616.png",
-    "Pastes/Pasted image 20241024114228.png",
     "DLSU/Term 7/ELECME1/Capacitor Filters.md",
     "DLSU/Term 7/ELECME1/Rectifiers.md",
     "Omnivore/2024-10-24/The Secret Power of ‘Read It Later’ Apps.md",

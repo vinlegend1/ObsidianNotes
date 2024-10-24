@@ -11,3 +11,11 @@ From figure 6.43, we can see that a Zener diode is like an ordinary silicon diod
 ![[20241024 115411.png]]
 ## Equivalent Circuit of Zener
 ![[20241024 115645.png]]
+## Cases
+![[20241024 11254.png]]
+- **Case 1**: Variable V_i, fixed R_L
+	- The purpose of the Zener Diode is to output a constant voltage value of $V_z$
+	- hence, it can function as a voltage regulator
+	- $$I_{smax} = I_{zmax} + I_L$$
+	-  $$I_{smin} = I_{zmin} + I_L$$
+![[20241024 11603.png]]
