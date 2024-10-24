@@ -8,6 +8,7 @@
 | **Ripple Factor**                          | $V_{rrms} / V_{dc}$                                           |                |                                      |
 | **Peak-to-Peak Ripple Voltage**            | $I_{dc} / fC = V_{dc} / fR_LC$                                |                |                                      |
 | **Ripple RMS Voltage**                     | $V_{dc}/2\sqrt 3$                                             |                |                                      |
+| $V_{dc}$                                   | $V_m - V_{r(p-p)}$                                            |                |                                      |
 
 ![[Pasted image 20241023212332.png]]
 ![[Pasted image 20241023212523.png]]
