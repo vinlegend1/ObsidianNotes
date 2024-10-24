@@ -17,7 +17,10 @@
 		{"id":"b58b3e7d9f18029d","x":1720,"y":220,"width":400,"height":250,"type":"file","file":"Pasted image 20241024160432.png"},
 		{"id":"213dd461b573a3f6","x":1540,"y":220,"width":140,"height":60,"type":"text","text":"$R_L = 10k \\Omega$"},
 		{"id":"42c6bd5898d342ea","type":"file","file":"Pasted image 20241024162524.png","x":-841,"y":600,"width":399,"height":203},
-		{"id":"035490f3c361618a","type":"text","text":"The higher the capacitance, the higher Vdc. Vdc depends on the ripple through the two formulas found below\n[[Capacitor Filters]]","x":-841,"y":851,"width":320,"height":140}
+		{"id":"035490f3c361618a","type":"text","text":"The higher the capacitance, the higher Vdc. Vdc depends on the ripple through the two formulas found below\n[[Capacitor Filters]]","x":-841,"y":851,"width":320,"height":140},
+		{"id":"2e70d9359bca4868","x":-1420,"y":480,"width":400,"height":269,"type":"file","file":"Pasted image 20241024163405.png"},
+		{"id":"15f1fafd7937e0d1","x":-1360,"y":851,"width":400,"height":265,"type":"file","file":"Pasted image 20241024163514.png"},
+		{"id":"43e8b34f5b218660","x":-1200,"y":360,"width":250,"height":60,"type":"text","text":"# RC Filters"}
 	],
 	"edges":[
 		{"id":"bcd2f982b9362c50","fromNode":"bf60fb7bac8bd3ec","fromSide":"left","toNode":"72665254f8e4f5ef","toSide":"left"},
