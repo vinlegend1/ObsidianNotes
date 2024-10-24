@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "ELECME1/DC Regulated Power Supply.canvas",
+                "file": "ELECME1/EE Software.canvas",
                 "viewState": {
-                  "x": 245.5,
-                  "y": -250,
-                  "zoom": -0.5877046161409042
+                  "x": 240,
+                  "y": -30,
+                  "zoom": -0.5508245504397572
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "DC Regulated Power Supply"
+              "title": "EE Software"
             }
           }
         ],
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ELECME1/DC Regulated Power Supply.canvas",
+                "file": "ELECME1/EE Software.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DC Regulated Power Supply"
+              "title": "Backlinks for EE Software"
             }
           },
           {
@@ -151,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ELECME1/DC Regulated Power Supply.canvas",
+                "file": "ELECME1/EE Software.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DC Regulated Power Supply"
+              "title": "Outgoing links from EE Software"
             }
           }
         ],
@@ -179,6 +179,9 @@
   },
   "active": "d2d46d10eca1e3ea",
   "lastOpenFiles": [
+    "Daily/2024-10-23.md",
+    "ELECME1/Transformers.md",
+    "ELECME1/DC Regulated Power Supply.canvas",
     "Pastes/Pasted image 20241023141724.png",
     "ELECME1/EE Software.canvas",
     "Pastes",
@@ -198,16 +201,12 @@
     "DC REGULATED POWER SUPPLY 1.ppt",
     "DC REGULATED POWER SUPPLY (PART2).ppt",
     "DC REGULATED POWER SUPPLY (PART2) 1.ppt",
-    "ELECME1/DC Regulated Power Supply.canvas",
     "Pastes/Pasted image 20241023191002.png",
     "Pastes/Pasted image 20241023190856.png",
     "Pastes/Pasted image 20241023185213.png",
-    "Daily/2024-10-23.md",
     "Automation/Script for MES Membership Card AY 24-25.md",
     "VIBEENG/Rjaymz Notes/VIBEENG-Long-Exam-2-Notes.pdf",
-    "ELECME1/Transformers.md",
     "Welcome.md",
-    "Pastes/Pasted image 20241023151553.png",
     "ELECME1/EDA, SPICE Simulations, and EE Softwares.md",
     "ELECME1/DC Regulated Voltage Supply.md",
     "2024-10-23.md",
