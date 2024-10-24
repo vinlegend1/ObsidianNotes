@@ -11,17 +11,14 @@
             "id": "7c46dfba79126d48",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DLSU/Term 7/ELECME1/DC Regulated Power Supply.canvas",
-                "viewState": {
-                  "x": -0.011347624974725079,
-                  "y": 599.9188237757821,
-                  "zoom": -1.1116031570190055
-                }
+                "file": "Omnivore/2024-10-24/What Is a Low Pass Filter- A Tutorial on the Basics of Passive RC Filters - Technical Articles.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "DC Regulated Power Supply"
+              "icon": "lucide-file",
+              "title": "What Is a Low Pass Filter- A Tutorial on the Basics of Passive RC Filters - Technical Articles"
             }
           },
           {
@@ -209,12 +206,13 @@
   },
   "active": "7c46dfba79126d48",
   "lastOpenFiles": [
+    "DLSU/Term 7/ELECME1/DC Regulated Power Supply.canvas",
+    "Omnivore/2024-10-24/What Is a Low Pass Filter- A Tutorial on the Basics of Passive RC Filters - Technical Articles.md",
     "Pasted image 20241024163514.png",
     "Pasted image 20241024163405.png",
     "Pasted image 20241024162524.png",
     "DLSU/Term 7/ELECME1/Rectifiers.md",
     "DLSU/Term 7/ELECME1/Capacitor Filters.md",
-    "DLSU/Term 7/ELECME1/DC Regulated Power Supply.canvas",
     "Pasted image 20241024160432.png",
     "Pastes/Pasted image 20241024155444.png",
     "Pastes/Pasted image 20241024155359.png",
@@ -229,7 +227,6 @@
     "Omnivore/2024-10-24/Ripple Voltage.md",
     "Pastes/20241024 12909.png",
     "Pastes/20241024 11603.png",
-    "Pastes/20241024 11254.png",
     "DLSU/Term 7/MECFLUM/GLA/Lecture 05-Angular Momentum.pdf",
     "DLSU/Term 7/MECFLUM/GLA/Lecture 06-Buckingham&Rayleigh Methods.pdf",
     "DLSU/Term 7/MECFLUM/GLA/Lecture 04b-Solutions_Exercise 301.pdf",
