@@ -1,8 +1,24 @@
-# Zener Diode
+## Cases
+- **Case 1**: Variable V_i, fixed R_L
+	- The purpose of the Zener Diode is to output a constant voltage value of $V_z$
+	- hence, it can function as a voltage regulator
+	- $$I_{smax} = I_{zmax} + I_L$$
+	-  $$I_{smin} = I_{zmin} + I_L$$
+- We need to know the value of R_s that will ensure regulation at minimum and maximum input voltage conditions:
+	- $$R_s = \frac{V_{imin}-V_z}{I_{smin}}$$
+	- $$R_s = \frac{V_{imax}-V_z}{I_{smax}}$$
+- **Case 2**: Variable V_i, Variable R_L
+	- $$I_{smax} = I_{zmax} + I_{Lmin}$$
+	- $$I_{smin} = I_{zmin} + I_{Lmax}$$
+- Voltage Regulation
+	- The ability of a power supply to resist variation on its output voltage as the load changes is known as **voltage regulation**
+	- ![[20241024 12909.png]]
+![[20241024 11603.png]]
 ![[20241024 115732.png]]
 ![[20241024 114616.png]]
 VOLTAGE REGULATOR It is possible to reduce the ripple voltage by increasing the value of the capacitor filter. However, as the value of the capacitance is increased, it becomes bulky. ~Aside form this, the diode’s peak current increases sharply. In order to obtain a constant DC voltage across the load, the output of the capacitor filter should be passed through a voltage regulator. The simplest type of regulator is shown in figure 6.41 that employs a Zener diode. Is —_ + Rs Iz l l Ir + . + Y, Vi Vl_ Ry o - Figure 6.41 Zener Diode Regulator Circuit
 
+## Zener Diode
 ![[20241024 115057.png]]
 ZENER DIODE Zener diode is a special type of diode that is well designed to operate in the reverse breakdown region, also known as the Zener region. The schematic symbol for a Zener diode is shown in figure 6.42 and its characteristic curve is shown in figure 6.43. %K A Figure 6.42 Schematic symbol of a Zener diode k
 ## Operation of Zener Diode
@@ -11,14 +27,3 @@ From figure 6.43, we can see that a Zener diode is like an ordinary silicon diod
 ![[20241024 115411.png]]
 ## Equivalent Circuit of Zener
 ![[20241024 115645.png]]
-## Cases
-![[20241024 11254.png]]
-- **Case 1**: Variable V_i, fixed R_L
-	- The purpose of the Zener Diode is to output a constant voltage value of $V_z$
-	- hence, it can function as a voltage regulator
-	- $$I_{smax} = I_{zmax} + I_L$$
-	-  $$I_{smin} = I_{zmin} + I_L$$
-	- We need to know the value of R_s that will ensure regulation at minimum input voltage conditions:
-	- $$R_s = \frac{V_{imin}-V_z}{I_{smin}}$$
-- **Case 2**: Variable V_i, Variable R_L
-![[20241024 11603.png]]
