@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "VIBEENG/GLA/Lecture 01-Simple Harmonic Motion_Part2.pdf"
+                "file": "DLSU/Term 7/VIBEENG/GLA/Lecture 01-Simple Harmonic Motion_Part2.pdf"
               },
               "icon": "lucide-file-text",
               "title": "Lecture 01-Simple Harmonic Motion_Part2"
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELECME1/Voltage Regulator.md",
+                "file": "DLSU/Term 7/ELECME1/Voltage Regulator.md",
                 "mode": "source",
                 "source": false
               },
@@ -188,18 +188,21 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "d2d46d10eca1e3ea",
+  "active": "aaf4ee864cd336d4",
   "lastOpenFiles": [
-    "ELECME1/DC Regulated Power Supply.canvas",
-    "VIBEENG/GLA/240916-VIBEENG_RKN_L01b.xlsx",
-    "VIBEENG/GLA/Lecture 01-Simple Harmonic Motion_Part2.pdf",
-    "VIBEENG/GLA/Unconfirmed 308038.crdownload",
-    "VIBEENG/GLA/Lecture 01-Simple Harmonic Motion_Part2.pdf.crdownload",
-    "VIBEENG/GLA/Lecture 01-Simple Harmonic Motion_LEM.pdf",
-    "VIBEENG/GLA/Lecture 01-Simple Harmonic Motion_LEM.pdf.crdownload",
-    "VIBEENG/GLA/Lecture 01-Simple Harmonic Motion.pdf",
-    "VIBEENG/GLA",
-    "ELECME1/Voltage Regulator.md",
+    "DLSU/Term 7",
+    "Untitled",
+    "DLSU/Term 7/VIBEENG/GLA/Lecture 02_03-2DOF Conservative System.pdf",
+    "DLSU",
+    "DLSU/Term 7/VIBEENG/GLA/Lecture 04-SHM_Exercise 01.pdf",
+    "DLSU/Term 7/ELECME1/Dona-PPT/DC REGULATED POWER SUPPLY.ppt",
+    "DLSU/Term 7/ELECME1/Dona-PPT/DC REGULATED POWER SUPPLY (PART2).ppt",
+    "DLSU/Term 7/VIBEENG/GLA/Lecture 02-SDOF Pendulum & 2-DOF System using LEM.pdf",
+    "VIBEENG/GLA/Lecture 04-SHM_Exercise 01.pdf.crdownload",
+    "VIBEENG/GLA/Lecture 02_03-2DOF Conservative System.pdf.crdownload",
+    "DLSU/Term 7/VIBEENG/GLA/240919-VIBEENG_RKN_L01b & L02.xlsx",
+    "DLSU/Term 7/ELECME1/DC Regulated Power Supply.canvas",
+    "DLSU/Term 7/ELECME1/Voltage Regulator.md",
     "Pastes/20241024 115732.png",
     "Pastes/20241024 115645.png",
     "Pastes/20241024 115515.png",
@@ -212,16 +215,14 @@
     "Pastes/20241024 114846.png",
     "Pastes/20241024 114616.png",
     "Pastes/Pasted image 20241024114228.png",
-    "ELECME1/Capacitor Filters.md",
-    "ELECME1/Rectifiers.md",
+    "DLSU/Term 7/ELECME1/Capacitor Filters.md",
+    "DLSU/Term 7/ELECME1/Rectifiers.md",
     "Omnivore/2024-10-24/The Secret Power of ‘Read It Later’ Apps.md",
     "Omnivore/2024-10-24/Organize your Omnivore library with labels.md",
     "Omnivore/2024-10-24/Getting Started with Omnivore.md",
-    "Omnivore/2024-10-24",
-    "Omnivore",
-    "ELECME1/EE Software.canvas",
+    "DLSU/Term 7/ELECME1/EE Software.canvas",
     "Daily/2024-10-23.md",
-    "ELECME1/Transformers.md",
+    "DLSU/Term 7/ELECME1/Transformers.md",
     "Automation/Script for MES Membership Card AY 24-25.md",
     "Welcome.md",
     "ELECME1/EDA, SPICE Simulations, and EE Softwares.md",

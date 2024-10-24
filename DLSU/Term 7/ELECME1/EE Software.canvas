@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"aec2d2ca244c7b0f","x":-320,"y":-180,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=abyxz8jfgK4"},
+		{"id":"92baadd9e974fb41","x":400,"y":-180,"width":400,"height":400,"type":"link","url":"https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html"},
+		{"id":"6287aee6d0f90b4b","x":-320,"y":-280,"width":250,"height":60,"type":"text","text":"# LTspice"}
+	],
+	"edges":[]
+}
