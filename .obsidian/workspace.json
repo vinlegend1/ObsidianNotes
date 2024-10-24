@@ -15,8 +15,8 @@
               "state": {
                 "file": "DLSU/Term 7/ELECME1/DC Regulated Power Supply.canvas",
                 "viewState": {
-                  "x": 597.9110042654719,
-                  "y": 408.7435732682303,
+                  "x": 2437.2656947035134,
+                  "y": 177.9365210885383,
                   "zoom": -0.18214166670579268
                 }
               },
@@ -53,7 +53,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -208,11 +207,13 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "fc4243ae708f69a2",
+  "active": "7c46dfba79126d48",
   "lastOpenFiles": [
+    "Pasted image 20241024162524.png",
+    "DLSU/Term 7/ELECME1/Rectifiers.md",
+    "DLSU/Term 7/ELECME1/Capacitor Filters.md",
     "DLSU/Term 7/ELECME1/DC Regulated Power Supply.canvas",
     "Pasted image 20241024160432.png",
-    "DLSU/Term 7/ELECME1/Rectifiers.md",
     "Pastes/Pasted image 20241024155444.png",
     "Pastes/Pasted image 20241024155359.png",
     "DLSU/Term 7/ELECME1/Voltage Regulator.md",
@@ -242,7 +243,6 @@
     "Pastes/20241024 115645.png",
     "20241024 115057.md",
     "20241024 114616.md",
-    "DLSU/Term 7/ELECME1/Capacitor Filters.md",
     "Omnivore/2024-10-24/The Secret Power of ‘Read It Later’ Apps.md",
     "Omnivore/2024-10-24/Organize your Omnivore library with labels.md",
     "Omnivore/2024-10-24/Getting Started with Omnivore.md",
