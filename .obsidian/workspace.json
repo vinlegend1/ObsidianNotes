@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ELECME1/Capacitor Filters.md",
+                "file": "Omnivore/2024-10-24/The Secret Power of ‘Read It Later’ Apps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capacitor Filters"
+              "title": "The Secret Power of ‘Read It Later’ Apps"
             }
           }
         ],
@@ -171,11 +171,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-omnivore:Omnivore": false
     }
   },
   "active": "d2d46d10eca1e3ea",
   "lastOpenFiles": [
+    "Omnivore/2024-10-24/Organize your Omnivore library with labels.md",
+    "Omnivore/2024-10-24/Getting Started with Omnivore.md",
+    "ELECME1/Capacitor Filters.md",
+    "Omnivore/2024-10-24/The Secret Power of ‘Read It Later’ Apps.md",
+    "Omnivore/2024-10-24",
+    "Omnivore",
     "ELECME1/EE Software.canvas",
     "Daily/2024-10-23.md",
     "ELECME1/Transformers.md",
@@ -183,7 +190,6 @@
     "Pastes/Pasted image 20241023141724.png",
     "Pastes",
     "ELECME1/Rectifiers.md",
-    "ELECME1/Capacitor Filters.md",
     "Pastes/Pasted image 20241023214325.png",
     "Pastes/Pasted image 20241023214122.png",
     "Pastes/Pasted image 20241023213858.png",
@@ -197,12 +203,10 @@
     "DC REGULATED POWER SUPPLY(PART3) 1.ppt",
     "DC REGULATED POWER SUPPLY 1.ppt",
     "DC REGULATED POWER SUPPLY (PART2).ppt",
-    "DC REGULATED POWER SUPPLY (PART2) 1.ppt",
     "Pastes/Pasted image 20241023191002.png",
     "Pastes/Pasted image 20241023190856.png",
     "Pastes/Pasted image 20241023185213.png",
     "Automation/Script for MES Membership Card AY 24-25.md",
-    "VIBEENG/Rjaymz Notes/VIBEENG-Long-Exam-2-Notes.pdf",
     "Welcome.md",
     "ELECME1/EDA, SPICE Simulations, and EE Softwares.md",
     "ELECME1/DC Regulated Voltage Supply.md",
