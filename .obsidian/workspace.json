@@ -11,17 +11,12 @@
             "id": "d2d46d10eca1e3ea",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "ELECME1/DC Regulated Power Supply.canvas",
-                "viewState": {
-                  "x": 319.6175846729947,
-                  "y": 220.58393992279227,
-                  "zoom": -0.7583558115943804
-                }
+                "file": "VIBEENG/GLA/Lecture 01-Simple Harmonic Motion_Part2.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "DC Regulated Power Supply"
+              "icon": "lucide-file-text",
+              "title": "Lecture 01-Simple Harmonic Motion_Part2"
             }
           },
           {
@@ -195,6 +190,15 @@
   },
   "active": "d2d46d10eca1e3ea",
   "lastOpenFiles": [
+    "ELECME1/DC Regulated Power Supply.canvas",
+    "VIBEENG/GLA/240916-VIBEENG_RKN_L01b.xlsx",
+    "VIBEENG/GLA/Lecture 01-Simple Harmonic Motion_Part2.pdf",
+    "VIBEENG/GLA/Unconfirmed 308038.crdownload",
+    "VIBEENG/GLA/Lecture 01-Simple Harmonic Motion_Part2.pdf.crdownload",
+    "VIBEENG/GLA/Lecture 01-Simple Harmonic Motion_LEM.pdf",
+    "VIBEENG/GLA/Lecture 01-Simple Harmonic Motion_LEM.pdf.crdownload",
+    "VIBEENG/GLA/Lecture 01-Simple Harmonic Motion.pdf",
+    "VIBEENG/GLA",
     "ELECME1/Voltage Regulator.md",
     "Pastes/20241024 115732.png",
     "Pastes/20241024 115645.png",
@@ -203,7 +207,6 @@
     "Pastes/20241024 115323.png",
     "20241024 115057.md",
     "Pastes/20241024 115057.png",
-    "ELECME1/DC Regulated Power Supply.canvas",
     "20241024 114616.md",
     "Pastes/20241024 114849.png",
     "Pastes/20241024 114846.png",
@@ -219,14 +222,6 @@
     "ELECME1/EE Software.canvas",
     "Daily/2024-10-23.md",
     "ELECME1/Transformers.md",
-    "Pastes",
-    "DC REGULATED POWER SUPPLY.ppt",
-    "DC REGULATED POWER SUPPLY(PART3).ppt",
-    "DC REGULATED POWER SUPPLY(PART3) 3.ppt",
-    "DC REGULATED POWER SUPPLY(PART3) 2.ppt",
-    "DC REGULATED POWER SUPPLY(PART3) 1.ppt",
-    "DC REGULATED POWER SUPPLY 1.ppt",
-    "DC REGULATED POWER SUPPLY (PART2).ppt",
     "Automation/Script for MES Membership Card AY 24-25.md",
     "Welcome.md",
     "ELECME1/EDA, SPICE Simulations, and EE Softwares.md",
