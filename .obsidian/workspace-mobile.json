@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "5f4a1a78c653dacd",
+    "type": "split",
+    "children": [
+      {
+        "id": "62ef8c1f2bc06ca3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8a97ec04c799537",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6637efb813eef3d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5a21b48e00469a58",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "f814d96b47068f53",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "4ac183fc03645d7e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "a6e2dc5fab93edae",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "970fd97d340b1d7b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "79340837cb3e6b47",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "473c5c8d6d237c61",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "c3d502854ba65cd9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "c9c38f8f8d6d15df",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d8a97ec04c799537",
+  "lastOpenFiles": [
+    "Pastes/Pasted image 20241023214325.png",
+    "Pastes/Pasted image 20241023214122.png",
+    "Pastes/Pasted image 20241023213858.png",
+    "Pastes/Pasted image 20241023212530.png",
+    "Pastes/Pasted image 20241023212523.png",
+    "Pastes/Pasted image 20241023212332.png",
+    "Pastes/Pasted image 20241023191002.png",
+    "Pastes/Pasted image 20241023190856.png",
+    "Pastes/Pasted image 20241023185213.png",
+    "Pastes/Pasted image 20241023151553.png",
+    "Pastes/Pasted image 20241023145248.png",
+    "/ELECME1/DC Regulated Power Supply.canvas",
+    "Pastes",
+    "/Pastes"
+  ]
+}
