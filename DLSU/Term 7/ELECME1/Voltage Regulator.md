@@ -18,4 +18,5 @@ From figure 6.43, we can see that a Zener diode is like an ordinary silicon diod
 	- hence, it can function as a voltage regulator
 	- $$I_{smax} = I_{zmax} + I_L$$
 	-  $$I_{smin} = I_{zmin} + I_L$$
+	- 
 ![[20241024 11603.png]]
