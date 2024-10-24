@@ -13,4 +13,6 @@
 ![[Pasted image 20241023212332.png]]
 ![[Pasted image 20241023212523.png]]
 ## Full-Bridge Rectifier
-![[Pasted image 20241023214325.png]]
+Ripple Voltage or AC Variation at the output of a capacitor filter is equal to the $\Delta V_c$ where
+![[Capacitor Filters.png]]
+![[Pasted image 20241024103303.png]]
