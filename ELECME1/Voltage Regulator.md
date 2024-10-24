@@ -1,1 +1,5 @@
 ![[20241024 114616.png]]
+VOLTAGE REGULATOR It is possible to reduce the ripple voltage by increasing the value of the capacitor filter. However, as the value of the capacitance is increased, it becomes bulky. ~Aside form this, the diode’s peak current increases sharply. In order to obtain a constant DC voltage across the load, the output of the capacitor filter should be passed through a voltage regulator. The simplest type of regulator is shown in figure 6.41 that employs a Zener diode. Is —_ + Rs Iz l l Ir + . + Y, Vi Vl_ Ry o - Figure 6.41 Zener Diode Regulator Circuit
+
+![[20241024 115057.png]]
+ZENER DIODE Zener diode is a special type of diode that is well designed to operate in the reverse breakdown region, also known as the Zener region. The schematic symbol for a Zener diode is shown in figure 6.42 and its characteristic curve is shown in figure 6.43. %K A Figure 6.42 Schematic symbol of a Zener diode k
