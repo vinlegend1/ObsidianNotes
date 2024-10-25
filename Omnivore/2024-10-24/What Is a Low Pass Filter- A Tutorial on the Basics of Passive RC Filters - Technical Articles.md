@@ -1,5 +1,7 @@
 ---
 id: f135d8e4-f9c1-4e35-b018-9dfc52785f2f
+tags:
+  - electrical
 ---
 
 # What Is a Low Pass Filter? A Tutorial on the Basics of Passive RC Filters - Technical Articles

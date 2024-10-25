@@ -11,12 +11,14 @@
             "id": "7c46dfba79126d48",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pastes/Pasted image 20241024160432.png"
+                "file": "Omnivore/2024-10-24/What Is a Low Pass Filter- A Tutorial on the Basics of Passive RC Filters - Technical Articles.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241024160432"
+              "icon": "lucide-file",
+              "title": "What Is a Low Pass Filter- A Tutorial on the Basics of Passive RC Filters - Technical Articles"
             }
           },
           {
@@ -202,23 +204,23 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "aaf4ee864cd336d4",
+  "active": "7c46dfba79126d48",
   "lastOpenFiles": [
-    "DLSU/Term 7/ELECME1/DC Regulated Power Supply.canvas",
+    "Omnivore/2024-10-24/Voltage Regulation - Transformers - Electronics Textbook.md",
     "Omnivore/2024-10-24/What Is a Low Pass Filter- A Tutorial on the Basics of Passive RC Filters - Technical Articles.md",
+    "Pastes/Pasted image 20241024160432.png",
+    "DLSU/Term 7/ELECME1/DC Regulated Power Supply.canvas",
     "Pastes/Pasted image 20241024163514.png",
     "Pastes/Pasted image 20241024163405.png",
     "Pastes/Pasted image 20241024162524.png",
     "DLSU/Term 7/ELECME1/Rectifiers.md",
     "DLSU/Term 7/ELECME1/Capacitor Filters.md",
-    "Pastes/Pasted image 20241024160432.png",
     "Pastes/Pasted image 20241024155444.png",
     "Pastes/Pasted image 20241024155359.png",
     "DLSU/Term 7/ELECME1/Voltage Regulator.md",
     "Pastes/Pasted image 20241024154613.png",
     "Pastes/Pasted image 20241024154532.png",
     "DLSU/Term 7/ELECME1/EE Software.canvas",
-    "Omnivore/2024-10-24/Voltage Regulation - Transformers - Electronics Textbook.md",
     "DLSU/Term 7/ELECME1/Transformers.md",
     "Omnivore/2024-10-24/How to Learn Any Skill Quickly (and Forever).md",
     "Omnivore/2024-10-24/Lecture 09a-Velocity Triangle & Pumps.md",

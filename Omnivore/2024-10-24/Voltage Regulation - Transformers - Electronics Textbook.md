@@ -1,5 +1,7 @@
 ---
 id: e72d7652-173f-4e97-adef-3f6cafa616ce
+tags:
+  - electrical
 ---
 
 # Voltage Regulation | Transformers | Electronics Textbook
