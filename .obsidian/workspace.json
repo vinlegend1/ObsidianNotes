@@ -11,10 +11,12 @@
             "id": "7c46dfba79126d48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "Pastes/Pasted image 20241024160432.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241024160432"
             }
           },
           {
@@ -200,16 +202,16 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "7c46dfba79126d48",
+  "active": "aaf4ee864cd336d4",
   "lastOpenFiles": [
     "DLSU/Term 7/ELECME1/DC Regulated Power Supply.canvas",
     "Omnivore/2024-10-24/What Is a Low Pass Filter- A Tutorial on the Basics of Passive RC Filters - Technical Articles.md",
-    "Pasted image 20241024163514.png",
-    "Pasted image 20241024163405.png",
-    "Pasted image 20241024162524.png",
+    "Pastes/Pasted image 20241024163514.png",
+    "Pastes/Pasted image 20241024163405.png",
+    "Pastes/Pasted image 20241024162524.png",
     "DLSU/Term 7/ELECME1/Rectifiers.md",
     "DLSU/Term 7/ELECME1/Capacitor Filters.md",
-    "Pasted image 20241024160432.png",
+    "Pastes/Pasted image 20241024160432.png",
     "Pastes/Pasted image 20241024155444.png",
     "Pastes/Pasted image 20241024155359.png",
     "DLSU/Term 7/ELECME1/Voltage Regulator.md",
