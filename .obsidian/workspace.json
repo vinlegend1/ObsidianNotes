@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnivore/2024-10-25/Pumps - NPSH (Net Positive Suction Head).md",
+                "file": "Omnivore/2024-10-25/Centrifugal Pumps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pumps - NPSH (Net Positive Suction Head)"
+              "title": "Centrifugal Pumps"
             }
           },
           {
@@ -206,8 +206,9 @@
   },
   "active": "7c46dfba79126d48",
   "lastOpenFiles": [
-    "Welcome.md",
     "Omnivore/2024-10-25/Pumps - NPSH (Net Positive Suction Head).md",
+    "Omnivore/2024-10-25/Centrifugal Pumps.md",
+    "Welcome.md",
     "Omnivore/2024-10-24/What Is a Low Pass Filter- A Tutorial on the Basics of Passive RC Filters - Technical Articles.md",
     "Omnivore/2024-10-24/Voltage Regulation - Transformers - Electronics Textbook.md",
     "Omnivore/2024-10-24/The Secret Power of ‘Read It Later’ Apps.md",
