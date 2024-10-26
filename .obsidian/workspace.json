@@ -11,10 +11,14 @@
             "id": "6631b928f43f9bf4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "MECFLUM Home Page"
             }
           }
         ],
@@ -171,7 +175,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "4eba22e1a784ced3",
+  "active": "6631b928f43f9bf4",
   "lastOpenFiles": [
     "Daily/2024-10-26.md",
     "DLSU/Term 7/MECFLUM/MECFLUM HOME Page.md",
