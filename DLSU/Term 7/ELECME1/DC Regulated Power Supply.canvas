@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"076ccd3a0ac88927","type":"file","file":"DLSU/Term 7/ELECME1/Rectifiers.md","x":140,"y":-258,"width":680,"height":458},
+		{"id":"3f11f9cbacd83af6","type":"file","file":"DLSU/Term 7/ELECME1/Transformers.md","x":-319,"y":-258,"width":379,"height":358},
+		{"id":"4e20c03e000f15cb","type":"file","file":"DLSU/Term 7/ELECME1/Capacitor Filters.md","x":-840,"y":-258,"width":400,"height":400},
+		{"id":"b94d67876a7e8c79","type":"file","file":"Pastes/Pasted image 20241024114228.png","x":-840,"y":200,"width":400,"height":261},
+		{"id":"9c98feebfdc79778","type":"file","file":"DLSU/Term 7/ELECME1/Voltage Regulator.md","x":-340,"y":200,"width":400,"height":400},
+		{"id":"d7aaae4a6a74d2a7","type":"file","file":"Omnivore/2024-10-24/Voltage Regulation - Transformers - Electronics Textbook.md","x":140,"y":260,"width":1062,"height":920},
+		{"id":"bf60fb7bac8bd3ec","type":"text","text":"Miles DC Power Supply Project","x":-40,"y":-980,"width":411,"height":60},
+		{"id":"72665254f8e4f5ef","type":"file","file":"Pastes/Pasted image 20241023144305.png","x":-19,"y":-800,"width":390,"height":279},
+		{"id":"090f09bc931ab6dc","type":"text","text":"# DC Regulated Power Suppply","x":-681,"y":-521,"width":441,"height":81},
+		{"id":"5a9832e30365d14f","type":"file","file":"Pastes/Pasted image 20241024154613.png","x":671,"y":-1057,"width":1600,"height":617},
+		{"id":"ca905527044738ed","type":"file","file":"Pastes/Pasted image 20241024155359.png","x":1720,"y":-258,"width":400,"height":256},
+		{"id":"f4d31c4a5789f3a9","type":"file","file":"Pastes/Pasted image 20241024155444.png","x":1071,"y":-258,"width":400,"height":192},
+		{"id":"8dcf3089a6869f3a","x":1720,"y":20,"width":400,"height":160,"type":"text","text":"The peak voltage is not 12, why is that?\nThe higher the resistive load, the higher the voltage."},
+		{"id":"8cd69fcfb151a287","type":"text","text":"$R_L = 1k \\Omega$","x":1540,"y":-240,"width":129,"height":60},
+		{"id":"b58b3e7d9f18029d","x":1720,"y":220,"width":400,"height":250,"type":"file","file":"Pastes/Pasted image 20241024160432.png"},
+		{"id":"213dd461b573a3f6","x":1540,"y":220,"width":140,"height":60,"type":"text","text":"$R_L = 10k \\Omega$"},
+		{"id":"42c6bd5898d342ea","type":"file","file":"Pastes/Pasted image 20241024162524.png","x":-841,"y":600,"width":399,"height":203},
+		{"id":"035490f3c361618a","type":"text","text":"The higher the capacitance, the higher Vdc. Vdc depends on the ripple through the two formulas found below\n[[Capacitor Filters]]\nAdding RC Filters lowers both the V_dc and V_rrms","x":-841,"y":851,"width":320,"height":209},
+		{"id":"15f1fafd7937e0d1","x":-1360,"y":851,"width":400,"height":265,"type":"file","file":"Pastes/Pasted image 20241024163514.png"},
+		{"id":"43e8b34f5b218660","x":-1220,"y":300,"width":250,"height":140,"type":"text","text":"# RC Filters\nWhy not add capacitor in parallel without an additional resistor"},
+		{"id":"2e70d9359bca4868","x":-1360,"y":466,"width":400,"height":269,"type":"file","file":"Pastes/Pasted image 20241024163405.png"}
+	],
+	"edges":[
+		{"id":"bcd2f982b9362c50","fromNode":"bf60fb7bac8bd3ec","fromSide":"left","toNode":"72665254f8e4f5ef","toSide":"left"},
+		{"id":"68de2d9592cedcc3","fromNode":"9c98feebfdc79778","fromSide":"bottom","toNode":"d7aaae4a6a74d2a7","toSide":"left"},
+		{"id":"5e4133944aea2790","fromNode":"72665254f8e4f5ef","fromSide":"right","toNode":"076ccd3a0ac88927","toSide":"top"},
+		{"id":"dd468365aa17a5b9","fromNode":"090f09bc931ab6dc","fromSide":"right","toNode":"3f11f9cbacd83af6","toSide":"top"},
+		{"id":"92cf8a309fae279b","fromNode":"090f09bc931ab6dc","fromSide":"bottom","toNode":"4e20c03e000f15cb","toSide":"top"},
+		{"id":"534da523f20e7aae","fromNode":"090f09bc931ab6dc","fromSide":"right","toNode":"076ccd3a0ac88927","toSide":"top"},
+		{"id":"e2400759333ac9bc","fromNode":"4e20c03e000f15cb","fromSide":"left","toNode":"b94d67876a7e8c79","toSide":"left"},
+		{"id":"1e3d5ef43db7e040","fromNode":"076ccd3a0ac88927","fromSide":"left","toNode":"9c98feebfdc79778","toSide":"top"},
+		{"id":"ce8be41b0e160e91","fromNode":"f4d31c4a5789f3a9","fromSide":"right","toNode":"ca905527044738ed","toSide":"left"},
+		{"id":"45ba8dfbe1b98a76","fromNode":"076ccd3a0ac88927","fromSide":"right","toNode":"f4d31c4a5789f3a9","toSide":"left"},
+		{"id":"39edb6a84303d838","fromNode":"4e20c03e000f15cb","fromSide":"left","toNode":"43e8b34f5b218660","toSide":"top"}
+	]
+}
