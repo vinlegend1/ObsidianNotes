@@ -4,7 +4,7 @@
   "textFontFamily": "",
   "monospaceFontFamily": "",
   "baseFontSize": 16,
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "theme": "moonstone",
   "nativeMenus": false
 }
