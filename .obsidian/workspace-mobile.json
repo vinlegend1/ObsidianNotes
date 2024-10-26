@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Daily/2024-10-26.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -145,18 +145,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-omnivore:Omnivore": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-omnivore:Omnivore": false
     }
   },
   "active": "d8a97ec04c799537",
   "lastOpenFiles": [
+    "/DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
+    "Omnivore/2024-10-26/Git Reset and Revert Tutorial for Beginners - DataCamp.md",
     "Omnivore/2024-10-26/Dataview.md",
     "Omnivore/2024-10-26/Acosta_Hong_Valencerina_PS2.docx.md",
     "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
@@ -205,8 +207,6 @@
     "DLSU/Term 7/ELECME1/Capacitor Filters.md",
     "/DLSU/Term 7/ELECME1/DC Regulated Power Supply.canvas",
     "/DLSU/Term 7/ELECME1/Transformers.md",
-    "/Omnivore/2024-10-24/What Is a Low Pass Filter- A Tutorial on the Basics of Passive RC Filters - Technical Articles.md",
-    "/Omnivore/2024-10-24/Voltage Regulation - Transformers - Electronics Textbook.md",
     "/ELECME1/DC Regulated Power Supply.canvas"
   ]
 }
