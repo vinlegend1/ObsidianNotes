@@ -1,8 +1,7 @@
-+++
-title = 'Fedora Post Install'
-date = 2024-02-29T05:32:38+08:00
-draft = false
-+++
+---
+title: 'Fedora Post Install'
+date: 2024-02-29T05:32:38+08:00
+---
 
 # Fedora Post Install Essentials
 

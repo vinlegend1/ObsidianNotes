@@ -1,9 +1,8 @@
-+++
-title = 'Mixture of Gas and Vapor'
-date = 2024-02-29T14:26:30+08:00
-draft = false
-tags = ['engineering', 'thermodynamics']
-+++
+---
+title: 'Mixture of Gases and Vapor'
+date: 2024-02-29T14:26:30+08:00
+tags: ['engineering', 'thermodynamics']
+---
 
 * Gas 
     - gaseous form at room conditions

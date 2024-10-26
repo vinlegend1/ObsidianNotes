@@ -1,8 +1,8 @@
-+++
-title = 'Intro to Transformers and Magnetic Circuits'
-date = 2024-03-05T10:40:26+08:00
-draft = false
-+++
+---
+title: 'Intro to Transformers and Magnetic Circuits'
+date: 2024-03-05T10:40:26+08:00
+tags: ['electrical_engineering']
+---
 
 A transformer is a magnetically coupled circuit. A circuit in which the magnetic field produced by time-varying current in one circuit induces voltage in another
 

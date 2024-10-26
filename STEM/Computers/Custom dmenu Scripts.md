@@ -1,8 +1,11 @@
 ---
-title: 'Custom Dmenu Scripts'
+title: Custom Dmenu Scripts
 date: 2024-02-28T20:12:28+08:00
-tags: ['dmenu', 'bash']
-author: 'vinceroo'
+tags:
+  - dmenu
+  - bash
+  - automation
+author: vinceroo
 ---
 
 ## Dmenu script to load other binaries

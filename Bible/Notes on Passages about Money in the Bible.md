@@ -1,8 +1,7 @@
-+++
-title = 'Notes on Passages About Money in the Bible'
-date = 2024-03-09T12:00:16+08:00
-draft = false
-+++
+---
+date: 2024-03-09T12:00:16+08:00
+tags: ['bible']
+---
 
 ## Exodus 22:25-27
 
