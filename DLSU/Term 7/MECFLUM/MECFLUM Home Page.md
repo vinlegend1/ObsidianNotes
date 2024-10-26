@@ -1,6 +1,6 @@
 ## Supplementary Articles
 ```dataviewjs
-dv.table("#fluid_mechanics")
+dv.list(dv.pages("#fluid_mechanics"))
 ```
 ## Fluid Mechanics from Old Remnote Notes
 ```dataview
