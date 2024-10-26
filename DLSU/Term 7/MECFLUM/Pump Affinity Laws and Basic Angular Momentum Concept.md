@@ -28,7 +28,10 @@
 ## Key Concepts 
 
 ## Questions
+- Where did the Torque equation come from? It looks similar to the momentum equation.
+- What is alpha1 and alpha2?
 
 ## Screenshots from Lecture
 ![[20241026 91023.png]]
 > found in research?
+![[20241026 91323.png]]
