@@ -1,4 +1,5 @@
 ```dataview
-TABLE 
+TABLE file
 FROM #fluid_mechanics 
 ```
+
