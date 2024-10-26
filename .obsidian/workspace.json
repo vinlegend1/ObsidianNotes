@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fluid Dynamics and Energy Equation.md",
+                "file": "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Fluid Dynamics and Energy Equation"
+              "title": "MECFLUM Home Page"
             }
           }
         ],
@@ -175,10 +175,12 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "aaf4ee864cd336d4",
+  "active": "6631b928f43f9bf4",
   "lastOpenFiles": [
-    "STEM/Computers/Custom dmenu Scripts.md",
+    "STEM/Engineering/Fluid Mechanics/Intro to Fluid Mechanics.md",
+    "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
     "Fluid Dynamics and Energy Equation.md",
+    "STEM/Computers/Custom dmenu Scripts.md",
     "Omnivore/2024-10-26/Obsidian Plugins for the Casual User - Kevin Quinn.md",
     "fedora-post-install.md",
     "tidyverse-notes.md",
@@ -190,7 +192,6 @@
     "notes-on-passages-about-money-in-the-bible.md",
     "Daily/2024-10-23.md",
     "STEM/Engineering/Fluid Mechanics/Dimensional Analysis and Similarity.md",
-    "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
     "STEM/Engineering/Fluid Mechanics/Hydrostatics on Curved Surfaces.md",
     "Omnivore/2024-10-26/Git Reset and Revert Tutorial for Beginners - DataCamp.md",
     "Daily/2024-10-26.md",
@@ -205,7 +206,6 @@
     "Self-Help/Huberman Lab Podcast",
     "Self-Help/Daniel Lieberman.md",
     "Self-Help",
-    "STEM/Math/General Math/Math in the Modern World/Mathematics in Nature/Symmetric Patterns.md",
     "STEM/Math/General Math/Math in the Modern World/Mathematics in Nature",
     "STEM/Math/Calculus/Single Variable Calculus/Integration",
     "STEM/Math/Calculus/Single Variable Calculus/Exercises and Problem Sets",

@@ -8,3 +8,4 @@ FROM #fluid_mechanics
 LIST
 FROM "STEM/Engineering/Fluid Mechanics"
 ```
+[[Intro to Fluid Mechanics]]
