@@ -1,7 +1,4 @@
-- With Chocolatey installed, just run>>>
-    - .
-        ```
-        RefreshEnv.cmd
-        ```
-- 
-- 
+- With Chocolatey installed, just run
+```
+RefreshEnv.cmd
+```

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Definitions and Introductions/Classical Probability and Counting Techniques.md",
+                "file": "Resistor Color Code Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classical Probability and Counting Techniques"
+              "title": "Resistor Color Code Cheatsheet"
             }
           },
           {
@@ -192,6 +192,15 @@
   },
   "active": "684a5e217d9b5298",
   "lastOpenFiles": [
+    "Design.md",
+    "Statistics/Sampling/Hypothesis Testing.md",
+    "Computers/Windows and Battery Health Check.md",
+    "Computers/Refresh environment variables Windows.md",
+    "Entrepreneurship/Starbucks is Secretly a Massive Bank.md",
+    "Computers.md",
+    "Chemistry.md",
+    "Entrepreneurship.md",
+    "Statistics/Definitions and Introductions/Classical Probability and Counting Techniques.md",
     "Statistics/Continuous Distributions/Normal Distribution.md",
     "Statistics/Continuous Distributions/Continuous Random Variable.md",
     "Math/General Math/Math in the Modern World/Mathematics in Nature.md",
@@ -209,15 +218,6 @@
     "Math/General Math/Math in the Modern World/Consumer Mathematics/HW on Consumer Mathematics.md",
     "Math/General Math/Math in the Modern World/Consumer Mathematics/Amortization.md",
     "Math/Calculus/Multivariable Calculus/Green's Theorem.md",
-    "Math/Calculus/Multivariable Calculus/Derivative Shortcut with Partials.md",
-    "Engineering/Thermodynamics.md",
-    "Engineering/Lathe Machine.md",
-    "Engineering/Gears.md",
-    "Engineering/Heat Transfer.md",
-    "DLSU/Term 5/MECHFLU/Control Volume Relations.md",
-    "DLSU/Term 5/MEHETRA/Intro to Heat Transfer.md",
-    "Engineering/Mechanics of Materials/Mechanical Properties of Materials.md",
-    "DLSU/Untitled.md",
     "DLSU/Term 5",
     "Chemistry/The Chemistry of Engineering Materials",
     "Chemistry/Energy",
