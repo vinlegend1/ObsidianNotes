@@ -1,5 +1,6 @@
 - [[Script for MES Membership Card AY 24-25]]
 - [[Custom dmenu Scripts]]
+- [[Dmenu Stream Lofi Script]]
 - [[Quickly Get Textbook Engineering Table Values Tip]]
 
 ```js
