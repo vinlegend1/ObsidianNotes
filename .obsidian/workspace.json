@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/General Math/Math in the Modern World/Mathematics in Nature/Symmetric Patterns.md",
+                "file": "Math/General Math.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Symmetric Patterns"
+              "title": "General Math"
             }
           },
           {
@@ -192,9 +192,13 @@
   },
   "active": "684a5e217d9b5298",
   "lastOpenFiles": [
+    "Math/General Math/SMC Stuff/Weird Math Tricks.md",
+    "Math/General Math/SMC Stuff.md",
+    "Math/General Math/SMC Stuff/Jeopardy Trigonometry.md",
+    "Math/General Math/SMC Stuff/Jeopardy Algebra.md",
+    "Math/General Math/Math in the Modern World/Mathematics in Nature/Symmetric Patterns.md",
     "Math/General Math/Math in the Modern World/Mathematics in Nature/Fractals Article.md",
     "Math/General Math/Math in the Modern World/Mathematics in Nature/Fibonacci and Golden Ratio.md",
-    "Math/General Math/Math in the Modern World/Mathematics in Nature/Symmetric Patterns.md",
     "DLSU/Term 7/ELECME1/Rectifiers.md",
     "Math/General Math/Math in the Modern World/Consumer Mathematics/HW on Consumer Mathematics.md",
     "Math/General Math/Math in the Modern World/Consumer Mathematics/Amortization.md",
@@ -214,11 +218,7 @@
     "DLSU/Term 5/MECHFLU/Hydrostatics on Curved Surfaces.md",
     "DLSU/Term 5/MECHFLU/Dimensional Analysis and Similarity.md",
     "DLSU/Term 5/MECHFLU/Intro to Fluid Mechanics.md",
-    "DLSU/Term 5/MECHFLU/Pascal's Principle.md",
-    "DLSU/Term 5/MECHFLU/Pressure Distribution in a Fluid.md",
     "DLSU/Term 5",
-    "Engineering/Electrical/Voltage Divider Rule.md",
-    "Software Development.md",
     "Chemistry/The Chemistry of Engineering Materials",
     "Chemistry/Energy",
     "Chemistry/Chemistry of the Environment",
