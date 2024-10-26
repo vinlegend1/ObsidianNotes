@@ -1,5 +1,6 @@
+## Supplementary Articles
 ```dataview
-TABLE file
+LIST
 FROM #fluid_mechanics 
 ```
 
