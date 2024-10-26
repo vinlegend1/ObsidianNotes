@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Lecture Template.md",
+                "file": "Pump Affinity Laws and Basic Angular Momentum Concept.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture Template"
+              "title": "Pump Affinity Laws and Basic Angular Momentum Concept"
             }
           },
           {
@@ -193,9 +193,10 @@
   },
   "active": "6631b928f43f9bf4",
   "lastOpenFiles": [
+    "Templates/Lecture Template.md",
+    "Pump Affinity Laws and Basic Angular Momentum Concept.md",
     "Daily/2024-10-26.md",
     "DLSU/Orgs/Script for MES Membership Card AY 24-25.md",
-    "Templates/Lecture Template.md",
     "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
     "Templates",
     "DLSU/Term 7/MECFLUM/Untitled.md",
@@ -224,7 +225,6 @@
     "DLSU/Term 7/ELECME1/Transformers.md",
     "STEM/Engineering/Electrical/Intro to Transformers.md",
     "STEM/Computers/Tidyverse Notes.md",
-    "STEM/Computers/Custom dmenu Scripts.md",
     "Self-Help/Productivity",
     "Self-Help/Huberman Lab Podcast",
     "Self-Help",
