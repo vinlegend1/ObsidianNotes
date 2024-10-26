@@ -1,8 +1,7 @@
-+++
-title = 'Transient Heat Transfer'
-date = 2024-03-09T09:11:48+08:00
-draft = false
-+++
+---
+title: 'Transient Heat Transfer'
+date: 2024-03-09T09:11:48+08:00
+---
 
 [Link to formula sheet](/heat-transfer/transient-heat-transfer-formulas.pdf)
 

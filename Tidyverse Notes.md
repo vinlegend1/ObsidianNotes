@@ -1,9 +1,8 @@
-+++
-title = 'Tidyverse Notes'
-date = 2024-02-28T18:56:24+08:00
-draft = false
-tags = ['R']
-+++
+---
+title: 'Tidyverse Notes'
+date: 2024-02-28T18:56:24+08:00
+tags: ['R']
+---
 
 ## Removing Specific Columns in Data Frames
 In the tidyverse, specifically using the dplyr package, you can remove specific columns from a data frame using the `select()` function along with the `-` operator to exclude columns you want to remove. Here's how you can do it:

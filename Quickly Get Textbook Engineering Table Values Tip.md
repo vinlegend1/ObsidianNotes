@@ -1,8 +1,8 @@
-+++
-title = 'Quickly Get Textbook Engineering Table Values With This One R Tip'
-date = 2024-03-04T09:59:41+08:00
-draft = false
-+++
+---
+title: 'Quickly Get Textbook Engineering Table Values With This One R Tip'
+date: 2024-03-04T09:59:41+08:00
+tags: ['heat_transfer', 'automation']
+---
 
 ## Step 1: Grab the PDF copy of the table you're using
 - Grab it and if it's directly from the book, you can extract the specific pages `pdfsplit` and `pdfunite`
