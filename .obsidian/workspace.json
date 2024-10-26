@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STEM/Computers/Compilation of Automation Related Notes.md",
+                "file": "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Compilation of Automation Related Notes"
+              "title": "MECFLUM Home Page"
+            }
+          },
+          {
+            "id": "ac76c3f9025036c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DLSU/Orgs/Script for MES Membership Card AY 24-25.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Script for MES Membership Card AY 24-25"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -161,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +191,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "6631b928f43f9bf4",
+  "active": "ac76c3f9025036c8",
   "lastOpenFiles": [
+    "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
+    "DLSU/Orgs/Script for MES Membership Card AY 24-25.md",
+    "STEM/Computers/Compilation of Automation Related Scripts and Notes.md",
     "Bible/GLC Online Training Compressed Notes.md",
     "Bible",
     "Bible/Notes on Passages about Money in the Bible.md",
@@ -193,13 +212,10 @@
     "DLSU/Term 7/ELECME1/Transformers.md",
     "STEM/Engineering/Electrical/Intro to Transformers.md",
     "STEM/Computers/Tidyverse Notes.md",
-    "STEM/Computers/Compilation of Automation Related Notes.md",
     "STEM/Computers/Custom dmenu Scripts.md",
-    "DLSU/Orgs/Script for MES Membership Card AY 24-25.md",
     "DLSU/Orgs/Org Work Home Page.md",
     "STEM/Engineering/Fluid Mechanics/Fluid Dynamics and Energy Equation.md",
     "STEM/Engineering/Fluid Mechanics/Hydrostatics on Curved Surfaces.md",
-    "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
     "STEM/Engineering/Fluid Mechanics/Intro to Fluid Mechanics.md",
     "Omnivore/2024-10-26/Obsidian Plugins for the Casual User - Kevin Quinn.md",
     "Daily/2024-10-23.md",
