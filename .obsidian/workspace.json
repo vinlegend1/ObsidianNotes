@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e39340f22f98068",
+        "id": "930662c4c0cec8a7",
         "type": "tabs",
         "children": [
           {
-            "id": "684a5e217d9b5298",
+            "id": "6631b928f43f9bf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Org Work Home Page"
-            }
-          },
-          {
-            "id": "fc4243ae708f69a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DLSU/Term 7/ELECME1/Capacitor Filters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Capacitor Filters"
             }
           }
         ],
@@ -190,14 +176,14 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "684a5e217d9b5298",
+  "active": "6631b928f43f9bf4",
   "lastOpenFiles": [
+    "DLSU/Orgs/Org Work Home Page.md",
+    "Automation/Script for MES Membership Card AY 24-25.md",
     "Design/Theory Notes/Spacing.md",
     "Design/Theory Notes/Advanced Design Theories.md",
     "Design/Fonts and Typography.md",
-    "DLSU/Orgs/Org Work Home Page.md",
     "Design/Theory Notes",
-    "Automation/Script for MES Membership Card AY 24-25.md",
     "Daily/2024-10-26.md",
     "Engineering/Physics Experiments.md",
     "DLSU/Orgs",
