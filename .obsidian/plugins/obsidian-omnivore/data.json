@@ -3,7 +3,7 @@
   "dateSavedFormat": "yyyy-MM-dd HH:mm:ss",
   "apiKey": "5285b388-bb60-4115-a9c8-b8fc1d98c5de",
   "filter": "ALL",
-  "syncAt": "2024-10-26T18:14:18",
+  "syncAt": "2024-10-26T18:17:41",
   "customQuery": "in:all",
   "template": "# {{{title}}}\n\n## Links\n[Read on Omnivore]({{{omnivoreUrl}}})\n[Read Original]({{{originalUrl}}})\n\n{{#labels.length}}\n{{#labels}} #{{{name}}}\n{{/labels}}\n{{/labels.length}}\n\n{{#highlights.length}}\n## Highlights\n\n{{#highlights}}\n> {{{text}}} [⤴️]({{{highlightUrl}}}) {{#labels}} #{{name}} {{/labels}} ^{{{highlightID}}}\n{{#note}}\n\n{{{note}}}\n{{/note}}\n\n{{/highlights}}\n{{/highlights.length}}\n\n## Content\n{{{ content }}}",
   "highlightOrder": "LOCATION",

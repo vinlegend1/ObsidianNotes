@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
+                "file": "STEM/Engineering/Electrical/Voltage Divider Rule.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "MECFLUM Home Page"
+              "title": "Voltage Divider Rule"
             }
           },
           {
@@ -36,7 +36,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -191,10 +190,11 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "ac76c3f9025036c8",
+  "active": "6631b928f43f9bf4",
   "lastOpenFiles": [
-    "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
+    "STEM/Engineering/Fluid Mechanics/Control Volume Relations.md",
     "DLSU/Orgs/Script for MES Membership Card AY 24-25.md",
+    "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
     "STEM/Computers/Compilation of Automation Related Scripts and Notes.md",
     "Bible/GLC Online Training Compressed Notes.md",
     "Bible",
