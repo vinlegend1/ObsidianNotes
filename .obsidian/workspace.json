@@ -19,10 +19,55 @@
               },
               "icon": "lucide-file",
               "title": "MECFLUM Home Page"
-            }
+            },
+            "group": "33b0a3cc26f4d9a3"
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "76a9a81b9553c283",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c077e831c9c22f65",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of MECFLUM Home Page"
+            },
+            "group": "33b0a3cc26f4d9a3"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +220,7 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "6631b928f43f9bf4",
+  "active": "c077e831c9c22f65",
   "lastOpenFiles": [
     "STEM/Engineering/Fluid Mechanics/Intro to Fluid Mechanics.md",
     "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
