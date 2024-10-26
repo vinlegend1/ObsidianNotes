@@ -13,62 +13,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
+                "file": "STEM/Engineering/Fluid Mechanics/Hydrostatics on Curved Surfaces.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "MECFLUM Home Page"
-            },
-            "group": "d003148ae3d47130"
+              "title": "Hydrostatics on Curved Surfaces"
+            }
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "3172aec543d18fab",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6837347ca2900bc0",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of MECFLUM Home Page"
-            },
-            "group": "d003148ae3d47130"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -223,8 +178,8 @@
   },
   "active": "6631b928f43f9bf4",
   "lastOpenFiles": [
-    "STEM/Engineering/Fluid Mechanics/Intro to Fluid Mechanics.md",
     "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
+    "STEM/Engineering/Fluid Mechanics/Intro to Fluid Mechanics.md",
     "Fluid Dynamics and Energy Equation.md",
     "STEM/Computers/Custom dmenu Scripts.md",
     "Omnivore/2024-10-26/Obsidian Plugins for the Casual User - Kevin Quinn.md",
