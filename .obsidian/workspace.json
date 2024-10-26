@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnivore/2024-10-26/Obsidian Plugins for the Casual User - Kevin Quinn.md",
-                "mode": "source",
-                "source": false
+                "file": "Fluid Dynamics and Energy Equation.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Obsidian Plugins for the Casual User - Kevin Quinn"
+              "title": "Fluid Dynamics and Energy Equation"
             }
           }
         ],
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:fluid_m",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,8 +175,19 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "6631b928f43f9bf4",
+  "active": "aaf4ee864cd336d4",
   "lastOpenFiles": [
+    "STEM/Computers/Custom dmenu Scripts.md",
+    "Fluid Dynamics and Energy Equation.md",
+    "Omnivore/2024-10-26/Obsidian Plugins for the Casual User - Kevin Quinn.md",
+    "fedora-post-install.md",
+    "tidyverse-notes.md",
+    "mixture-of-gas-vapor.md",
+    "quickly-get-textbook-engineering-table-values-with-this-one-r-tip.md",
+    "transient-heat-transfer.md",
+    "glc-online-training-compressed-notes.md",
+    "intro-to-transformers.md",
+    "notes-on-passages-about-money-in-the-bible.md",
     "Daily/2024-10-23.md",
     "STEM/Engineering/Fluid Mechanics/Dimensional Analysis and Similarity.md",
     "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
@@ -195,17 +206,6 @@
     "Self-Help/Daniel Lieberman.md",
     "Self-Help",
     "STEM/Math/General Math/Math in the Modern World/Mathematics in Nature/Symmetric Patterns.md",
-    "STEM/Math/General Math/Math in the Modern World/Mathematics in Nature/Fractals Article.md",
-    "STEM/Math/General Math/Math in the Modern World/Mathematics in Nature/Fibonacci and Golden Ratio.md",
-    "STEM/Math/Calculus/Single Variable Calculus/Integration/Weierstrass Substitution.md",
-    "STEM/Math/Calculus/Single Variable Calculus/Integration/Walli's Formula.md",
-    "STEM/Math/Calculus/Single Variable Calculus/Integration/Volumes by Disks and Shells.md",
-    "STEM/Math/Calculus/Single Variable Calculus/Integration/Trig Substitution Integration.md",
-    "STEM/Math/Calculus/Single Variable Calculus/Integration/Taylor Series Approximation.md",
-    "STEM/Math/Calculus/Single Variable Calculus/Integration/Parametric equations, arclength, surface area.md",
-    "STEM/Math/Calculus/Single Variable Calculus/Integration/Odd Even Functions.md",
-    "STEM/Math/Calculus/Single Variable Calculus/Integration/Integration by Parts.md",
-    "STEM/Math/Calculus/Single Variable Calculus/Integration/Improper Integrals.md",
     "STEM/Math/General Math/Math in the Modern World/Mathematics in Nature",
     "STEM/Math/Calculus/Single Variable Calculus/Integration",
     "STEM/Math/Calculus/Single Variable Calculus/Exercises and Problem Sets",
