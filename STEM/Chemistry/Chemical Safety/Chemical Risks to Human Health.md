@@ -55,7 +55,7 @@
 - Our body’s immune system protects us against disease and harmful substances by forming antibodies that render invading agents harmless, but some chemicals interfere with this process.
     - Arsenic―DNA damage in immune cells
     - Methylmercury―effects on inflammatory pathways 
-    - [Dioxins](../../Chemistry/Chemicals/Dioxin.md)―immunosuppression
+    - [Dioxins](Dioxin.md)―immunosuppression
 - Some natural and synthetic chemicals in the environment, called {{neurotoxins}}, can harm the human nervous system, causing the following effects.
     - Behavioral changes. 
     - Learning disabilities. 

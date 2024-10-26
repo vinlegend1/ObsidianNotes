@@ -3,5 +3,6 @@
     "/^Pasted image.*\\.png$/",
     "/Pasted*.png"
   ],
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
 }
