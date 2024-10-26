@@ -1,0 +1,8 @@
+- In the book "The Art of Unix Programming" there is a 3 rules set that say: 
+    - Make it work 
+    - Then make it right 
+    - Then, and just then make it fast.  
+- I changed this rules to work in electronics, and I have since my best results: 
+    - Prototype and iterate versions as soon as possible and make it work 
+    - Then make it precise/accurate 
+    - Then, and just then make it efficient/cost effective/low energy.  

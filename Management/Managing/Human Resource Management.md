@@ -1,0 +1,38 @@
+- Involves developing, organizing and administering the people systems of an organization 
+- Job Analysis
+    - Identifying the knowledge, skills, abilities and other characteristics (KSAOs) that are necessary for a specific job
+    - Investigative process of gathering and interpreting information about a job and the required KSAOs
+- HRM Planning
+    - Draws on job analysis and design information to develop a human resource requirements forecast
+    - Modernly rely on HRIS (human resource information systems) to track demand against a database of the current supply talent within the organization
+    - Output of HRIS identifies the gaps between the forecasted needs and the available supply
+- **Job Description**
+    - Specifies duties associated with the position, as well as the knowledge, skills, education and training, credentials, prior experience, physical abilities and other characteristics
+    - Can improve employee satisfaction and performance if tasks and roles are clarified
+- Staffing
+    - Identifying, attracting, hiring and retaining people with the necessary KSAOs to fulfill responsibilities of current and future jobs in the organization
+    - Recruitment - identifying and attracting people
+    - Selection - process of choosing who to hire
+- Recruitment
+    - Establishing and building recruitment channels
+    - A steady flow of applicants is necessary to ensure that jobs and roles are filled efficiently
+    - Examples are relationships with universities or agencies, newspaper or industry employment ads and internal job postings
+    - Employees can be effective channel for recruitment, referral bonuses can be used
+- Performance Management
+    - Ensure that employees’ activities and outputs are aligned with the organization’s goals  
+- Performance Appraisal
+    - Foundation of an effective performance management system
+    - Specifies what level of performance is expected for an employee and then provides feedback on the employee’s performance
+    1. Design a system with clear purpose, defined roles, and agreed upon criteria
+    2. Equip managers with the skills and tools they need to be successful
+    3. Reinforce and review the appraisal process
+- **Training and Development**
+    - Training - learning activities that improve skills or performance in a specific area or current position
+    - Development - comprises learning activities that result in broad growth usually beyond the scope of the current job, which prepares a person for future positions
+- Training
+    - Training should be offered to those who have an interest in and aptitude for the training
+    - The content must be relevant
+    - There must be support for applying the training in the work environment
+- Career Development
+    - Succession plan - management process of identifying talented employees who have the potential to succeed in jobs of increased responsibility within the organization
+    - Mentoring - delivery of clear directions, accurate feedback, expert advice and support from senior managers within the same organization

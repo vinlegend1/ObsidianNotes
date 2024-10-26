@@ -1,0 +1,23 @@
+- Hardness Tests
+    - Mind Map by ChatGPT
+        - ![](https://remnote-user-data.s3.amazonaws.com/AqY_pvYazC7Zrrwp7EqKzB97IWCNEWDIiJdFCH9-b2j3ZkEo9DJ9QTgiGe511Hzx--U72pP_7oL4LCMEHyT6big4SZR70sgnFgaQqy-hTbZHD8z-rK8fH-pCweP-pNRC.png) 
+        - 
+    - Indentation Hardness Test→A type of hardness test that measures the resistance of a material to permanent deformation. It includes the Rockwell and Vickers tests.
+    - 
+    - Rockwell Test↔Measures the depth of penetration of an indenter into a material under a large load (major load) followed by a smaller load (minor load).
+        - Pros→Measures a wide range of materials, easy to perform, and provides reliable results.
+        - Cons→Limited accuracy, sensitive to surface roughness and flatness.
+    - Vickers Test↔Measures the depth of penetration of an indenter into a material under a constant load.
+        - Pros→Measures a wide range of materials, provides more accurate results than the Rockwell test, and can be used for micro-hardness testing.
+        - Cons→More time-consuming than the Rockwell test, requires a higher level of expertise, and is more expensive.
+    - 
+    - Rebound Hardness Test↔A type of hardness test that measures the hardness of a material by measuring the rebound of a mass after it impacts the material. It includes the Shore Durometer test.
+    - 
+    - Shore Durometer Test↔Measures the hardness of rubber, plastic, and other elastomers by measuring the depth of indentation made by a sharp-pointed indenter.
+        - Pros→Non-destructive, portable, and easy to use.
+        - Cons→Limited to measuring soft materials, can be affected by temperature, and provides only relative hardness measurements.
+    - Brinell Hardness Test↔A type of hardness test that measures the hardness of a material by measuring the diameter of the indentation made by a hard steel or carbide ball under a known load.
+        - Pros→Provides reliable results, measures a wide range of materials, and can be used for large components.
+        - Cons→Limited to measuring materials with a minimum thickness, time-consuming, and requires a large load.
+    - 
+- 

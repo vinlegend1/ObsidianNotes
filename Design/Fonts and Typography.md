@@ -1,0 +1,48 @@
+- Typography Hacks
+    - Bigger Line Heights
+        - 1.1-1.3x headings
+        - 1.3-1.5x body text
+    - Negative Letter Spacing
+    - Text Alignment
+        - Don't mix and match alignment between heading and body text
+        - long lines of text are usually perceived by users as intimidating and overwhelming
+    - Whitespace is to be regarded as an active element, not a passive background
+    - Use Fewer Font Sizes
+    - Use HSB and adjust a bit
+    - Decide on Adjectives
+    - Use the best imagery
+- there are always exceptions to rules
+- Font Pairings that are really good:
+    - aileron (small body text) + anek (heading)→more modern designs
+    - roboto slab (heading) + mulish (subheadings and body text)→serious designs and informative designs
+    - Oswald (headings, hard hitting) + Open Sans (body text, subheadings)
+- 
+- Choosing fonts, consider the following>>>
+    - the audience
+    - the function or purpose
+    - check legibility or how easily read the font is
+    - font pairing
+- 
+- Types of fonts>>>
+    - serif→tradition, history, reliability, safety
+    - san serif→modern and clean
+    - script fonts→grace and elegance
+    - monospace fonts→programming 
+- 
+- Golden General Rules
+    - main body text→10-12 pts or 15-25 px
+    - line spacing>>>
+        - also known as leading
+        - 120-145% of text size
+    - tracking (or how compact the letters are)
+    - characters in a line→45-90 characters (including space) 
+    - main heading→180-200% of main body text
+    - secondary headings→130-150% of main body text
+    - align text→when in doubt, align text to the left
+    - test print
+    - 
+- 
+- Other tips for typography design>>>
+    - Consider the personality of the design
+    - Match or visually compliment the text based on shape and form
+    - Consider directional movement

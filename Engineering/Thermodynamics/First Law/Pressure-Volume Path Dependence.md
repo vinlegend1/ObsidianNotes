@@ -1,0 +1,5 @@
+- ![](https://remnote-user-data.s3.amazonaws.com/w7u-rz0IdnQfVybgjwBjFznR4OQQLShFe-jxMzlFclfSRYXIYSo0SGhC8oF4GOZYe86L88uw8c-gnJ2aPokMJVJQ1906PEu4uSaynsJXyshs-hv1Yo4owYgV0vMX_Lx1.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/FoxG1q57HZjBjOopUwB8aNaYrmgTwOQMFX32MrldBfavYO_NZHmO0NQLQmMTCm1BnZOW2je1D7XyPMRSEafH0R9zJdV7PE_a4ROtedsrs7XDE9nu4ELzRtj2FZgaHZcJ.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/lr8zq0Ux0NBr1l20oSbDdQo6sH8tq5Wqq0uDjj3ph5k1BYC85ATjZbFbxsNHoLZyMq5vDBil2YRDVAkcAVx2TE_shmbBy0mnW9gSVxcmGCFHYZgWXNe40D8txscSnJpW.png) 
+- Definition of efficiency varies depending on the system/application
+- ![](https://remnote-user-data.s3.amazonaws.com/lLLp6YphvdK2gysmda8GDLUfNx0hHAPpZk1y4oQDamRqfBj_20GffYAfNwuXohbWCFmdNTDTW6kcnVVY_zRzS_PZVG1DnsRtsHlqxbau43_vumyBV5wKpAfGkEUQqiTC.png) 

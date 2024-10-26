@@ -1,0 +1,24 @@
+- Area by Horizontal and Vertical Slicing
+    - ![](https://remnote-user-data.s3.amazonaws.com/CzHf2prLHtALCGlFZy8LdVGFqVWAAfLqBiU-AaXpNsIqJJuyMObfwvUwNZKQjX_71excv2O-Zx3JY04CwFWwxrphC8Wr72m2hPSHsFpYqhgdv5BJRcF00XJ8PdPreicp.png)
+- Volume by Washer (disk but 2 disks)
+    - ![](https://remnote-user-data.s3.amazonaws.com/-LE1vQy7XLbYa5f-GCyfleBS2bjNA_ntN4fyjsbhl-k7FIjL8O-fp7dUkRRL_pDZfuKB6kh_ov4X_nd2g9obJ9WSOUalZYLbYzgkLoYrQGmBGONKWUR5bISxL21lTB9m.png)
+- Volume by Washer
+    - ![](https://remnote-user-data.s3.amazonaws.com/3JIKHYdZOwMoqryNyuoFcvYV6J1E0oQzI4RnEgEZH_CxQmSocteFfv-vbz0mtX1aCYran5_coCaHqsoSwxxNrr23UgkHNIn73GXJroVJfjhsQV-GhwByvskqHTCzwjjf.png) 
+- Volume by slicing>>>
+    - ![](https://remnote-user-data.s3.amazonaws.com/s9mm6U1zhc63H1XAcKmpK_W1JV1zInGMf4LM6coQdEg3bw4p6KJ5tAPnGkmR-AWl7S1EJjlNpojqMs6IjujYSVABLRssTwRzbWHgY6M8gMIcsqALjcRZOvC3Kujv-X4i.png) 
+- Solids of Revolution (Method of disks)
+    - ![](https://remnote-user-data.s3.amazonaws.com/2num3q-9p6L2Qak0734_MsipTxNTBInsESGxVxVuxcs0sMTWCUDUECWrhPEhLs6YFAP0aE1u7xGCQgR4tF894h87qHUCjm9jvst9dgLlsnzJkBbHBtOtmS12-R4dbUKO.png)>>>
+        - ![](https://remnote-user-data.s3.amazonaws.com/mHcoJ2x1c0_UYipyq5F17D24nqg7Xh6lvDEC6QljYESZG8ZtfCP0kOJvZ4wP-GkIR487mHhPbuZQGK8Q3Av9pxJTkyKwhOcacgJZgY0arKJun7Gkl73oFn1krknKRIEw.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/jGgLxsRwgSNekWZARlnRyfTP9A_i4tAHpDW4szyIgb6DfToCGuJSev5D5NXCod3JZhBqTaDe0pk5xBzykWPc9I4Fa7L9GRuJobv2XzilHCiG7FeVtWFD4MeQHCttsfhL.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/7SzhI9Ev6k9g5FepmbaYDF1rPZCgVyxnbreUkaVtScCsEdNO8hvU2MLRSixTTQqerjA1gozC6NM9kv6bAUk5VIJqevLr8f7SgDQ3tlfP9yaGSM8eQJjEJgWmGaTuoLzo.png) 
+- Method of Shells
+    - ![](https://remnote-user-data.s3.amazonaws.com/s6m9rrG-39kuhkVFrJoa3RZOBVp8H4Q0bsLlgG8oF_QZ1FRmYBGjS86WodMzW8zNY-YgzBc0gYygQiK4yuiTy6qdKmq3REM2uB2vjRyFMtRmBaHFF6gmocK4ysdggpa8.png)
+        - ![](https://remnote-user-data.s3.amazonaws.com/XF42W6pOJukyWMtB0Wg5gDb4UJDwh6MUwsoxsBZ2SsP2mRTWamFu1bWNHWj3Y8ju3z6QTscqh5Cf_AbsUC9QtJyjeBRs9kBuwZq7bxX9C3D_XUMJT13w5GZfGdao4cye.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/JJ21W5kiqqI2T82-DUr17tx3rx1sQ8knUUXlsv_pPGVLhYasjcbwabhT-Qoe-sMuvoAvH2CUNnjrSiUx68jk6Btpp0iyQ1hcQDM-t5LfnFBf6IiH1omGN9bDCwB_NgkX.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/3pUOe5tdpiqubfF4t8iu_hi80wvdEN8I8jd4iKu7NNaGGvTbzgVYUTcU9rQ2W42pTkjL1z7eYsx4nU6-WiAMVtPOLM2UsEpgFFMxIBTiubEfHQ73TL1dU3egmyswpJa1.png) 
+- **BEWARE OF UNITS WHEN DOING VOLUME BY DiSKS OR SHELLS**>>>
+    - because when you do it, it's dimensionless. Or it only is consistent in 1 unit (you have to interpret it in 1 and only 1 unit)
+    - ![](https://remnote-user-data.s3.amazonaws.com/vwPYGhtIjhPNpMslSKYz6c1hCsPo6r2-4LZVxzEKUJBZc0nnhP-qE1dDOkmOOhxHdRAKF18kEr7mWNuyr6tYMMGmvLeHRYfwAFJi92jN1KBWIvcbC0us-F4yDajUSymz.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/xR841X9hJm_GtGI3ZY2WEN2-w5avKm3rGkAXl8jbRf7lsNmiYWZoStOEZp8LBeVtY3z3eOfQenCtoRvP_AYp74Z-m9lCaw2iUTDP6CEkPZEesAxp038YJtz0gs5lFuPN.png) 
+    - take note: same "length" but different volumes
+    - 

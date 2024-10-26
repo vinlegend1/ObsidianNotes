@@ -1,0 +1,198 @@
+- Exercises and Problem Sets
+    - Integral Calculus
+        - CALENG2
+            - [drive.google.com/open?id=1rZ9jhtlW6in2Aeu 1nPV 4M14HVLVgbY&usp=drive fs](https://drive.google.com/open?id=1rZ9jhtlW6in2Aeu_1nPV-4M14HVLVgbY&usp=drive_fs) 
+            - [drive.google.com/open?id=1IYSbggvEb7z ey62u1rEOn t46pJXAcr&usp=drive fs](https://drive.google.com/open?id=1IYSbggvEb7z_ey62u1rEOn_t46pJXAcr&usp=drive_fs)
+            - [drive.google.com/open?id=14GC0TnRHvL4bJPWJUb1GY9VNlxkjptIr&usp=drive fs](https://drive.google.com/open?id=14GC0TnRHvL4bJPWJUb1GY9VNlxkjptIr&usp=drive_fs) 
+        - 
+- Differentiation
+    - Indeterminate Forms
+        - ![](https://remnote-user-data.s3.amazonaws.com/vY9mH0z55Wc4rVTHEBeUAlAzyZ92sEfCenGxmaFNwinVa9CgWH-mVmJ_TF2I_A4PCyDRmLK1PwazRWy2dKmmYRo1PX2ARNVGsllZVUWtmL00O1mKlKgG9l_0ed4afWHx.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/CNvJqFCFGaoI3fYuygDoDuvPnUNACtTy6zOVh3sUktDoVtwpyH-Hmlb62Br44Ugl2iElcw4t27_uW1PIdOQxCB3K5ZLT1mfUDSG2OsA_92jfxkwGSCaillAnii4JjzlO.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/9lMVGi633q-aI-VwF_1hPPAisFVvXOVskjd7sCj4O5r_XjXEdxGuWDQeZ-QnpzOUJSF6wjhY8XWNMEWmQ2J8G9nbKg4LF-x2OUxLjccJmeA-IfDzzeKhZkExQ-eITJ6z.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/uKUiQqutUyqg726E4LzLgGl-YECIALXO04Ixly7FTQd_RjH6wI23fSseTiKoxqq7wJff8evOTF7zdU5eub03m0uS3QJtJK97WQwcyezBy_y66kgU3sDwM_tDsJeszqQE.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/aFaCv0wVaYtivU60fIFAtSvFe39ZS9DiQSR8iLSJsAUw21s6dseaLMw6ieW7VQ_wawz57nPRfAt720myHq-VvpcK8Hy3jX7utJsGGbtrUwH0ejVardbBbwewW72K2DbD.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/b5_2YaUehKVu3vVCoUS6L69evkuD5DLCwLbMPej1M3y7NZO7mzi-liFuDQocD-gcR3va9DTSmPPX8LVxS28G8IiQ0cYkDnmcBnsbKaQtC1tLipBxYO2z8P0nzeQYkHk4.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/nsyJEZZV5RaqBP2x_6XuJySP6u78fgxwHJlJ8VXzuKjs7Zt-sR6YF_ap-4Nhm8AjRfMeqerc1nz8gbRCpWxm_wIh440UMSWs45HGyMJkvPjCE00vC06gycGSHnPESJ4j.png) 
+    - Approximations Using Differentials
+        - Value Approximation
+            - ![](https://remnote-user-data.s3.amazonaws.com/Qz6WXtLAE2uo8Bn9RwHqvt1YmHSNLNs_K2UdcyV7PeOZl3dY0SClGAsLowUNPujkbzSlB2HE0uN0adYQuBwSn3rSmnQn64IbP-xrDC83NEsVj7opbW6a2_eax4snJbbF.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/WySGlo6kSrMFYtM1sP91HbVSAhfGejXCEUfW24N5rukyIWY0ADuBKbBsCMYpc69p01tQHm-JgSdyOsPXaMmDUVhOCT6VZKqa7iX9opx-twPrS6F08hatBlMzh5Qr8lzl.png) 
+        - Error Approximation
+        - ![](https://remnote-user-data.s3.amazonaws.com/2yU0R8x_oe-Ji3ON1bcZzONF_vkOHisNyQalaB-azm1KaTdF_Mg9md1p_EVTs2S-EANSa2TIkH4oUBMi9t1eLDMItcXCd5IzYKLG8mnl1p_DGQEyTcPVW-2-P_DUksSW.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/wvayQoO7tyEjzKELemaLR8XqMIWr_4D7_VGwDBQMYXA2ZWnF7kJGwK8USypYrcHN5ozFrF-bfb7D4HrUx3EJL6rEdWELKPeKAG6qYAj7-zZp2iUEz3EfV9ikUlKY3e3l.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/TarKw5SGe7JSPKXvCKa75qCOpFkkAzJFmNkur7tqzK8N6lQl318OWvlkWkh4l_CB6VfuwQUHxrQVRSdQ0L5qw9tIC007xO7j_-mENgvW4SSdMi0ecBdWxJi-9IasZwqa.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/zv8MPfZxjnt_vbk1Z7rm2vGGqEvPv6BsAq6L88FVSGIsqr7_D0k6L3hFz7Qo1MQU1lzWO8ZrAMwXGrGqBENZrQRmz8-_nwSeKb9DrhnN79b-VNsdEWvHAFUV7JLVg4k1.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/i82ncKQMYexjScNx1wE9Hb2VOroSa6PJ8CUXhVQbUu4DY2_iHWfcdXPXA932ZTY3k0sNPAEvRFmefl_5NJBaWIkmDQUka-1Kd-MshlE_2uIyJXoORfWXl6_QC3CFSQip.png) 
+    - Derivative of Trigonometric Functions
+        - Derivative of Trigonometric Functions
+            - ![](https://remnote-user-data.s3.amazonaws.com/eywNeodnSDfFYRkp-RyN9DvEXEmzG406ilr2MPwMM1d79N3prhDJH4cAehD-CaU9nUPjMLj0Yk2xfme-1U9m2KcQftLmW4ki_lN8DRu1hND5mZhafUJk3arHeLojQhbc.png) 
+        - 
+        - Trigonometric Identities (Sum and Difference Angle Identities)
+            - ![](https://remnote-user-data.s3.amazonaws.com/pg6Wy5EdApeVmRUn_LxjuHzSaeExv98Bd1AONMaC0VH4MLoZtpTucyWJRHJGfbm4O7377S-Da_xls-FTm7rAVxRKSXrhsL66VBLhD_0ZixJe8VekbR3z0IsZagXBjigY.png) 
+        - 
+        - Inverse Trig Derivatives
+            - [Tricks for Memorizing Inverse Trig Derivatives - YouTube](https://www.youtube.com/watch?v=NI9Avfc9K2M) 
+                - ![](https://remnote-user-data.s3.amazonaws.com/1xf1GaI_8Ghl5Ht_ik0zdV7a7CZGn0_x-wXs8Gm9FaOrKb28TAVGm6QYFhj3r4Lk8mzgIUt3t0b_kWVyEcieTBVsfb08EBULxRyO5hIsKmK8jBiwY_iIwLUxy4WpnN-5.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/8TfwS9aImo4OaOh8TQgmvA25sZU7dLVTxsV6yXb6UD1E2Z2viNaBSuwE51bCem2WzID930RfHE7iIA2-o4l7H-Mg3Has_hcC-Amnldfn3x2iaScfmCjENvSrAk4liwYZ.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/eTwRT_68dYosH81kyhFYyyRd4fuW3X0UHSbVC-gHJYreHcojMk6dqYw-iN-9QhVnfeiaCMEql8S_o8efJNLSWF8EwMVTh-SXyE8gcM3SHnCeiDOJnbw2TNau5AMPga8c.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/OBlqYTiUHIDnRCrl0jo37hHZb2AO2BYfnhNGdl3K4d0THDliqAjLOiKwxly57G4Io4rx5Px5jkMVpONkFHXOcZjCi8tmfD-eRmTvNqjM0h_X2mVnpI5WTzQYjY0BNGkA.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/x4V_dKwCaf5A1_jA3yyFpz3Udt5_Jvot4GFy13mpA_ylqNVJWmXOjx89difMufpt9KZuTTtBbzCUHkuv-gVUeAJH-DAdFXo1W1swNtHZurCc-u98hqIYFdgS7Z_2wq4A.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/nJSGcq3SHmuXkYuQ4Ad-qRuZfkwuNjTTn1e28zEPtQI8-GaVT8KKGUfP02Qns8bqO139So5B9kE2C4DYIOgoW5PL5NVqTmX8POMlOpUPmhPj8fSkNfj3qjfhhsKtHQ-e.png) 
+        - 
+        - Derivatives of Hyperbolic Functions
+            - ![](https://remnote-user-data.s3.amazonaws.com/dC9nuRrCJlo1m2ulrg8q_FhWh0xJNJn5cT8_zk-l0KzGrzMRNszjsSCueOG1KjenZNWFl5Ve9HxdPTo3gFfJzYQmXxPs-eUz977Lo7grH8d5clJhM97e6UPMJOWRmNyu.png) 
+    - Optimization
+        - ![](https://remnote-user-data.s3.amazonaws.com/ovzSSRU2gNwl6Y-5Trr-gePQL_goJyKOz6zVn9dA0FyTV9xyJMIGK2pDqJq248MH6A978g56zPjAb2JpzPWT4Sps1ub0D8V_jXwYwcgh1GOAwQx0WNXwMJgPsL2wB31J.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/FMBSYOSqBX3EYPNIMoklg31HB824X9nQEFtKO8fXPl5p_erOLgRV5URi2r_VMWWRhNMCMc9kHvR6QrB55i2NR-dkyj2YSapDIi2vZ6t3xCuX_mVLuZH4Y2d2aap_rlyM.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/myZV3stiWydW9odOgz2Mi9j_skemH3d7tTOZPK0kyk8SGARu2XA2AnWbW0d9xwWZ12Il3R87C3jhTI7UQSOl1Tj92tkZU2MDQ6EbSP_JK68p6LzubMz8txoWcbhudLYz.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/E-O8_zg3_Mk7mVyjL7x4wAq-izx0e1xluZoMyLRp3PCVijJTZeTzm9w3SjreEWXvpTe9VTdEtLi92kVOTl-P7WAajBKNovM6_UQvIKzppEVb4Db43slPVCHZ2fR5goVd.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/LbbbnW-qB8DbjczP94VBUSO5U__rRupoBh5bGGjDdRWbDchOKXOY9tDfH5A-gMLRR3tSu6zRDrWc71FXcd9_oNBpCqpyp2N9Xo2t86QfhR_5XsWVJLgJfGALA8Oc_E_L.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/8N1-GM_xw3QdoW6FzUc5zuVQNV_LfKCmIwNHRuEXKtA6Nwc1OPWIXAC0X1OcOZdvdf1_5tkjCiwv194zQ4V7RdRayoDzKVt7PSRvjrb04HF2uUJQaXmgqzzdtW4VA8CA.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/Ie1IJXox8fYjg4fcI0d3wNjrJkPkET4gZDss_Jg9RaueZUf3qHJnIOWj0x0B8ZurWhF2E3J9HccWtSVT12ELut7c0pqrNYaNFEVjDmvDtoXS_KwPwhQ5S3v2TBh0asxF.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/6d1uYZ8Kn_K9TMWpBTpNg1qw_6SxQNNigDtdG50_gVs82LySucCdZMDzoB4T5VlohsViNgenm0hlgQUtvfTgo2vPct5Fp8IqhchV__dedBKTgKqD6eP_cby9s0ZwNY4S.png) 
+    - Critical Points & Polynomial Curve Tracing
+        - ![](https://remnote-user-data.s3.amazonaws.com/VRDFFOiKrXmd9lnI7jR2Dv3Mznr3hngmcUyhmJWsfFi6ssGziLzTh3LACHgimpVG5XqZX64gfkiV3BWpE5Z4FcoIMMd5pN3J-UK05VLR61fbzHAhHJ3kB_279I8GSMoK.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/gBEEZfLsBitRMDxOvadJYPNZiUYYdVqsQ4MHjHWmdt3mREF-upAlfFtqY5LGLx-mdSPvXdYVt-s1E0fRqYt2dAnUCd6pW6B4bF-hSZ-07GA75-VcnxE0asuDlBL5bkMf.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/r3-G1xyVK2mWWaUigKXQuu0hhB6hpZfqZfEyvy_J4X2RsUvuHwbTUr3V5pX79b1uQ3r7W20m_W97hBq9EskYWlHKtvj6hIzgUIqLYAJnEJCghIq89hXBGeQl0UManbep.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/xZRuBWaH1ouXCUT22StVDcV-ZcB3GcF-kxZMP_Wbtsxb2LEoJBlthCrQCaN8Yx9bioV-m1zq98yEMddbL0Izc-ZEjonHAgQTES1G_FFTRDrlz0UY6lAWgBZvqZAURCCO.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/a5sU0XTq2wC6k6bdjAK7LroeODqyjdWvUXojbLm8GocKZ9uDHgtj2PwDjkRUKdnQBsRZcNjA_afeyTzAb_2IdyKfh-T0zflerB-HPB6WUB5ly0Sz0QwL8iMDr5Iiuqy5.png) 
+- Integration
+    - Fractional Power Substitution
+        - ![](https://remnote-user-data.s3.amazonaws.com/UNkmEkPMfje-QH1kbmJmDdWQS-uU8k8yQuTNhc_h5TW2MzMFXgxIc8GWZfIPgoxrlPWslrTdOL82j5qElTX53z4aQzHgjmCiaASj3t8xpSsd0xR77u55jEzp5p0Dmiib.png) 
+    - Differential Area Element in Polar Coordinates
+        - ![](https://remnote-user-data.s3.amazonaws.com/A0ceq0myXEx74ER7a3Oga2RztqAEekHftQLXksxzxKFj7hqdUURZUbhSumNekh38N72yeDV5t3qhXydF6R4zWyIqBtDMgrXM3AIgfvXIHgslDDJK9oK6YRGVqhuEl9rK.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/QJ7yd2agWjk0aeW24ou3b7LGttvIF3mhzioMxJb-8jZq255Q7j5SHn9U5ekymEMo_dQvVO6VDOiKtEKCOKgTcfxaZP0vq4OvOyc98FVoUKtUOTrNhgG_AZawKFocwDTx.png) 
+    - Arc Length of a Polar Curve
+        - [Arc Length of A Polar Curve (proof) - YouTube](https://www.youtube.com/watch?v=M-WgHKRVxkU) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/irBaN_SWTSWWWZ4MhbcWuT-7J-O9zg8BQif4jp5z2HwkyFrAaQ5hj8hu1Vh3AaK1ADsqEQvLgCCuDkX_AJyIQcLAkKbf8ACAkeADtrmthPRLEfQ2CJP0MAjxsyT1JrbE.png) 
+    - Weierstrass Substitution
+        - [youtu.be/q3IexrVsaqg](https://youtu.be/q3IexrVsaqg)
+        - ![](https://remnote-user-data.s3.amazonaws.com/j_cX2HSywSJW5OHhKiAoBta5nzMin_hKSz0vhhOPeLcxg24BDitcI6LUIVaPqHwyQHwD-L8ZVEbcWSIlQdHoygKwNsEYmKY9wMozzT9ZRUF7axXI4FPPJu1LVEhuErp6.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/f98hAWq9jo81VdsqOv9EJrStKjXmCjKfudqp_uN_h8ddvaeRNZfEzyCcSXT6Imnnz_SAmiuAEPcpOhLcWHLBIYhxbnCxzzx1N2Y2QpACM96E-WwykkgTnZLFymsdNojp.png) 
+        - 
+    - Walli's Formula
+        - ![](https://remnote-user-data.s3.amazonaws.com/cKKxgfi7vA7ExplMA78YwjJuBb_LKOiiS3p8upHg0aEfkKOPMB0QUBmrkRR-qC-eR6Qw5BALrDaE86oG3drfJkzlR9Q6SowR51T_uUP7m8GmDWuq8TGQS622CwMzNi05.png) 
+        - 
+
+          $$\alpha = \pi/2 \text{; if all are even}\\\alpha = 1 \text{; otherwise}$$
+
+           
+        - 
+    - Taylor Series Approximation
+        - Taylor Series Approximation formula>>>
+            - ![](https://remnote-user-data.s3.amazonaws.com/0egU2GyKVy5PjxzFfIK_KpEItnuGSmpT2g6Xz1K0q9-cKyBFUBhc1SfyJ6qqqaEpBCSP0YUTfABB9l6CLmA5TSTK-C-utfHF297mUOpNS3-OapQ-lFeE9CFmiCl_4RZs.png) 
+        - Maclaurin series is a special case of Taylor series where {{approximate about point 0 instead of any point}} 
+    - Odd Even Functions
+        - ![](https://remnote-user-data.s3.amazonaws.com/in_Of03EwYSOqS955goWO7X6u8vNHMMH7WVq34NON3zrvBF3UR65fOIjhT_avyt_M-nhTxhHcp73qXDsWnqNVDnQLgVhjsaO0GHi8aNERdmbl5xvnoO5AAnm7MtZ041f.png) 
+    - Parametric equations, arclength, surface area
+        - Arc-length (s is the arclength while x and y are the horizontal and vertical displacements)
+            - ![](https://remnote-user-data.s3.amazonaws.com/NJjuo7L1iz7cf1kOCtNrXJgCrugeyx-bqNtj-vzMCAaDUenvpvdth2amQP1JYoPCo7RqkFnP_SiswtuEDW5YY7e1OArePCiK5t2niRcUc5LaznQwxHwF992-9h64gjIA.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/lqrR8uGtGD-T_Uf8qcy7185-KTXUG0SLSvwT3qNXyDeJDGtkU_3PIuPN5o-DgH18R-W1mpm-X9txhuhM-T7q0u-JOdfktcZPj7I9zp0YaYADUoRvFIvaK6psDMcYejOR.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/nIEUmEB9yCGRCG47g87h9kMdEMCT16dOTYZ1dD29MST3Chh2g-r6Ovins8V_rx6Pyhi6XCdyyE_kMT84WCogwnH8a7gNC9tNSbnZCoY7Xyhs-2mqfehu94x7-pC0-1wT.png) 
+            - arclength of a semi circle: ![](https://remnote-user-data.s3.amazonaws.com/TqslndKCMpEVCVzbVCnCkRLLhDry5Z0O3SkksiubvMj5Aiqi4B3dJRNt9zdjv_r71MP2nj7qqx8js3gPop11edgQCJiNUuT05SNqtbAzDh_iaMMg6xA2BoilYGZDMJJm.png) 
+                - it's gives proof to the definition of a radian... that is‒ radian is equal to the arclength of the unit circle
+        - Surface area:
+            - ![](https://remnote-user-data.s3.amazonaws.com/lrCbBTi2kaJgdmFhZH-mpisX3GIu5jw_bDJtf_VMjIkL2trq_LHo1Usosk2YBqJDfNOmD1t2fSc2B4QEKO6ccxVNUdo-LK63I7DIbZJDoOBhoYaKvsNYpKk4MqdG6LFG.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/C9U9-uqY0w6x1sLuTKwQJK8NTNOxyy780xGigEjJ5vIb30hGmAYLl7jqvtMxrIE0U--Yu_3CaMn5KPABvnojrPSLCOGs3WL5ldypnJNQ-4UZ7CneWxsd-L_w-1F_98WM.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/ZHmOmvsid_80gB_5HJeN28Oh3afMjEtT74jSoc5Y55I75HDwZNMBszNibgR6p4YUSalwfbzKhYk0s26qFwfwPUAi0yB4bCEOx4SeHKiCKe54FU1YqV4uImCi6nQjafsy.png) 
+        - Parametric Equations and Curves (and arclength of them)
+            - ![](https://remnote-user-data.s3.amazonaws.com/c4Qy4v_GL3htJEo0va2u9Gti4b-UWGDam9FkVagdrPlKZcU_Lup31A_bUv2oBQybCaOHnXIZckPsMaj-Jw-pHa86MyiYu1l-ZroPDnsra07twEBIxtcNZfWsTkT3yXcn.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/Qv8UvH7vbbCDJrB8qGerj00Zhc3DtjP31fekT8g2sVLDnoaGtkVKCj7hp-U8AWm1hfqn6vQPOwJJfJqpdqZprnhBTFdPod-2qA0M5ay-5tEONAnWKhmZui8ld4NaBR_0.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/TKhjCcYf00bir-7DTxbEozKoc2UFej8NMS_aPTmHVEgs0vQSp0VmekLQUO-8YI_VlYQULWYyKS5MBnAxk_g9TMIWcXonmUd6ZFoK9VTkTT3aGUNtGynLww5q3HW47ln6.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/Wv4cOoWVk6-W5nP-v5bnI0pDVKdcipFporiSuMFtKP3Zry2W7lNK1NStYMWJrqf5I3sT7jdvkS0sSQWw_Mus6ntbbcOrysgpSayQdfbsPqFXQjkOdpBpE0Gg1a3Br_MU.png) 
+        - Polar Coordinates (and arc length in polar coordinates)
+            - ![](https://remnote-user-data.s3.amazonaws.com/U8Pl0r-_o3CBeihf9bxGtO0DDX-h7TLY1D_wbImTOVTpkGZrIHzxsmT-pobZbnGXA0CetdzyOjMCwr8cJZKgOgYIX1bv2DsCLrT51zoGKHd6SG6LIzbG2StawQZjbNWb.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/RC0U2dOU7Bov8sVOpII5AbH4OvvZ1-fCfBwoY-hcu4kh92Bppx9c2SngtpuFCyngS8cbu4DnZQOrbaPnDNtm7r0EQ11WSjOc8A9E5sz97FLqJMOyVXDQ83s132vAY2xo.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/XLH3iCV72EtiIUJ9C0oIKl2uHKphjyNS-KReX-X0yO0NUdEYqzjuz-5OoBwoSX-CEzprnzGSX3PyfABQlWS9TOocKkJelEGyBVXA7k8Q0990sQAMxREBQtBJ_07TLd0H.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/IIkTg_hEnpPY0wqsfBRBCWg3hAW0fgVoG68uyZAAF6WeF-bGtSvYjtVAvP5qyzWQYjWeJ8ri2fe7ykJxvan6Z4yoP_V5vwMWgnIaDKYR1iD1MnZ1OOj9zo9hbJJ3P5BQ.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/PzNdow-Usp8XYL2aql4VQ8EZwqXrtvZGwewPehglXyc17PRSraAIGNRLAE6cmxwjarlNB7Y-0O-ZivJRu_WGeoJzh0pgL-8_5coBm0AOEmLSKeWz-ER5q9aAcuf8S2MR.png) 
+        - 
+        - Surface area in polar coordinates
+            - ![](https://remnote-user-data.s3.amazonaws.com/QSETTymXpQZWTw_RXs1jZ36t1CP96WQWBONUl5BVjpOSBWYlEA-nxlSck4JooMN8gXATMg2i6dKsTctuTLvZWhzVUy5Tb6IUz-8817I2xnYUKgZeExGRn7qWa3s2WKsk.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/LzO100BotzWSFQq8X00rJKZNkfZ2FAMxDmE4jEWDj4hMlwJvLiMEeoRjJrXOaJkioNluO6HzLBrSUIBCMvJjTd1VDHITkvq7pDBW3NOxbnkBxiBvQ4jox6m_LOJuZx3X.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/iWz-VZFwC2J6q2uT2U28GbaMjQTG4a5UixhcH067xE4inOeBOeKL0WTZts7hFAaVi7Hrj45Qgby7D09pRHVgAcEKcpeBSS3oonXpkc-ikuvS7eVfp2RiidEGnIy6um__.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/RrLgqu1SW9sxYjNDkoZCEy4CJc6SFnjTriUWFM1uMHySlR4vj2PvcDQhvHakOujtbNIKhsmVWxHMDnqF6b43hcqfDFOVsJti7M_iJFhNLOAkL4iWUWJJTuCsBYq000Q4.png)>>>
+            - ![](https://remnote-user-data.s3.amazonaws.com/7dnsctlqgm7ZOk1d1_xwTmrvNq4KLuU28Wxr61TmRrD3mZrAvDksVH2zjpX3wnDr32Do-L7gG_kPn2Iqa5jjcxzFJ5j7HyFGrpc_i9vJ6Ip_3TSW_ELueYEVo2pZLMLJ.png) 
+        - Kepler's law
+            - ![](https://remnote-user-data.s3.amazonaws.com/HjCEebd7csreDGbKrRHvj-L7hHYgoiPBajVRaLiiOT7vBn96bPI27nrCZ98S7Sq7G-FMkqnfrtgpQt82j6KO0aEca2ZfIcSK8Rhwnc8d3BWzieJ-h9oFSupQckrkrv9P.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/gz33ruVW9UenjnD84YdmboT0YHpq1rJHNrfaglz0kNuoVIM7uZUGMc0-J6sOBqotVCzo1v3j8csn7KYrHH4FxuEKviYQTvTQ1WGA8NTWtjwXJ4SvKrklw3VARMK8AW1V.png) 
+    - Integration by Parts
+        - It's important to pick which element should be the u and which should be the v>>>
+            - you want to reduce the u (or make it simpler)
+            - and abuse v for its "consistency"
+        - ![](https://remnote-user-data.s3.amazonaws.com/WglRkj2zVZOYdr6bLC_vD14qEBAyQRaaNl9iBMN6j35rfl7loLthUSNIQLlhhr-24ozEWzJpcOprxqpYWwi43TnlGlQuhcjQYblufikkFa2rmHYVyQnX2pE4WpicQxGL.png) 
+        - Definite integral integration by parts>>>
+            - ![](https://remnote-user-data.s3.amazonaws.com/MaP9zDXl5KSMNN8ecUxHQo49PkcMJoHOOMdlvtGP9LmyejizegPxaXGb65LNVVlD6EgS8OCABBJ-AI69Y0JW8JlqNG1JWYJk3FoycgrPANfgw1frIG18Hf5W2otfhqvx.png) 
+        - Integration by parts examples
+            - ![](https://remnote-user-data.s3.amazonaws.com/8gpPKMdHbrkNnJ7wEh9dZJZ6mJw-HLNdd1OlZuCeznWw2wX4Nrx4ezM7gCbjcHbLtkWVBwRfpkJBgxy-zsSaYed4i0uruj7uc6FwSqBtOuzp9gVT84BZ3qsnGv2dVO2p.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/VP9J81LvjtLE_D22NAyK6cqkxg_zXQ77pxsHmIKrwn9GKkZG5BJ7RTuvKFqs9nnoeZ4JqOvZgcC5WI_hzqrE_EgzQmgHM1UpZdY6b0ybC51Ak-UmfrEvEUA11qVEScCC.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/0SlhT6s85Tl30PzF6MXHKjPK0-u-RZGVolvDotEEHlObshIgQbbf4ppAj27h3Or_m6KjOwz9uRRQ5KIE_0RZd5BYKqOixKC7E2OdrZLSVHhmOb1qEwPIOlTRiVQx-tnM.png) 
+        - Reduction formula (recursive integration by parts)
+            - ![](https://remnote-user-data.s3.amazonaws.com/b4qOdnDTmBYvY72eFn9WRHcQn6ULth2AMDpnv8_GHtrUj1JwpDgF5H1NAWj4Qaq3x5qLyR2nqTAL9VXkEKvfx1Be0trCq6n_6YqLI6vC-yq12pl1sHElUdRWePR4NpVW.png) 
+    - Trig Substitution Integration
+        - ![](https://remnote-user-data.s3.amazonaws.com/q3_jWHCzo0RpWPeFVuFaw39sG7ELwfb3lraL6n3evyR7q7XCq470xMiPSRQ2uCWooTqOfTR9XdV13PJa_FED2RGt4-vPY9cuRJOWemuUnWG9HhfdZ9WyX2kGwWIzyzjN.png) 
+        - Trig Sub
+            - ![](https://remnote-user-data.s3.amazonaws.com/ITLIeV8U_kl6gqatvprrLeUmcxXeZyulhoylBeaikiA8juoFWgd25DtTD6DHCUlqdxlYb6Wtg7EkOhTpK0A89nyfXB8kIVmAY-snANyO97lhvoSvCMqFCxo7onWdp2Sb.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/nr-S8196TP4z4cFdQg62IWkS0JudG-_JXtP-vxfDfgyqgyEqoouqYPB5W4stBu1-i58aLaDKRGVRB3Kibyj5vwnc4KEpTnOPyuza5tUPBwkg9glXrMm8bnGH5u4bVXfL.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/Sr_--cVO0wnBQp-KzEyqPIiKqnzorBT_974DluOHUGqHYl8TuETRFBqNWo_cP5qJ-b3on8boLhZmWWLajE-6wk2pIt-VuCOh8demQRXCjA2eW1lMLZAIRua6c9rI1F5D.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/6Df9qn7rGRPI1L5OYRv723VVg7joh7SLZuQhxs3OHak32DGwLKMKoPMOCqJcjzU5U3PsARHUch7rR5irVOyXlp35t8b3CEugb_w8yXLG4BlHXlzrA7Rf57qv5wbmtucr.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/xxq9lzWPjQGQeboEBiY6Qh-28A5rrjUzfK4ML1PCh_7OSrU44t-tfcy9X6m1i5dPkWFiNlpe0DjGWkIgWh4YewQTwldkIDVdgjKGj9mcoze69axfZuwX984cIoJJ3j2K.png) 
+        - Inverse Trig Substitution
+            - ![](https://remnote-user-data.s3.amazonaws.com/8ZXiFuDFwScR10zAuCUvKM98uFIh8f4rtlVd7fWgquqj7yfuEbzoCd94eTS2cxWiEIhzsR76vanqdirlJDRVSw7bjk47paARsbc-_fiQXi4-W06NpEHVh9nU9oly0AQX.png) 
+        - Undoing Trig Substitution
+            - ![](https://remnote-user-data.s3.amazonaws.com/3V7nrI8_cavOQB3ymU4l_t1amECJr37I2mQzR0ARz3c8MhAN6Qku1cbjVU8IfG9b6Ua2GjR6IYIJjo-V5jb1e1ThZdQpk13FDyqeCNO-DhKKwIMZK-NgFZOPGtFtYdd5.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/YEL-fy5YYn86vFyo0HuTCKoZ2DyzIsxtajW4fRHKd3mrcckCuJ44oLhSF9zd_giuZIX-0OB8qg7IiVuMg92oTXhuQeIw80oh9EMkj4cIkrWVdwChOSKJOUll-MG6LdrH.png) 
+        - 
+        - Completing the Square
+            - Given this: ![](https://remnote-user-data.s3.amazonaws.com/69uP7Ue2QoEuLmDr3wfm5vxg7hBq4yJ0BmBVmezPVx3XGwW1K7L0KvJj68gUWIhC46yC2W41KIAyfBLwDF-rNCw34HtRRbFAlmnkdNP3dLiZ_vve98Hl1PdeqE3juP7N.png) 
+                - ![](https://remnote-user-data.s3.amazonaws.com/e-LHFOFSbPg8Ai-_Skx0fgcO4vpQn9cbVX7yYRHmTh6bfsH1nybbt2PlLD-0jsAv07FvBxI3-e2yEBmaSRcuuKRQIPt_Q8xKyLfZyEbqtbeHipK5vNTgaaZ9EfUohgln.png) 
+    - Antiderivatives and Integrals
+        - An indefinite integral is also referred to as an→antiderivative 
+        - ![](https://remnote-user-data.s3.amazonaws.com/nhzXUh1XNCHwU0w9AanS6b3GhVALhM1QrtepFwrmNxj8MIcyRBSLzRExpqhjDvhFGR-zt0vBg4Q6HGtgbH02XUC9B94PQKu8dz92pZ5n7OEPBGz41PWNtZg-yr1sJgW-.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/vx2fxcaXrJhRnqE2qMw9BDRwNnDFYaESlsuLww-8B8A79xiMaC1qU4jcFmWJkb3g9LXbs9RnbGgwV_1_ZENm9kA2ZLPenGGLKqrl-eOXK7Pkr0s_6HhfU7cQRIRFn8Cm.png) 
+        - Uniqueness of antiderivatives is up to a constant
+            - ![](https://remnote-user-data.s3.amazonaws.com/geb0aGWOhXnbMgF7zZeABAUiL_9sfz1q470IDSe3tLQmRiRsbgzxoLnaOxEeBLRVgCd_routxYx5UJGuOtNHciDmq6xnEiCvurEcK-3b5lWGOu4IPuh_wI9Kct9zHATJ.png) 
+            - Proof: ![](https://remnote-user-data.s3.amazonaws.com/ymnB24G7KezsDeSRQuCC3T2AyrysF5i8CELEcLXyb5TraXyDqd5oY2W4MsxpJB_kxraPnB1HZ4X7a-n-cUCCvflxsq7aIN2SEhX-F6VBzJTHdp287CKWkxH2krGxGKM9.png) 
+        - Method of substitution (u-sub)
+            - ![](https://remnote-user-data.s3.amazonaws.com/7Y90mqN7T6jO3lpgyYxYoF56vwgTUCCu4mKX6JRKSEmDvFmm6UQp7RTm-eXj-zYJ8Ga2TLbd1Rf3imrm-wD8ViPjZNdZ_QH6JKOnHP5fiRYfd2cdmC6d6G2x8DnPTKYW.png) 
+        - Advanced guessing
+            - ![](https://remnote-user-data.s3.amazonaws.com/L0pcMDwO7PM-92f3LjhRDVrAB9EASxEnc1m2kQ0-T-YRXs391K5N-K8squvgG5oJl-2eMNLDWvm5xwayOWe8_MisZqcJpkCVtYbowDsvToRu4QlP6o43LTRsrxNyS37h.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/pvUxoIydCfhgKnNum6xfM4vvBTj1CzDP21Kdad0KxdHxoasjKXuHge5VodK__3OoWk7nek9TuPrM9UQRxHICwHsgBNc5vJtMjqVU6-7bPSEBcTjtzQy3nll56nklamg1.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/e3dLwDFdAUcCqCBNUi2xr_pLrlrFEpshyuXWiZe2Z2jGTZg5zQrPLegPTpXJ_UJtXWA_Bd4NGsqqJ8jqRj9fZVtvcdOLdhmwMOiGhsZo8DhtDNFfEKsQRXbF20y6lLTK.png) 
+        - Riemann Sum
+            - ![](https://remnote-user-data.s3.amazonaws.com/rrMSr2g31NJ-taEzSmJpnrT_XWRs19FVhswlFcTnLSeFduC30NSjiYRvnpryufJUmeG1vxnrt77FNeGqkSaGcM0y3vDv0nnYHcgoUs9CIF6_xtKzJbdxIr5-FR_86JjI.png) 
+    - Volumes by Disks and Shells
+        - Area by Horizontal and Vertical Slicing
+            - ![](https://remnote-user-data.s3.amazonaws.com/CzHf2prLHtALCGlFZy8LdVGFqVWAAfLqBiU-AaXpNsIqJJuyMObfwvUwNZKQjX_71excv2O-Zx3JY04CwFWwxrphC8Wr72m2hPSHsFpYqhgdv5BJRcF00XJ8PdPreicp.png)
+        - Volume by Washer (disk but 2 disks)
+            - ![](https://remnote-user-data.s3.amazonaws.com/-LE1vQy7XLbYa5f-GCyfleBS2bjNA_ntN4fyjsbhl-k7FIjL8O-fp7dUkRRL_pDZfuKB6kh_ov4X_nd2g9obJ9WSOUalZYLbYzgkLoYrQGmBGONKWUR5bISxL21lTB9m.png)
+        - Volume by Washer
+            - ![](https://remnote-user-data.s3.amazonaws.com/3JIKHYdZOwMoqryNyuoFcvYV6J1E0oQzI4RnEgEZH_CxQmSocteFfv-vbz0mtX1aCYran5_coCaHqsoSwxxNrr23UgkHNIn73GXJroVJfjhsQV-GhwByvskqHTCzwjjf.png) 
+        - Volume by slicing>>>
+            - ![](https://remnote-user-data.s3.amazonaws.com/s9mm6U1zhc63H1XAcKmpK_W1JV1zInGMf4LM6coQdEg3bw4p6KJ5tAPnGkmR-AWl7S1EJjlNpojqMs6IjujYSVABLRssTwRzbWHgY6M8gMIcsqALjcRZOvC3Kujv-X4i.png) 
+        - Solids of Revolution (Method of disks)
+            - ![](https://remnote-user-data.s3.amazonaws.com/2num3q-9p6L2Qak0734_MsipTxNTBInsESGxVxVuxcs0sMTWCUDUECWrhPEhLs6YFAP0aE1u7xGCQgR4tF894h87qHUCjm9jvst9dgLlsnzJkBbHBtOtmS12-R4dbUKO.png)>>>
+                - ![](https://remnote-user-data.s3.amazonaws.com/mHcoJ2x1c0_UYipyq5F17D24nqg7Xh6lvDEC6QljYESZG8ZtfCP0kOJvZ4wP-GkIR487mHhPbuZQGK8Q3Av9pxJTkyKwhOcacgJZgY0arKJun7Gkl73oFn1krknKRIEw.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/jGgLxsRwgSNekWZARlnRyfTP9A_i4tAHpDW4szyIgb6DfToCGuJSev5D5NXCod3JZhBqTaDe0pk5xBzykWPc9I4Fa7L9GRuJobv2XzilHCiG7FeVtWFD4MeQHCttsfhL.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/7SzhI9Ev6k9g5FepmbaYDF1rPZCgVyxnbreUkaVtScCsEdNO8hvU2MLRSixTTQqerjA1gozC6NM9kv6bAUk5VIJqevLr8f7SgDQ3tlfP9yaGSM8eQJjEJgWmGaTuoLzo.png) 
+        - Method of Shells
+            - ![](https://remnote-user-data.s3.amazonaws.com/s6m9rrG-39kuhkVFrJoa3RZOBVp8H4Q0bsLlgG8oF_QZ1FRmYBGjS86WodMzW8zNY-YgzBc0gYygQiK4yuiTy6qdKmq3REM2uB2vjRyFMtRmBaHFF6gmocK4ysdggpa8.png)
+                - ![](https://remnote-user-data.s3.amazonaws.com/XF42W6pOJukyWMtB0Wg5gDb4UJDwh6MUwsoxsBZ2SsP2mRTWamFu1bWNHWj3Y8ju3z6QTscqh5Cf_AbsUC9QtJyjeBRs9kBuwZq7bxX9C3D_XUMJT13w5GZfGdao4cye.png) 
+                - ![](https://remnote-user-data.s3.amazonaws.com/JJ21W5kiqqI2T82-DUr17tx3rx1sQ8knUUXlsv_pPGVLhYasjcbwabhT-Qoe-sMuvoAvH2CUNnjrSiUx68jk6Btpp0iyQ1hcQDM-t5LfnFBf6IiH1omGN9bDCwB_NgkX.png) 
+                - ![](https://remnote-user-data.s3.amazonaws.com/3pUOe5tdpiqubfF4t8iu_hi80wvdEN8I8jd4iKu7NNaGGvTbzgVYUTcU9rQ2W42pTkjL1z7eYsx4nU6-WiAMVtPOLM2UsEpgFFMxIBTiubEfHQ73TL1dU3egmyswpJa1.png) 
+        - **BEWARE OF UNITS WHEN DOING VOLUME BY DiSKS OR SHELLS**>>>
+            - because when you do it, it's dimensionless. Or it only is consistent in 1 unit (you have to interpret it in 1 and only 1 unit)
+            - ![](https://remnote-user-data.s3.amazonaws.com/vwPYGhtIjhPNpMslSKYz6c1hCsPo6r2-4LZVxzEKUJBZc0nnhP-qE1dDOkmOOhxHdRAKF18kEr7mWNuyr6tYMMGmvLeHRYfwAFJi92jN1KBWIvcbC0us-F4yDajUSymz.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/xR841X9hJm_GtGI3ZY2WEN2-w5avKm3rGkAXl8jbRf7lsNmiYWZoStOEZp8LBeVtY3z3eOfQenCtoRvP_AYp74Z-m9lCaw2iUTDP6CEkPZEesAxp038YJtz0gs5lFuPN.png) 
+            - take note: same "length" but different volumes
+            - 
+    - Improper Integrals
+        - ![](https://remnote-user-data.s3.amazonaws.com/_qBw3CyI4CQw_oalEaAsUcP1kiaZITCn4x1_gLEvQPHXNEw9uEOvx1aLXf4TCFflMEn6dkMwdEd4BDAaOaKX2o4YqPOI8HIZohY48uUtkNhzxTwl1EVzTbXXMewtVETM.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/ZmSjp0r4ft0EWGSLoUEBD2GUtA8Ue5VECHNYjKxNNZs6dkRNoQuKk6adUSEcht3uWsefQSUEkKaTgNY5EaPxuRy6uO12oOieV7O8JgEUIAQ3YMI5M0JHoL92po7fwKjv.png) 
+        - Number of particles
+            - ![](https://remnote-user-data.s3.amazonaws.com/2ec4KRHGY__PF5SVVbPafeSTtl6XVJnOcqJ87mcSUwdxLjepCJtXx9wDWxnLgEcL6nnDh07Dyw7bnehWEFUGFUdlQnUx71uBATomlMJiA5-MY_ZezWi-IJ3XcHaeLdIK.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/ehD1fhAoMC0wALcNjxiKXG5i_H5ub0451IvIabmL5ywGq2OLsgLpvHW7SqEOi9NqBC85UAu9aYQK2lNFbWvbXhi7FKPR0kOBpZdToSA7fsmiZYV3UmRr2nX9drh9Xchr.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/pEl54ZOByfgLugvoe6wVsnX7HUCKgKVyX2EV7ZOsyhl5_2NZ11pklEwzt-mqNL-bWL4FhdGrPNHpQn8ayOj2RFkBCiLRt0e569e0qhDjOeVFqOH0OKLoTxBX0A4THypR.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/rmKg5xNkj2UhLBi6hvYm-MhekiWsjh_wiT4feGNV-9gt-4r3BJKsW1zvIXFOfTGVvHYi0DmHZJwDoeia8dcSjglhwknB471Rqh4rVlYlYbNALchD1-XogGqRhDsJil3M.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/5TA6XsReJR7CQ4kN45NkYQup2Gd9BD4R8_70ZXYErrEQr3MNSFm6PbWP_BH8uXsEp0c7e67kLfLTYMdxPgxEvcgTkYmZsr8lLHpSAxr_7ltdx5z-2CoyVUg5kXZYvugM.png) 

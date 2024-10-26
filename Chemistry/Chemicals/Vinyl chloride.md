@@ -1,0 +1,20 @@
+- {{Vinyl Chloride}} is a chlorinated hydrocarbon occurring as a colorless, highly flammable gas with a mild, sweet odor that may emit toxic fumes of carbon dioxide, carbon monoxide, hydrogen chloride and phosgene when heated to decomposition.
+- 
+- vinyl chloride color→colorless
+- vinyl chloride flammability→highly flammable
+- vinyl chloride odor→mild sweet odor 
+- 
+- Uses in Industry
+    - Vinyl chloride is used primarily to make [polyvinyl chloride (PVC)](../../Materials Science/Plastics/Polyvinyl Chloride.md), a hard plastic resin used to make a variety of plastic products, including pipes, wire and cable coatings, and packaging materials
+    - Vinyl chloride is also produced as a combustion product in tobacco smoke
+    - Vinyl chloride main uses>>>
+        - making/production of polyvinyl chloride
+        - a combustion product in tobacco smoke
+- 
+- What is Vinyl Chloride?→Vinyl Chloride is a chemical compound with the formula C2H3Cl.
+- What are the hazards associated with Vinyl Chloride?→Vinyl Chloride is highly toxic, flammable, and carcinogenic. It can also have a negative environmental impact and pose a risk of occupational exposure.
+- What are some safety precautions for working with Vinyl Chloride?→Safety precautions when working with Vinyl Chloride include wearing appropriate personal protective equipment, ensuring proper ventilation, and following proper handling and storage procedures.
+- How is Vinyl Chloride manufactured?→Vinyl Chloride is typically synthesized from acetylene and hydrogen chloride and then purified using various methods. It is then polymerized to create a variety of plastics and other products.
+- What are some applications of Vinyl Chloride in industry?→Vinyl Chloride is widely used in the production of polyvinyl chloride (PVC), which is used in a variety of applications including construction materials, electrical insulation, pipes and fittings, automotive parts, medical devices, and consumer goods.
+- What are some material science properties of Vinyl Chloride?→Vinyl Chloride has high reactivity and low boiling point, is soluble in water, and has polymerizable properties. Its polymer properties include thermal and chemical resistance, and it is used to create polymer coatings, adhesives, and packaging materials.
+- 

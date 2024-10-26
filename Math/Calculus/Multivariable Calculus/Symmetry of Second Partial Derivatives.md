@@ -1,0 +1,3 @@
+- [Symmetry of second partial derivatives - YouTube](https://youtu.be/J08-L2buigM) 
+- ![](https://remnote-user-data.s3.amazonaws.com/5Pfiy5prvD4j8cB1KfEMVkQAnNSaGb5AFVwCczvb28ORPm57iGGL9FZHiNT0wvPIpwiHt-XhoaiKFm9HLxZakD7pxhp7vnYwDVPiE5nfJXlTra6YYlz3KoG0an0ZiUwm.png) 
+- 

@@ -1,0 +1,7 @@
+- Dot products and cross products
+    - ![](https://remnote-user-data.s3.amazonaws.com/vLOLfILm0wbrL7d9K7ADpSS7jDYzF-X7cgVcb6mnB4Cff7JysBoDN_nQaPFCbtaYhjeEwQygTZNpf87Uk8QAEG1xawvSbToCYjoaGp9JYg8EKeP0g7YHWhJvlQl81vNw.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/r7g298nXV7Jl1LXjPpC3AgWyHWZThKsSD_JgZo1xDGdP0lmfIFMsDpz_ozna_A_PQ2aIbuQMZS7ZhF5N1A6ZdHy7W7AkIP8SP0WOKExFwiu1BKAcAYNOdfZcfYymA6Zf.png) 
+    - Equations of a plane and normal vector
+    - ![](https://remnote-user-data.s3.amazonaws.com/smQSadpniGisgWufq0Eg-GayxlDWbeHsEMp21aePURHWVye-ynDzAtJk4YtNztkmoxhAVOqskRlW5PwZCIOvpIaMg9tGP6EtygB-h93KlrzeH2JJgdAc1UU8iRQIOAJL.png) 
+    - to get the normal vector of a plane, get the {{cross product between two vectors in the plane}} 
+- 

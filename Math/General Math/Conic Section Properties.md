@@ -1,0 +1,7 @@
+- Ellipse
+- ![](https://remnote-user-data.s3.amazonaws.com/WE47x1WciTXVGBeV0MZT9tX73FhJwO1tfZ0avFBxJBbTdYnlpObuVcLpiat2NNbJVnKQ1fpQdkcpcNlFa0PmEgAggQwBZfrhqRNFTApqiqomAfVqJoXTz_i-SM4FtqtW.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/1i0VypAnzZ1hg_C_Hc5EiTXydRPr2l-kQm4KNbztsOVJUbd-FVJefVk0oYK40yrmqZVhs82Qtl2MR-793rxZmSJdowF08VzmF5mOiqL-cAlTT3-S6f9vLtFrUsWOJuYU.png) 
+- Eccentricity
+    - eccentricity→$e = \frac{c}{a}$  
+- ![](https://remnote-user-data.s3.amazonaws.com/japO0bEsGBzQNIUZUTMCTzZmQv1XmTJPiFeYmgVr_mW4VT2FdmU-JmvNV97Ll5QLBY2rJotj1BdeaZJJa8KfC6QjozbH-eCMExHWw8agqH0gC8C2WG5IldPJabudzlYl.png) 
+- 

@@ -1,0 +1,51 @@
+- Indeterminate Forms
+    - ![](https://remnote-user-data.s3.amazonaws.com/vY9mH0z55Wc4rVTHEBeUAlAzyZ92sEfCenGxmaFNwinVa9CgWH-mVmJ_TF2I_A4PCyDRmLK1PwazRWy2dKmmYRo1PX2ARNVGsllZVUWtmL00O1mKlKgG9l_0ed4afWHx.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/CNvJqFCFGaoI3fYuygDoDuvPnUNACtTy6zOVh3sUktDoVtwpyH-Hmlb62Br44Ugl2iElcw4t27_uW1PIdOQxCB3K5ZLT1mfUDSG2OsA_92jfxkwGSCaillAnii4JjzlO.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/9lMVGi633q-aI-VwF_1hPPAisFVvXOVskjd7sCj4O5r_XjXEdxGuWDQeZ-QnpzOUJSF6wjhY8XWNMEWmQ2J8G9nbKg4LF-x2OUxLjccJmeA-IfDzzeKhZkExQ-eITJ6z.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/uKUiQqutUyqg726E4LzLgGl-YECIALXO04Ixly7FTQd_RjH6wI23fSseTiKoxqq7wJff8evOTF7zdU5eub03m0uS3QJtJK97WQwcyezBy_y66kgU3sDwM_tDsJeszqQE.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/aFaCv0wVaYtivU60fIFAtSvFe39ZS9DiQSR8iLSJsAUw21s6dseaLMw6ieW7VQ_wawz57nPRfAt720myHq-VvpcK8Hy3jX7utJsGGbtrUwH0ejVardbBbwewW72K2DbD.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/b5_2YaUehKVu3vVCoUS6L69evkuD5DLCwLbMPej1M3y7NZO7mzi-liFuDQocD-gcR3va9DTSmPPX8LVxS28G8IiQ0cYkDnmcBnsbKaQtC1tLipBxYO2z8P0nzeQYkHk4.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/nsyJEZZV5RaqBP2x_6XuJySP6u78fgxwHJlJ8VXzuKjs7Zt-sR6YF_ap-4Nhm8AjRfMeqerc1nz8gbRCpWxm_wIh440UMSWs45HGyMJkvPjCE00vC06gycGSHnPESJ4j.png) 
+- Approximations Using Differentials
+    - Value Approximation
+        - ![](https://remnote-user-data.s3.amazonaws.com/Qz6WXtLAE2uo8Bn9RwHqvt1YmHSNLNs_K2UdcyV7PeOZl3dY0SClGAsLowUNPujkbzSlB2HE0uN0adYQuBwSn3rSmnQn64IbP-xrDC83NEsVj7opbW6a2_eax4snJbbF.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/WySGlo6kSrMFYtM1sP91HbVSAhfGejXCEUfW24N5rukyIWY0ADuBKbBsCMYpc69p01tQHm-JgSdyOsPXaMmDUVhOCT6VZKqa7iX9opx-twPrS6F08hatBlMzh5Qr8lzl.png) 
+    - Error Approximation
+    - ![](https://remnote-user-data.s3.amazonaws.com/2yU0R8x_oe-Ji3ON1bcZzONF_vkOHisNyQalaB-azm1KaTdF_Mg9md1p_EVTs2S-EANSa2TIkH4oUBMi9t1eLDMItcXCd5IzYKLG8mnl1p_DGQEyTcPVW-2-P_DUksSW.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/wvayQoO7tyEjzKELemaLR8XqMIWr_4D7_VGwDBQMYXA2ZWnF7kJGwK8USypYrcHN5ozFrF-bfb7D4HrUx3EJL6rEdWELKPeKAG6qYAj7-zZp2iUEz3EfV9ikUlKY3e3l.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/TarKw5SGe7JSPKXvCKa75qCOpFkkAzJFmNkur7tqzK8N6lQl318OWvlkWkh4l_CB6VfuwQUHxrQVRSdQ0L5qw9tIC007xO7j_-mENgvW4SSdMi0ecBdWxJi-9IasZwqa.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/zv8MPfZxjnt_vbk1Z7rm2vGGqEvPv6BsAq6L88FVSGIsqr7_D0k6L3hFz7Qo1MQU1lzWO8ZrAMwXGrGqBENZrQRmz8-_nwSeKb9DrhnN79b-VNsdEWvHAFUV7JLVg4k1.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/i82ncKQMYexjScNx1wE9Hb2VOroSa6PJ8CUXhVQbUu4DY2_iHWfcdXPXA932ZTY3k0sNPAEvRFmefl_5NJBaWIkmDQUka-1Kd-MshlE_2uIyJXoORfWXl6_QC3CFSQip.png) 
+- Derivative of Trigonometric Functions
+    - Derivative of Trigonometric Functions
+        - ![](https://remnote-user-data.s3.amazonaws.com/eywNeodnSDfFYRkp-RyN9DvEXEmzG406ilr2MPwMM1d79N3prhDJH4cAehD-CaU9nUPjMLj0Yk2xfme-1U9m2KcQftLmW4ki_lN8DRu1hND5mZhafUJk3arHeLojQhbc.png) 
+    - 
+    - Trigonometric Identities (Sum and Difference Angle Identities)
+        - ![](https://remnote-user-data.s3.amazonaws.com/pg6Wy5EdApeVmRUn_LxjuHzSaeExv98Bd1AONMaC0VH4MLoZtpTucyWJRHJGfbm4O7377S-Da_xls-FTm7rAVxRKSXrhsL66VBLhD_0ZixJe8VekbR3z0IsZagXBjigY.png) 
+    - 
+    - Inverse Trig Derivatives
+        - [Tricks for Memorizing Inverse Trig Derivatives - YouTube](https://www.youtube.com/watch?v=NI9Avfc9K2M) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/1xf1GaI_8Ghl5Ht_ik0zdV7a7CZGn0_x-wXs8Gm9FaOrKb28TAVGm6QYFhj3r4Lk8mzgIUt3t0b_kWVyEcieTBVsfb08EBULxRyO5hIsKmK8jBiwY_iIwLUxy4WpnN-5.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/8TfwS9aImo4OaOh8TQgmvA25sZU7dLVTxsV6yXb6UD1E2Z2viNaBSuwE51bCem2WzID930RfHE7iIA2-o4l7H-Mg3Has_hcC-Amnldfn3x2iaScfmCjENvSrAk4liwYZ.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/eTwRT_68dYosH81kyhFYyyRd4fuW3X0UHSbVC-gHJYreHcojMk6dqYw-iN-9QhVnfeiaCMEql8S_o8efJNLSWF8EwMVTh-SXyE8gcM3SHnCeiDOJnbw2TNau5AMPga8c.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/OBlqYTiUHIDnRCrl0jo37hHZb2AO2BYfnhNGdl3K4d0THDliqAjLOiKwxly57G4Io4rx5Px5jkMVpONkFHXOcZjCi8tmfD-eRmTvNqjM0h_X2mVnpI5WTzQYjY0BNGkA.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/x4V_dKwCaf5A1_jA3yyFpz3Udt5_Jvot4GFy13mpA_ylqNVJWmXOjx89difMufpt9KZuTTtBbzCUHkuv-gVUeAJH-DAdFXo1W1swNtHZurCc-u98hqIYFdgS7Z_2wq4A.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/nJSGcq3SHmuXkYuQ4Ad-qRuZfkwuNjTTn1e28zEPtQI8-GaVT8KKGUfP02Qns8bqO139So5B9kE2C4DYIOgoW5PL5NVqTmX8POMlOpUPmhPj8fSkNfj3qjfhhsKtHQ-e.png) 
+    - 
+    - Derivatives of Hyperbolic Functions
+        - ![](https://remnote-user-data.s3.amazonaws.com/dC9nuRrCJlo1m2ulrg8q_FhWh0xJNJn5cT8_zk-l0KzGrzMRNszjsSCueOG1KjenZNWFl5Ve9HxdPTo3gFfJzYQmXxPs-eUz977Lo7grH8d5clJhM97e6UPMJOWRmNyu.png) 
+- Optimization
+    - ![](https://remnote-user-data.s3.amazonaws.com/ovzSSRU2gNwl6Y-5Trr-gePQL_goJyKOz6zVn9dA0FyTV9xyJMIGK2pDqJq248MH6A978g56zPjAb2JpzPWT4Sps1ub0D8V_jXwYwcgh1GOAwQx0WNXwMJgPsL2wB31J.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/FMBSYOSqBX3EYPNIMoklg31HB824X9nQEFtKO8fXPl5p_erOLgRV5URi2r_VMWWRhNMCMc9kHvR6QrB55i2NR-dkyj2YSapDIi2vZ6t3xCuX_mVLuZH4Y2d2aap_rlyM.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/myZV3stiWydW9odOgz2Mi9j_skemH3d7tTOZPK0kyk8SGARu2XA2AnWbW0d9xwWZ12Il3R87C3jhTI7UQSOl1Tj92tkZU2MDQ6EbSP_JK68p6LzubMz8txoWcbhudLYz.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/E-O8_zg3_Mk7mVyjL7x4wAq-izx0e1xluZoMyLRp3PCVijJTZeTzm9w3SjreEWXvpTe9VTdEtLi92kVOTl-P7WAajBKNovM6_UQvIKzppEVb4Db43slPVCHZ2fR5goVd.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/LbbbnW-qB8DbjczP94VBUSO5U__rRupoBh5bGGjDdRWbDchOKXOY9tDfH5A-gMLRR3tSu6zRDrWc71FXcd9_oNBpCqpyp2N9Xo2t86QfhR_5XsWVJLgJfGALA8Oc_E_L.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/8N1-GM_xw3QdoW6FzUc5zuVQNV_LfKCmIwNHRuEXKtA6Nwc1OPWIXAC0X1OcOZdvdf1_5tkjCiwv194zQ4V7RdRayoDzKVt7PSRvjrb04HF2uUJQaXmgqzzdtW4VA8CA.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/Ie1IJXox8fYjg4fcI0d3wNjrJkPkET4gZDss_Jg9RaueZUf3qHJnIOWj0x0B8ZurWhF2E3J9HccWtSVT12ELut7c0pqrNYaNFEVjDmvDtoXS_KwPwhQ5S3v2TBh0asxF.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/6d1uYZ8Kn_K9TMWpBTpNg1qw_6SxQNNigDtdG50_gVs82LySucCdZMDzoB4T5VlohsViNgenm0hlgQUtvfTgo2vPct5Fp8IqhchV__dedBKTgKqD6eP_cby9s0ZwNY4S.png) 
+- Critical Points & Polynomial Curve Tracing
+    - ![](https://remnote-user-data.s3.amazonaws.com/VRDFFOiKrXmd9lnI7jR2Dv3Mznr3hngmcUyhmJWsfFi6ssGziLzTh3LACHgimpVG5XqZX64gfkiV3BWpE5Z4FcoIMMd5pN3J-UK05VLR61fbzHAhHJ3kB_279I8GSMoK.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/gBEEZfLsBitRMDxOvadJYPNZiUYYdVqsQ4MHjHWmdt3mREF-upAlfFtqY5LGLx-mdSPvXdYVt-s1E0fRqYt2dAnUCd6pW6B4bF-hSZ-07GA75-VcnxE0asuDlBL5bkMf.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/r3-G1xyVK2mWWaUigKXQuu0hhB6hpZfqZfEyvy_J4X2RsUvuHwbTUr3V5pX79b1uQ3r7W20m_W97hBq9EskYWlHKtvj6hIzgUIqLYAJnEJCghIq89hXBGeQl0UManbep.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/xZRuBWaH1ouXCUT22StVDcV-ZcB3GcF-kxZMP_Wbtsxb2LEoJBlthCrQCaN8Yx9bioV-m1zq98yEMddbL0Izc-ZEjonHAgQTES1G_FFTRDrlz0UY6lAWgBZvqZAURCCO.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/a5sU0XTq2wC6k6bdjAK7LroeODqyjdWvUXojbLm8GocKZ9uDHgtj2PwDjkRUKdnQBsRZcNjA_afeyTzAb_2IdyKfh-T0zflerB-HPB6WUB5ly0Sz0QwL8iMDr5Iiuqy5.png) 

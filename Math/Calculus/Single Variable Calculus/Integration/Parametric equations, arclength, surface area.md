@@ -1,0 +1,31 @@
+- Arc-length (s is the arclength while x and y are the horizontal and vertical displacements)
+    - ![](https://remnote-user-data.s3.amazonaws.com/NJjuo7L1iz7cf1kOCtNrXJgCrugeyx-bqNtj-vzMCAaDUenvpvdth2amQP1JYoPCo7RqkFnP_SiswtuEDW5YY7e1OArePCiK5t2niRcUc5LaznQwxHwF992-9h64gjIA.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/lqrR8uGtGD-T_Uf8qcy7185-KTXUG0SLSvwT3qNXyDeJDGtkU_3PIuPN5o-DgH18R-W1mpm-X9txhuhM-T7q0u-JOdfktcZPj7I9zp0YaYADUoRvFIvaK6psDMcYejOR.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/nIEUmEB9yCGRCG47g87h9kMdEMCT16dOTYZ1dD29MST3Chh2g-r6Ovins8V_rx6Pyhi6XCdyyE_kMT84WCogwnH8a7gNC9tNSbnZCoY7Xyhs-2mqfehu94x7-pC0-1wT.png) 
+    - arclength of a semi circle: ![](https://remnote-user-data.s3.amazonaws.com/TqslndKCMpEVCVzbVCnCkRLLhDry5Z0O3SkksiubvMj5Aiqi4B3dJRNt9zdjv_r71MP2nj7qqx8js3gPop11edgQCJiNUuT05SNqtbAzDh_iaMMg6xA2BoilYGZDMJJm.png) 
+        - it's gives proof to the definition of a radian... that is‒ radian is equal to the arclength of the unit circle
+- Surface area:
+    - ![](https://remnote-user-data.s3.amazonaws.com/lrCbBTi2kaJgdmFhZH-mpisX3GIu5jw_bDJtf_VMjIkL2trq_LHo1Usosk2YBqJDfNOmD1t2fSc2B4QEKO6ccxVNUdo-LK63I7DIbZJDoOBhoYaKvsNYpKk4MqdG6LFG.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/C9U9-uqY0w6x1sLuTKwQJK8NTNOxyy780xGigEjJ5vIb30hGmAYLl7jqvtMxrIE0U--Yu_3CaMn5KPABvnojrPSLCOGs3WL5ldypnJNQ-4UZ7CneWxsd-L_w-1F_98WM.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/ZHmOmvsid_80gB_5HJeN28Oh3afMjEtT74jSoc5Y55I75HDwZNMBszNibgR6p4YUSalwfbzKhYk0s26qFwfwPUAi0yB4bCEOx4SeHKiCKe54FU1YqV4uImCi6nQjafsy.png) 
+- Parametric Equations and Curves (and arclength of them)
+    - ![](https://remnote-user-data.s3.amazonaws.com/c4Qy4v_GL3htJEo0va2u9Gti4b-UWGDam9FkVagdrPlKZcU_Lup31A_bUv2oBQybCaOHnXIZckPsMaj-Jw-pHa86MyiYu1l-ZroPDnsra07twEBIxtcNZfWsTkT3yXcn.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/Qv8UvH7vbbCDJrB8qGerj00Zhc3DtjP31fekT8g2sVLDnoaGtkVKCj7hp-U8AWm1hfqn6vQPOwJJfJqpdqZprnhBTFdPod-2qA0M5ay-5tEONAnWKhmZui8ld4NaBR_0.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/TKhjCcYf00bir-7DTxbEozKoc2UFej8NMS_aPTmHVEgs0vQSp0VmekLQUO-8YI_VlYQULWYyKS5MBnAxk_g9TMIWcXonmUd6ZFoK9VTkTT3aGUNtGynLww5q3HW47ln6.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/Wv4cOoWVk6-W5nP-v5bnI0pDVKdcipFporiSuMFtKP3Zry2W7lNK1NStYMWJrqf5I3sT7jdvkS0sSQWw_Mus6ntbbcOrysgpSayQdfbsPqFXQjkOdpBpE0Gg1a3Br_MU.png) 
+- Polar Coordinates (and arc length in polar coordinates)
+    - ![](https://remnote-user-data.s3.amazonaws.com/U8Pl0r-_o3CBeihf9bxGtO0DDX-h7TLY1D_wbImTOVTpkGZrIHzxsmT-pobZbnGXA0CetdzyOjMCwr8cJZKgOgYIX1bv2DsCLrT51zoGKHd6SG6LIzbG2StawQZjbNWb.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/RC0U2dOU7Bov8sVOpII5AbH4OvvZ1-fCfBwoY-hcu4kh92Bppx9c2SngtpuFCyngS8cbu4DnZQOrbaPnDNtm7r0EQ11WSjOc8A9E5sz97FLqJMOyVXDQ83s132vAY2xo.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/XLH3iCV72EtiIUJ9C0oIKl2uHKphjyNS-KReX-X0yO0NUdEYqzjuz-5OoBwoSX-CEzprnzGSX3PyfABQlWS9TOocKkJelEGyBVXA7k8Q0990sQAMxREBQtBJ_07TLd0H.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/IIkTg_hEnpPY0wqsfBRBCWg3hAW0fgVoG68uyZAAF6WeF-bGtSvYjtVAvP5qyzWQYjWeJ8ri2fe7ykJxvan6Z4yoP_V5vwMWgnIaDKYR1iD1MnZ1OOj9zo9hbJJ3P5BQ.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/PzNdow-Usp8XYL2aql4VQ8EZwqXrtvZGwewPehglXyc17PRSraAIGNRLAE6cmxwjarlNB7Y-0O-ZivJRu_WGeoJzh0pgL-8_5coBm0AOEmLSKeWz-ER5q9aAcuf8S2MR.png) 
+- 
+- Surface area in polar coordinates
+    - ![](https://remnote-user-data.s3.amazonaws.com/QSETTymXpQZWTw_RXs1jZ36t1CP96WQWBONUl5BVjpOSBWYlEA-nxlSck4JooMN8gXATMg2i6dKsTctuTLvZWhzVUy5Tb6IUz-8817I2xnYUKgZeExGRn7qWa3s2WKsk.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/LzO100BotzWSFQq8X00rJKZNkfZ2FAMxDmE4jEWDj4hMlwJvLiMEeoRjJrXOaJkioNluO6HzLBrSUIBCMvJjTd1VDHITkvq7pDBW3NOxbnkBxiBvQ4jox6m_LOJuZx3X.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/iWz-VZFwC2J6q2uT2U28GbaMjQTG4a5UixhcH067xE4inOeBOeKL0WTZts7hFAaVi7Hrj45Qgby7D09pRHVgAcEKcpeBSS3oonXpkc-ikuvS7eVfp2RiidEGnIy6um__.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/RrLgqu1SW9sxYjNDkoZCEy4CJc6SFnjTriUWFM1uMHySlR4vj2PvcDQhvHakOujtbNIKhsmVWxHMDnqF6b43hcqfDFOVsJti7M_iJFhNLOAkL4iWUWJJTuCsBYq000Q4.png)>>>
+    - ![](https://remnote-user-data.s3.amazonaws.com/7dnsctlqgm7ZOk1d1_xwTmrvNq4KLuU28Wxr61TmRrD3mZrAvDksVH2zjpX3wnDr32Do-L7gG_kPn2Iqa5jjcxzFJ5j7HyFGrpc_i9vJ6Ip_3TSW_ELueYEVo2pZLMLJ.png) 
+- Kepler's law
+    - ![](https://remnote-user-data.s3.amazonaws.com/HjCEebd7csreDGbKrRHvj-L7hHYgoiPBajVRaLiiOT7vBn96bPI27nrCZ98S7Sq7G-FMkqnfrtgpQt82j6KO0aEca2ZfIcSK8Rhwnc8d3BWzieJ-h9oFSupQckrkrv9P.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/gz33ruVW9UenjnD84YdmboT0YHpq1rJHNrfaglz0kNuoVIM7uZUGMc0-J6sOBqotVCzo1v3j8csn7KYrHH4FxuEKviYQTvTQ1WGA8NTWtjwXJ4SvKrklw3VARMK8AW1V.png) 

@@ -1,0 +1,160 @@
+- AI Logo Design
+    - [Creating AI Generated Logos Using MidJourney - YouTube](https://youtu.be/Vq3k6ju3Ax0) 
+    - Prompts
+    - .
+        ```
+        minimal / vector / simple / flat
+        ```
+    - .
+        ```
+        Japanese Style / Gradients / Hexagon / Iconic Designers (e.g. in the style of Paul Rand)
+        ```
+    - .
+        ```
+        a triangle gradient logo for a company called FutureTools, green and blue, futuristic, vector, white background
+        ```
+    - Iconic Designers
+        - Massimo Vignelli
+
+    - Afterwards, pull the generated image to canva to find similar fonts and maybe photoshop or other tools to fix some other stuff
+- Design Process
+    - ![](https://remnote-user-data.s3.amazonaws.com/LhdD4yA6V5t6OgmRBdtJAOO3aop4iwUX8PpmSAH7iVECBbf5RkNIs2cHke7skkPGQWDBs5nPbmeadwKGFBdi_QLPDaJOMH8_ef5GZLv5G3FFqt3FkxyBSMf7HSnZBUPb.png) 
+- Spacing
+    - [Graphic Design Principles Are CRUCIAL! (Here&#39;sWhy) - YouTube](https://www.youtube.com/watch?v=UfkzHRM70sQ) 
+    - spacing provides what function?>>>
+        - enhances visual hierarchy 
+        - prevents clutter
+        - adds style
+        - enhances proximity
+    - macro white space>>>
+        - large area of nothingness in design
+        - modern and minimalist and luxury
+    - micro white space>>>
+        - smaller area of nothingness between lines of text and paragraphs of text
+        - informative and serious if the balance is shifted this way
+    - passive white space↔refers to space that helps with legibility and aesthetics of layout
+    - active white space↔helps viewer move through your design in order and structure 
+    - 
+- Shapes
+    - 
+    - 
+    - 
+    - 
+- Fonts and Typography
+    - Typography Hacks
+        - Bigger Line Heights
+            - 1.1-1.3x headings
+            - 1.3-1.5x body text
+        - Negative Letter Spacing
+        - Text Alignment
+            - Don't mix and match alignment between heading and body text
+            - long lines of text are usually perceived by users as intimidating and overwhelming
+        - Whitespace is to be regarded as an active element, not a passive background
+        - Use Fewer Font Sizes
+        - Use HSB and adjust a bit
+        - Decide on Adjectives
+        - Use the best imagery
+    - there are always exceptions to rules
+    - Font Pairings that are really good:
+        - aileron (small body text) + anek (heading)→more modern designs
+        - roboto slab (heading) + mulish (subheadings and body text)→serious designs and informative designs
+        - Oswald (headings, hard hitting) + Open Sans (body text, subheadings)
+    - 
+    - Choosing fonts, consider the following>>>
+        - the audience
+        - the function or purpose
+        - check legibility or how easily read the font is
+        - font pairing
+    - 
+    - Types of fonts>>>
+        - serif→tradition, history, reliability, safety
+        - san serif→modern and clean
+        - script fonts→grace and elegance
+        - monospace fonts→programming 
+    - 
+    - Golden General Rules
+        - main body text→10-12 pts or 15-25 px
+        - line spacing>>>
+            - also known as leading
+            - 120-145% of text size
+        - tracking (or how compact the letters are)
+        - characters in a line→45-90 characters (including space) 
+        - main heading→180-200% of main body text
+        - secondary headings→130-150% of main body text
+        - align text→when in doubt, align text to the left
+        - test print
+        - 
+    - 
+    - Other tips for typography design>>>
+        - Consider the personality of the design
+        - Match or visually compliment the text based on shape and form
+        - Consider directional movement
+- Layouts
+    - like every design principle, you want to know what the message you're conveying is.
+        - this will dictate what layout will and will not work for you
+        - [Basic & Boring Layouts are Killing Your Designs! - YouTube](https://www.youtube.com/watch?v=gmPHScNt58M) 
+    - Questions to ask>>>
+        - what is the message you're trying to convey? Or what is the vibe?
+        - where will the design be shown?
+        - what is the purpose?
+    - 
+    - 
+    - 
+- Advanced Design Theories
+    - shape of element>>>
+        - to produce a direction of design or movement in eyes 
+        - shapes can also have psychological meaning if not used as directioning
+    - subject matter→the main thing of the design, where you want your viewer to be focused at 
+    - Rudolf Arnheim's structural net>>>
+        - ![](https://remnote-user-data.s3.amazonaws.com/zP1AEyhhJFGqoAJXLdhf1-v-FGL91JPGXogcg0WZen6Z6nFTtRFcOD5NaN8iNjUiDP97dmlvNVPqJKOkxdBSJTnbbEnAedNh3Umjl2a5EsLm5NcWDCLR4vlA-90w72gk.png) 
+    - overall design direction composition>>>
+        - horizontal→calming and stable
+        - vertical→balance and boldness and alertness
+        - diagonal→movement and action 
+- Color
+    - color does have a direct response to our bodies and can play with our emotions
+        - brightness + low saturation→soft feeling
+        - dimness + high saturation→strong feeling
+        - weaker contrast + weaker saturation→calming 
+        - strong contrast + strong saturation→activity 
+    - complementary colors
+    - You MUST KNOW your target audience
+        - culture matters to color theory
+        - age and gender also matters
+    - Example color meanings:
+        - yellow or orange>>>
+            - energetic
+            - excitement
+            - change
+            - yellow in particular is thoughtful, cheerful
+            - orange is a playful color that often makes you stand out
+        - red>>>
+            - danger
+            - warning
+            - passion
+            - excitement
+            - anger
+        - green>>>
+            - natural
+            - tranquility
+            - healthy
+        - Blue>>>
+            - sense of security and safeness
+            - trustworthness
+            - maturity
+        - Purple>>>
+            - royalty
+            - feminine
+            - luxury
+        - pastel skin tones>>>
+            - for beauty products
+            - pastel in general is calming and non-energetic or proactive
+        - 
+    - When choosing color, consider>>>
+        - the emotion
+        - the message you're convey
+        - and the emotions tied to said message
+        - 
+    - 
+    - 
+- 

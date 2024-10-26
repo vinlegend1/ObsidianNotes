@@ -1,0 +1,80 @@
+- Toxicology>>>
+    - The study of the harmful effects of chemicals on humans and other organisms.
+    - {{Toxicity}} is a measure of the harmfulness of a substance. 
+    - Any synthetic or natural chemical can be harmful if ingested in a large enough quantity.
+- In vivo testing>>>
+    - The most widely used method for determining toxicity is to expose a population of live laboratory animals to measured doses of a specific substance under controlled conditions.
+- Dose Response Curve
+    - ![](https://remnote-user-data.s3.amazonaws.com/pWCX5nKZdYNwN1bzgBsjHkJcd0P4y31e_ZdlnOnds7n-uJT0GIfHNwxsMv_0zeCRgVuaqo2OxHLdnQDcRaA1v7ACwRxSli3HsNHwCFcLDHfbapL42E5Fjfr8gKHnNwcq.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/YvtN5eAi_9x0zqQgHoeHbOJ4YYkpVtb7mrUP8NJm8xE1KW_L7bFs5DtCZIr0q934aE6D6AfXM7IOkaZCGraK9BYVSB5SOQPUPxI-c_cQi9FeqNt5bLcHM_8U4DeuV8wf.png) 
+- Many factors determine the harmful health effects of chemicals
+    - Toxicity also depends on {{genetic makeup}}, which determines an individual’s sensitivity to a particular toxin. 
+    - Some individuals are {{sensitive to a number of toxins}}—a condition known as {{multiple chemical sensitivity (MCS)}}. 
+    - How well the body’s {{detoxification systems}} (such as the liver, lungs, and kidneys) work.
+- Many factors determine the harmful health effects of chemicals>>>
+    - Solubility―water-soluble toxins and oil- or fat-soluble toxins. 
+    - {{Persistence, or resistance to breakdown}} such as DDT and PCBs. 
+    - {{Biological magnification}}, in which the concentrations of some potential toxins in the environment increase as they pass through the successive trophic levels of food chains and webs.
+- The damage to health resulting from exposure to a chemical is called the response.
+    - {{Acute effect}} is an immediate or rapid harmful reaction ranging from dizziness and nausea to death.
+    - {{Chronic effect}} is a permanent or long-lasting consequence (kidney or liver damage, for example) of exposure to a single dose or to repeated lower doses of a harmful substance.
+- There are other ways to estimate the harmful effects of chemicals 
+    - Case reports>>>
+        - provide information about people suffering some adverse health effect or death after exposure to a chemical. 
+    - Epidemiological studies>>>
+        - which compare the health of people exposed to a particular chemical (the experimental group) with the health of a similar group of people not exposed to the agent (the control group).
+    - Limitations of case reports and epidemiological studies>>>
+        - Too few people have been exposed to high enough levels of a toxic agent
+        - Takes a long time
+        - People are exposed to many different toxic agents
+        - New technologies or chemicals
+        - Different sensitivity to chemicals
+- All methods for estimating toxicity levels and risks{{ have serious limitations}}.
+- Why do we know so little about the harmful effects of chemicals?
+    - Only 10% of 80,000+ registered synthetic chemicals in commercial use have been thoroughly screened for toxicity, and only 2% have been adequately tested to determine whether they are carcinogens, mutagens, or teratogens.
+- Common groups that cause health risk
+- Common groups>>>
+    - Acids and bases>>>
+        - corrosive
+            - ![](https://remnote-user-data.s3.amazonaws.com/I2soYMTtfoAMoGQye_BDLyn1TruOOg7oqIA5cPfsSqIsshfSFkO0MDJqn9hAYBxD1QGrEftEPd58aftYSYwMZF_SQBo3opG65FQW7ll-CWsaLO8eXdiZQ_1cqN8aIyVS.png) 
+        - Strong acids and bases, especially if concentrated, are corrosive
+    - Dusts, fumes, and gases
+    - solvents
+    - pesticides
+    - metals
+- 
+- Severity of harm from acids and bases
+- Depends on the following>>>
+    - Concentration of chemical
+    - Duration of exposure
+    - Routes of exposure
+        - Skin/eye absorption: Mixing strong acids and bases or adding water to them produces heat
+        - AWA (Acid to Water)
+    - Ingestion
+    - Inhalation: Mists of concentrated acids and bases can be breathed in and attack the nose and lungs
+- 
+- Health Hazard
+    - Chemical Burns―Tissue damage caused by exposure to a strong acid or alkali. 
+        - A first-degree or superficial burn―affects only the epidermis, minor discoloration of the skin
+        - A second-degree or partial thickness burn―affects the epidermis and dermis. These burns can be very red, inflamed, and painful, and can blister.
+        - A third-degree or full thickness burn―can cause extensive damage to the epidermis and dermis, as well as bones, tendons, muscles
+        - Common causes>>>
+            - Car battery acid - sulfuric acid (H2SO4)
+            - Bleach -Sodium hypochlorite (NaOCl)
+            - Ammonia - NH3
+            - Pool chlorination products – Hypochlorous acid (HClO)
+            - Liquid lye - Sodium hydroxide (NaOH)
+    - Corrosive Poisoning―Poisoning with strong acids or alkalis capable of causing rapid tissue destruction and shrinkage
+        - Common causes>>>
+            - Metal/toilet bowl cleaner - Hydrochloric acid (HCl)
+            - Car battery acid - sulfuric acid (H2SO4)
+            - Paint remover/drain cleaner -Sodium hydroxide (NaOH)
+            - Metal cleaners (nitric acid)
+            - Rust removers (hydrogen fluoride)
+    - Acute Inhalation Injury―Injury in pulmonary epithelium at various levels of respiratory tract, leading from simple symptoms to severe disease due to short-term exposures to toxic substances on the lungs.
+        - dusts>>>
+            - A common air pollutant generated by many different sources and activities such as grinding, milling, sanding, etc. 
+            - Common in urban areas
+            - The natural erosion of soil, sand and rock is the most common source of dust
+        - fumes
+        - gases

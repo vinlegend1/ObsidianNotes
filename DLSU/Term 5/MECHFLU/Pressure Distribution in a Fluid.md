@@ -1,0 +1,18 @@
+- Pressure (or any other stress, for that matter) causes no net force on a fluid element unless it varies spatially.
+- ![](https://remnote-user-data.s3.amazonaws.com/f2B4mNx9PCIMayOAGeJEiEe4ODXxekV0fHZtllAcLMXAONmsU_cTY_y6EdrTFLpGpTfU6LZAsc1hAQRca9M51-JY8EgUau92FtclUyajp229PKRR-X0rXFej1-x54PjE.png) 
+- Viscous Stress
+    - ![](https://remnote-user-data.s3.amazonaws.com/mcukjKP8nz3mLlI2pZS40dnBbC5J82o6skT444dTRhksgVMZ_SATiYHsI_HODYJ_S37L_mZ8r-EH_J5PM6Zf95oVqSb1knhD1ylAJLKN7wLoWViIq0KXihPGWICeAcRv.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/IYsP3FC80ro-cJoj0ntR6cZfCY8kqxWTQildIEfrVhb4iCFbNAAo48NivYMdEWOhfodSuIITDKkcqxOMzk44Z3rEz_gO79yh3cuAVx2_3_cbR4SZVgQQarjeasGpYinD.png) 
+- Cases>>>
+    - **Case 1**: Flow at rest or at constant velocity: The acceleration and viscous terms vanish identically, and p depends only upon gravity and density. This is the hydrostatic condition. See Sec. 2.3.
+    - **Case 2**: Rigid-body translation and rotation: The viscous term vanishes identically, and p depends only upon the term (g  a). See Sec. 2.9.
+    - **Case 3**: Irrotational motion: The viscous term vanishes identically, and an exact integral called Bernoulli’s equation can be found for the pressure distri- bution. See Sec. 4.9.
+    - **Case 4**: Arbitrary viscous motion: Nothing helpful happens, no general rules apply, but still the integration is quite straightforward. See Sec. 6.4.
+- Hydrostatic Pressure Distribution
+    - ![](https://remnote-user-data.s3.amazonaws.com/bP7_h_eIxkuugyWaItYBcMsJ7NXhky58BQ6plDxTFoPhjUYinjIosGqriYjY7nu3rFSrlSKs16oqCrMKtCBd52DxuaoHPEJQ0go5wOl3HWJ03-Trq9U26llQdLhjOTiJ.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/wwm9htAwhkzk826pUnxY4datPg_mDqHPFd-BBoc7rICPcOD0qXyuaC4v8_1nUL1lmWlQhdV9PNu6NNY-VkD2TBmhhoEF2e6lTvryx7e1572o_nO5mDyPntu31wECAouL.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/1PdG98SB9i313nBAcw4vcxZDVsB1NxJW9Q0oDGxIcKmpeY6npJpUaKKtweKY-pHPSftuQmewUgjECGYnPaqyCe8jOoOHKZujCtDO7it_psKxjmgRjk-qPnXMaABR7SkL.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/b8M74xRup7jPIzRbp_P-hj7-XIlAu7yRKnGf5hfGzSmLESjH5tX1CH8p9sajCdNvkwyC5v-1g8tn6iROAl79IWlmM2bNWWlpxc4BfvT2FTUXa9qhmEfFozVOcq6L1Ymi.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/jJjJkQrEwkkO63SJGLSLMwCqGIYNPNhqnob4Xl27DD6k4Nw3At96zKiMFGENEkZRbyItG1gBWK9lQvCFXJxkYf-Ls4X-UrP2PnTPWbAuDEDnewG9LIpVQEoMczMXIMNh.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/Q50U1J7t1xfoflSmry02IPlMyljaVePXP49h3uofuDCjpe5OYkA_-x0ypJ0kcgCkQVOuS955uEs0avGw6XK5Oz9tFYbdurd9JepmufxfRUr_F4HG521E5rczxLwyoHTg.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/gIeyj2p8nxzwTam2ZCfjRwoCU0GMtibdLKLt8yjJJb8krSw5D4ICc-othqo_adxbbGQ58kedOFYTCif3RdiJN1RkNMCNWZYwk7Yu5LJUVbe5_eIyiZNPEZWavS7cjNij.png) 

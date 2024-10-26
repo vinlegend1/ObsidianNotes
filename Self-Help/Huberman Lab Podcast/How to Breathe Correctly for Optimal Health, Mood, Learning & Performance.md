@@ -1,0 +1,20 @@
+- You need carbon dioxide to efficiently bring in oxygen
+- mechanical and chemical systems
+- most people are over-breathing
+    - hypoxic state 
+- sleep apnea
+- personality types can be altered through breathing (apparently)
+- In the lungs, there are small sacs call the alveoli that increases the surface area of the lungs that improve the mechanical aspects of breathing
+- Diaphragm and intercostals muscles>>>
+    - responsible to contract and expand the lungs
+    - intercostals muscles are found in the rib cage
+- Nerves control muscles
+- Phrenic nerve>>>
+    - comes out of the neck
+    - form synapses with the diaphram
+    - motor nerve
+- 
+- Diaphragmatic breathing is the most "efficient" way to breathe
+- Amygdala↔**the integrative center for emotions, emotional behavior, and motivation**.
+- Hyperventilation↔**rapid or deep breathing, usually caused by anxiety or panic**.
+- 

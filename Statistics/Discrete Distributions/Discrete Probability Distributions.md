@@ -1,0 +1,14 @@
+- 4 main types discussed in FNDSTAT>>>
+    - Discrete Uniform Distribution
+    - Binomial Distribution
+    - Hypergeometric Distribution
+    - Poisson Distribution
+- 
+- Discrete Uniform Distribution
+    - self explanatory
+- Binomial Distribution>>>
+    - The experiment consists of n repeated trials
+    - For each trial, there are only two mutually exclusive outcomes, success and failure. The event that corresponds to success is chosen arbitrarily. Usually, it isdefined in accordance to what is required in the problem.
+- ![](https://remnote-user-data.s3.amazonaws.com/Y3wOZ-yZSUYttc4xbqK1cc4UkXW2ac-nF9cMTnwivyo79JfAtVDHG85mDu3XD5H1Itxtn-FDr95ken7Kfgpdxhr73NEbF4hYLBlmW7Tm1msLrQC70ht7mTefFWV8sm_A.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/RGW4qJw-92Mmtnm54LfalIxcOVy9aCUvfkTiO1jj5tjnQiB4yVmyIC8HuRI7wQJlyt2rMWPfYcJc75fRdg3LVsuEpmSNGM5BUnL0jSntJTZ9LbNp_WRSWPjz-KN8RU2l.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/6a13eS1M51Y7BSIuB1etnIL6IgiHDtqTu0Ggzki2mjd53CZBV95gXa4bxeHfjrXuIE9cB2emHP3wSCttBmhd3aTGFDGGrmMyx8HbXvPhhi-c-F8Wmdxgpfa2-LXsmebz.png) 

@@ -1,0 +1,29 @@
+- Saint-Venant's Principle>>>
+    - stress and strain produced at points in a body sufficiently removed from the region of load application will be the same as the stress and strain produced by any applied loadings that have the same statically equivalent resultant, and are applied to the body within the same region
+    - also seen in fluid mechanics
+    - important for structural engineering and engineering in general
+- Elastic Deformation of an Axially Deformed Member
+    - ![](https://remnote-user-data.s3.amazonaws.com/6KvS5Tw_tFHJc4qI5_xi8PoNLul1fxvPFkiQDVGx81fw6n-W_2FM9O4aRNUB6pp89Gt5ZfHgn3JslgEjMKrArfjvVqF713oh83kY7BP5Ut9t81IQ7sarp58e5wN-vlWC.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/kdV7Gs4L1Dg1GyQBIc1qPk1Hiip4PbYmMUaCfNCxJ0Q9o2Z2IX6sJnxpb6c-n8hznvi8wRc7GbEhyFzQebfAoU5jCGiKzFwl3kVu-RHzoKl3MyJw_S7RWkAoJrDI19Bl.png) 
+- Sign Convention>>>
+    - we will consider and elongation, respectively, Fig. 4–4; whereas a negative force and displacement  will cause compression and contraction, respectively.
+- ![](https://remnote-user-data.s3.amazonaws.com/28Tncn38DSTruFrrcTq99ooXnyOKbzdGgOdTvrJ_ZqF37YOa4SIJzM95_MkvauWxeIfFrbHOg7PafRouAtDdpiRMhT8nVb4pEscJGtZG8zancmICcGPGF0_Fm6-kwawS.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/CN5ZKUpmcUwkpL_8bfOHcp7GdkM5ihvNQpWzAMk6DryxiAgq1uEwXXl5E1KLJSrwY2AwAgGLxdtvpZtrtDI0ragijHSwzHSSR9GrFUZ5VuzwFpIUo0BcrpsOSDCVUpvE.png)
+- ![](https://remnote-user-data.s3.amazonaws.com/uG86l7ZHjNxztB4YETDdJW2MleGJInUwyn6kREwfTzJWplBAb-_nxdsOohApZsL8w2E5-v7eOlBO9CDh0h6AKVOrzd9V7LprvK1rGbKVjrl3IFaVVnoTW3FQqvP4mJj5.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/FNxBl9EFp-0QtAJx1opkPziWM9EXSXvd959UruKcCi5yZtgEb-FwUwQDj2IgFn7DSjJ2WP1G2a3T5ri9YRZPBbAugg3xhSO5VtU1jodm_Hx3ogb7HMG2ZZAW-KjqfF0j.png) 
+- Statically Indeterminate Axially Loaded Member>>>
+    - In order to establish an additional equation needed for solution, it is necessary to consider how  joints on the bar displace. Specifically, an equation that specifies the conditions for displacement is referred to as a {{compatibility or kinematic condition}}. In this case, a suitable compatibility condition could require the displacement of one end of the bar with respect to the other end to be equal to zero, since the end supports are fixed.
+    - It is also possible to solve statically indeterminate problems by writing the compatibility equation using the principle of superposition. This method of solution is often referred to as the {{flexibility or force method of analysis}}.
+- ![](https://remnote-user-data.s3.amazonaws.com/EfirEeRUuQicsHCXk9bnzTyBg0DNuvVTR9CuigsZsk3pztfc_49RrTpKQTBW_rw9VdgKFBTlss_WhteEQdevn8EcW21CUgC5ko8dQSFpN1bpI5zFvcDrsRj-Cz4_hDqQ.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/ctvzUqTwmUXQWpTUpdHsRTTDYuXqVfRmo-skU60JeCTByY54crRsPN09OBkldOUxnCc8algUVCz-VssVbnZ06K17Cj6ZJf6nvkTVQkYQJhSICj7NF6WEg60JutSHR87Y.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/xgUT1YXjnYcOzz5XKHWDXy2PPWo1R6M4CnrHEjwOV2W1PAM8_q7U3dldU_9adv-1oXRN9wJjdJn9ho4Yg1NFB5Dtimb85WlhFdj5oXFNgxQ17zXahDoQPH2Vjk7Wf7S6.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/5SEgY13MHGJuN4C5r0ZpmrVwOCQiafQt41B75FpR5gaAESmkyvy6OIEfmWFcrH76vTnfKAb5naAm76oHDIE9xhEMR6ipfnM94fFP_Nrd6B2rJN4JMHtA6v59CVTiktC2.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/bMICO4NghRKc74pWdpewj--CI7JoVA48dyTkzaE2A1qTnJxb3rCzh4KFZykjjVvRAMh9kkGfsiPF7B4dTEDHydEZf4A9ht5IRw7w6Ig2uyUhajO7Sl4nJjCnjVa4a4zA.png) 
+- Thermal Stress
+    - ![](https://remnote-user-data.s3.amazonaws.com/nyOjtkdrEZevtQjBJsxLyqrJj_3LxKF5ac_0u5zUsM2THvLzFunHgNib2qhXTvRIu2wJ2XfK5mvj7_6yGjmpwONHPexPx1roKSVnj4SUgfo6FqxCsmU4jiYMvcMz_tCU.png) 
+    - The change in length of a statically determinate member can easily be calculated using Eq. 4–4, since the member is free to expand or contract when it undergoes a temperature change. However, in a statically indeterminate member, these thermal displacements will be constrained by the supports, thereby {{producing thermal stresses that must be considered in design}}. Determining these thermal stresses is possible using the methods outlined in the previous sections. The following examples illustrate some applications.
+- ![](https://remnote-user-data.s3.amazonaws.com/cKgW2Z0Z8vpCQ5-KURJTSBgpaI-Ml9T_QQOCcN0TN_QHcjlAiZdGXXZoYV-5Z5Bg9vV0PyhA-TXaUxNhYfIR8YXk0gLXqPuSh-thTmJs0z78plvQV9ylb_0x-NAjLUm-.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/Y_1vg86iLRR7srs0KYnJ9iQYZzJBS2YV8rmBqm3Z4cU5sJsKkSk-8QbgTTM3UsD_8z1x0j-dXnAPiNXaDZ7WZ1gQvC7Iqofk2_TyXprCZWrM1RSsVGNTtAUSE6bvbd8L.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/6naQgKYPzOmW7RErTKORk5J4Lp5DmrfvX1uVtMW_2lI1Uxup_PK1H35XmM3cYC9qlt8_eq7pJ7ziCmAHJcFN7HLDoWTza1-q02X_6DPPQDTej8cqx9gygbypBh_lFrLo.png) 
+- Stress Concentration Factor
+- ![](https://remnote-user-data.s3.amazonaws.com/0F4NpEez-xZUba0nOgDN4L0WN7TTSAxs9ph9mgwbiOomHdBYGjfn6yCRInRKZ5RjL4QPc6zx5F2idWVSBYlyCS3yHDFlVYUj_N2vHnkLQylu5yoW4NoKwp_BNSoEGWfo.png) 

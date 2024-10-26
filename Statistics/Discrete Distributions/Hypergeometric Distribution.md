@@ -1,0 +1,9 @@
+- Hypergeometric
+    - A random sample of {{size n is selected from N items.}} 
+    - The N items may be subdivided into two groups, k of the items are classified as successes. Thus, N — k of the items are considered failures. The choice of successes is arbitrary.
+    - Sampling is done {{without replacement}}.
+    - ![](https://remnote-user-data.s3.amazonaws.com/ajNJ2omde-NKT7NrVhchng3x7ZqmkvZy4m9jp66LpJnjneloBzOKHkxL1j2l29_2kAtNvQN-LW2pihnoKatd76FA7fqdf_8pVPEQu4lqIJ0bYxVKqTp7YL5RI-A1hxNI.png) 
+- 
+- ![](https://remnote-user-data.s3.amazonaws.com/VpcgB7wzGa23L6AXc8I-yixLnlQsebAmX19FS-OhDAzUOZIOjfC2VZqLvUF2hUKGxs5qtG7DfVnhVHqG0zzpcoArSlVWMxaRt2640_V9mLeNEZeWi2DUi1AnlJdbA5K9.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/4tqFykDAY3JgSdYGEwz8rWzIDzlcikEBx4hNdHT4vAAxmUYpv9NeCDaXPgNYnDPEEIFbb_QcqIgtp8uaSKtHNNWbbvTk_nB9JE0Hkno9MafMoVraTHSEgQB77oLgxbQJ.png) 
+- 

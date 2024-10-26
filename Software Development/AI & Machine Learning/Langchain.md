@@ -1,0 +1,7 @@
+- An open source framework that allows AI developers to combine LLMs like GPT-4 with external sources of computation and data
+- Python and Javascript/Typescript
+- ![](https://remnote-user-data.s3.amazonaws.com/wN1Z9egjyI28PCJcCdtQLFXFgk_TuTWiCnYmMRawlxdUILU6MWFNThGotx4UTOpaR6MOskz0ksGMCcsRtKmfbHkIq8zDKMR1qIDMlSYq4epRRBMg10MTg-9WoSjFAT7k.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/o1PN0lGOZV02ePSG4yC-cHcxblfko8lAznw-1u9vMp_xZt4d7xEH79K5Wey2OohsuhENNuE_DXm6OzMEIQf-aoR5b8FwJQvqwzMXsmg0EF1UWiIJc1UU9-ALL2uXLsjY.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/z1SK46A9_X9fBZrmKlDkwB8WW2q3f9q1iDF8vBzVuAug-kY7ihMa5RmHPAMOLTs9BmocVswNszOB2r9r4tzvDIgOD1gLw3oCWHOt7CQAnT1JHZCcNMmnaGJQVRKMeXov.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/A8puia9FbswK1gfy0OoM0vmOQqTrxvG2LqqLiGK6rNUPOqspkDHK90dN5WJBlA3Zqai8OxckmgioNJlPg7rYaEpNYAX0tJ5IDuxB8mqdF3bJOuI6uBkZz2lv0wYkz6_s.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/t216pGysxlNQEylXeiTheiAnSh53lHITn44g4PD9wuU7LeTAeenUL_wKR09kTuaU3DANjrGOb8wSfEVavHV6HTRJQD2EDY8iZTARYVNKxTeICIuScrkkH0X6xfbOJwlJ.png) 

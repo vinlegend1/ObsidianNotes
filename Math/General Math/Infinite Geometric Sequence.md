@@ -1,0 +1,4 @@
+- Infinite Geometric difference where r < 1
+    - ![](https://remnote-user-data.s3.amazonaws.com/CFcxTQJceIMcwLMGHTLRUtIAKSYZKieLvrgQXAGHKN4SKLjaWP4Mpdg5aUdzV8Ecvkgfsdv7E8zo5tIj5744q323HvDHfVnRnaixSzAGF4VO9RzepRAfBSWROg_J-uA0.png) 
+- Sum of a Geometric Sequence
+- ![](https://remnote-user-data.s3.amazonaws.com/nnLAhVhBkT-kqeqCjm5uzdQkdkmIKarOBBYM76bI-T9pudZEsfBB0SKIBZHByUjFdzY_ntUX8NWRQTtB6nco9jGGWZgsh2nkbbgvX9WXYja25AT1lY3VL6pS-7kRjgas.png) 

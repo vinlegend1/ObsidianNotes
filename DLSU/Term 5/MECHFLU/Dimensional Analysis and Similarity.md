@@ -1,0 +1,22 @@
+- Similarity: All relevant dimensionless parameters have the same values for the model & the prototype.
+- Similarity generally includes three basic classifications in fluid mechanics:
+    - (1) Geometric similarity
+    - (2) Kinematic similarity
+    - (3) Dynamic similarity
+- Buckingham Pi Theorem
+    - Definitions:
+        - n = the number of independent variables relevant to the problem
+        - j’ = the number of independent dimensions found in the n variables
+        - j = the reduction possible in the number of variables necessary to be
+        - considered simultaneously
+        - k = the number of independent pi terms that can be identified to describe the problem, k = n - j
+    - Summary of Steps:
+        - List and count the n variables involved in the problem.
+        - List the dimensions of each variable using {MLTΘ} or {FLTΘ}. Count the number of basic dimensions ( j’) for the list of variables being considered.
+        - Find j by initially assuming j = j’ and look for j repeating variables which do not form a pi product. If not successful, reduce j by 1 and repeat the process.
+        - Select j scaling, repeating variables which do not form a pi product.
+        - Form a pi term by adding one additional variable and form a power product.
+        - Algebraically find the values of the exponents which make the product dimensionless. Repeat the process with each of the remaining variables.
+        - Write the combination of dimensionless pi terms in functional form:
+            - ![](https://remnote-user-data.s3.amazonaws.com/1wYjEHfZ1A7Q5D76-SYr-hPX9dG59ADMHPOWqtn0jaLBx4rzsoOvCAbjEQpVM3p7-hGaD2EFov44ucsGPG-awpHRlOmvS-E7KBIBwqtH9001Chm2T0b-_xXzh43oY37b.png)![](https://remnote-user-data.s3.amazonaws.com/TfnYoBmCj3pGQCIPQZMxlI0Agzti6L2ZF77JJ-_6K0Bb4hGLNH9nDrUFcDhPC-zUduu0IpwV0_p0jnkxrfDKxcYRVUZSyMCLAS2Pc8P44Hwq8gyJ5B9FzuAIoGjfMVw4.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/CDqO0NndAp9hqQL7X5PrVnYRCYaK-1yN_thf-Xg6CvrQKWXrcDPBp8OA85vhj7XQz2_g679gluClpG2WeuytkG2EjuzQtOnge9Fj3CRuYEke_O9UXAsKN5Td222v89TT.png) 

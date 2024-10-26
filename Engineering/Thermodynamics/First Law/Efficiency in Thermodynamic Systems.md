@@ -1,0 +1,9 @@
+- ![](https://remnote-user-data.s3.amazonaws.com/FdJcSvAfdLqkwxEeq_VHKucihJs7HYWEofirx3S8-HuqSGSAP2zkswqH5YSzGi1z-73vhCATtm_Ce-TOpEzz3GszI6uwpIMJlt8vrsSqdr_4SfhmQANpHeN2j0OSamG2.png) 
+- constant temperature = isothermal
+- starts & ends at the same state
+- Efficiency>>>
+    - how much work was produced versus the input required
+    - efficiency = output / input
+- Example:
+    - ![](https://remnote-user-data.s3.amazonaws.com/qW-R94QYVKfOFG4np_gfxkXFE-BeQ4fk122IpxZ8t_-TuKcUfiVXI7Df6ofIu8hhvOx2FQurtj2VkTu9c5eY-bjBBuz_Ja8Do8YMJgFxG1IWEQKuutYNSrSxUHbv5Wcb.png) 
+    - Process: First law expanded ⇒ simplify the law into a workable equation ⇒ find the value of the given equation ⇒ find the input (the work rate of shaft) ⇒ find the output (the result of the equation)

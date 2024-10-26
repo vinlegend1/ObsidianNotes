@@ -1,0 +1,10 @@
+- like every design principle, you want to know what the message you're conveying is.
+    - this will dictate what layout will and will not work for you
+    - [Basic & Boring Layouts are Killing Your Designs! - YouTube](https://www.youtube.com/watch?v=gmPHScNt58M) 
+- Questions to ask>>>
+    - what is the message you're trying to convey? Or what is the vibe?
+    - where will the design be shown?
+    - what is the purpose?
+- 
+- 
+- 

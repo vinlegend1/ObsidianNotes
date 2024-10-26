@@ -1,0 +1,8 @@
+- What are brittle materials?→Brittle materials are those which have little or no plastic deformation before they fail.
+- What are some examples of brittle materials used in industry?→Some examples of brittle materials used in industry include ceramic tiles, glass, cast iron, and concrete.
+- Why are brittle materials preferred in industry?→Brittle materials are preferred in industry because they are strong and rigid, making them suitable for applications that require stiffness and resistance to deformation. However, their lack of ductility and toughness can also make them more susceptible to fracture and failure under certain conditions, which must be carefully considered during design and use.
+- What are ceramic tiles?→Ceramic tiles are commonly used in bathrooms, kitchens, and other areas where water and moisture are present. They are preferred due to their high resistance to water and stains.
+- What are some applications of glass?→Glass is used in many applications, including windows, mirrors, lenses, and laboratory equipment. It is preferred due to its optical properties, transparency, and resistance to chemical attack.
+- What are some industrial applications of cast iron?→Cast iron is used in many industrial applications, including engine blocks, pipes, and cookware. It is preferred due to its strength and ability to withstand high temperatures.
+- What are some common uses of concrete?→Concrete is used in construction for buildings, roads, bridges, and other structures. It is preferred due to its durability, strength, and ability to withstand weathering and erosion.
+- 

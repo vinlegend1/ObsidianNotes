@@ -1,0 +1,41 @@
+- What is a shortest path from the starting point to the destination point?
+- **GRAPH THEORY** is the study of graphs, which are mathematical structures used to model pairwise relations of objects.
+- Origin of Graph Theory
+- ![](https://remnote-user-data.s3.amazonaws.com/h5X3bIH-Ds5uQvuinHhodtSQWfRllzW3eH0a20kckYJzHmDGug1QXv4n91jvQ5dtZbzRh0RRhibiTvtiUbPkZxuzb4vnytymqm37byEJlpHz7R5Lx6yGck4vRfUZWhSV.png) 
+    - This is Konigsberg, now known as Kaliningrad, in Russia. In the early 1700’s, people from this town posed a particular question.
+        - “Is it possible to take a walk through town, crossing each of the seven bridges just once, and ending up wherever you started?"
+- The famous Swiss mathematician Leonhard Euler heard of the problem, solved it (its not possible) and in the process invented Graph Theory.
+- Undirected Graph
+    - An **undirected graph** 𝐺 consists of a set 𝑉(𝐺) of vertices and a set 𝐸(𝐺) of edges that which join two vertices.
+    - **Vertices **𝑢 and 𝑣 are **adjacent **if they are joined by an **edge**. This edge is denoted by 𝑢𝑣.
+    - ![](https://remnote-user-data.s3.amazonaws.com/Ert6YxMhXjaf7ONXpMjziyJk5RA2tPS7-j8z3FV9bekzQxb4sZX0DhCB3Z47EShnbzRylTzdeOkMOWLtfyLQp3ypyUYIjkktEtKoNt5FXD0lMJjzzyGyf4jratj-a2xg.png) 
+    - The **order **of 𝐺, denoted by |𝑉(𝐺)|, is the number of vertices in 𝐺.
+    - The **size **of 𝐺, denoted by |𝐸(𝐺)|, is the number of edges in 𝐺.
+    - ![](https://remnote-user-data.s3.amazonaws.com/Xa5y_K4KUFSNfHHKgzjFVpexbmLpLNZ63dN1rCd21rw4X-bFi703fv14HVVJKiEcKDqtQKQMymTyqpSYGS6wg8Cz_OZB_vC0-3RyiPRdnKU6NrEYumbN8CbhdgVPWOvk.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/sfb0ck2tvO4FuRl2I7738fVSbe_nXb_accHchiP8GXR7gMbuJOpQWzKn9OJvNvgeUQ7b4OpH72ICjEaYHEA_YdU7pUzOoikTPqriur9fpclqVlL8-TiUWC40uktzDd3E.png) 
+    - The degree of the vertex 𝑢, denoted by 𝑑𝑒𝑔_𝐺 (𝑢), is the number of edges that are incident to the vertex 𝑢.
+    - The neighborhood of 𝑢, denoted by 𝑁_𝐺 (𝑢), is the set of all vertices that are adjacent to 𝑢.
+    - ![](https://remnote-user-data.s3.amazonaws.com/E8M4o9_SxkBOtpz9Lvt1ygvSotTx85tKepc9upDeUyvbCt1R_aLnHlLlKtsz0P1e3sTQTk5bjsnWprpL0BphWcUwrNh0rdgzYPHn92HyGnU3M04NY_retX-HH6MrCxVg.png) 
+- Walking on a Graph
+- A walk of length 𝑘 from vertex 𝑣_0 to vertex 𝑣_𝑘 is a sequence 𝑣_0, 𝑣_1,…,𝑣_(𝑘−1), 𝑣_𝑘 of vertices such that two consecutive vertices are joined by an edge.
+    - Denote this walk by
+        - (𝑣_0, 𝑣_1,…,𝑣_(𝑘−1), 𝑣_𝑘)
+- Connected vs Disconnected Graph
+    - A graph is said to be connected if there is always a path from a vertex to another.
+    - Otherwise, 𝐺 is disconnected.
+- Weighted Graph
+    - We say that graph 𝐺 is a weighted graph if all the edges of 𝐺 are assigned with numerical values (weights).
+- Directed Graph
+    - A **directed graph** 𝐷 consists of a set 𝑉(𝐷) of vertices and a set 𝐴(𝐷) of arcs that are formed using (ordered) pairs of vertices in 𝑉(𝐷).
+    - An arc from 𝑢 to 𝑣 is written as [𝑢,𝑣]. In this case, we say 𝑢 is the **initial vertex** while the vertex 𝑣 is the **terminal vertex**.
+    - Similar to undirected graphs, the **order is the number of vertices** of the digraph and the **size is the number of arcs**.
+    - ![](https://remnote-user-data.s3.amazonaws.com/waxPTAsreRkaa2WDja1959uTXY_9l3QRBAzXGp8SHYHcXF9igi5jCREYenysfe3qxcUSGNP7rHZQuIYNSf2kq-Rq20IgeWH-yEkBbyPxTypC_EaCpdgsGT5_R5-Z3bvu.png) 
+- Djikstra's Algorithm
+    - Is a tool for determining a shortest path from a starting vertex 𝑠 to any destination vertex.
+    - It applies to connected simple graphs (directed or undirected).
+    - State of a vertex: distance value and status label
+    - The distance value of a vertex represents an estimate of its distance from vertex 𝑠. This may be updated everytime Dijkstra’s algorithm is used.
+    - Status labels: Permanent or Temporary.
+    - Once a vertex reaches permanent status label, that means we have determined its shortest distance from the starting point.
+    - At each step of the algorithm, one vertex is designated as current.
+    - 

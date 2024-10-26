@@ -1,0 +1,22 @@
+- **Minimum Spanning Trees (MST)** 
+    - Kruskal’s and Prim’s Algorithm
+- Path and Circuit
+    - A **path **from a vertex u to a vertex v of a graph is a sequence of edges starting from u and ending in v such that the end of each edge other than the last one is the start of the next edge in the sequence.
+    - The **length of a path** is the sum of the weights of the edges of the path.
+- Trees
+    - A tree is a **connected **undirected graph with **no simple circuits**.
+    - ![](https://remnote-user-data.s3.amazonaws.com/7x6M2pJ18LP1SQgEnuNYw5wjToF4mdavymJIcbooljXSG8cox8iRBiciwXLAqG5QKmrpkEOdUKW-nHrmUsY7w4L4VREP34AWL_4i22j6ovRsRxFtfXvL-Tv08sB9jamR.png) 
+- Spanning Trees
+    - A spanning tree obtained from a graph is a tree which uses all the original vertices.
+    - A minimal spanning tree (MST) is a spanning tree with the total weight of its edges as small as possible.
+    - **Application**: The concept of MST is used to find the least expensive way to connect a set of locations, terminals, computers, etc.
+    - ![](https://remnote-user-data.s3.amazonaws.com/dKLq06cqSclShrCc7-Dyvd11LyXqFqN1GVrfvRdllISX7E3240zarunXLY51IMMV8tIiF_GPCu_MPNIrAPOnuZF-0J1n2oylHlxxDZ2CMRn4gRlNGDxWWS4-0AK_9LWe.png) 
+- Kruskal’s Algorithm
+    - 1. Begin by choosing the shortest edge.
+    - 2. Choose the shortest edge remaining that does not complete a cycle with any of those already chosen. (If there are two or more possibilities, choose any one of them at random.)
+    - 3. Repeat Step 2 until you have chosen n-1 edges altogether. The result is a minimum-length spanning tree.
+- Prim's Algorithm
+    - 1. Start with any vertex chosen random, and consider this as a tree.
+    - 2. Look for the shortest edge which joins a vertex on the tree to a vertex not on the tree, and add this to the tree. (If there is more than one such edge, choose any one of them at random.)
+    - 3. Repeat Step 2 until all the vertices of the graph are on the tree; the tree is then a minimum-length spanning tree.
+    - should yield the same weight as Kruskal but maybe different connections

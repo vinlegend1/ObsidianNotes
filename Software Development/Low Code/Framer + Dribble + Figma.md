@@ -1,0 +1,5 @@
+- workflow goes as follows:
+    - dribble ⇒ to figma ⇒ to framer
+    - or dribble ⇒ midjourney ⇒ figma ⇒ framer
+- ![](https://remnote-user-data.s3.amazonaws.com/TNkmaVQzNstG59q8X9bQURUUhzsuk6WV5zUFS0uiyJptgoTj2tGphzLP3pvGg0Ukb1jm_QU2F4ca7IXGN1aldEvUwN6B3BlG_BURnoVH7Y4j1Mozw4om3Ni0cHecROnN.png) 
+- [Start a SaaS Business Using These AI + No Code Tools - YouTube](https://www.youtube.com/watch?v=JZ696sbfPHs) 

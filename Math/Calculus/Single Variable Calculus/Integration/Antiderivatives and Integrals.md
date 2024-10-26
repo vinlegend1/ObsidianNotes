@@ -1,0 +1,14 @@
+- An indefinite integral is also referred to as an→antiderivative 
+- ![](https://remnote-user-data.s3.amazonaws.com/nhzXUh1XNCHwU0w9AanS6b3GhVALhM1QrtepFwrmNxj8MIcyRBSLzRExpqhjDvhFGR-zt0vBg4Q6HGtgbH02XUC9B94PQKu8dz92pZ5n7OEPBGz41PWNtZg-yr1sJgW-.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/vx2fxcaXrJhRnqE2qMw9BDRwNnDFYaESlsuLww-8B8A79xiMaC1qU4jcFmWJkb3g9LXbs9RnbGgwV_1_ZENm9kA2ZLPenGGLKqrl-eOXK7Pkr0s_6HhfU7cQRIRFn8Cm.png) 
+- Uniqueness of antiderivatives is up to a constant
+    - ![](https://remnote-user-data.s3.amazonaws.com/geb0aGWOhXnbMgF7zZeABAUiL_9sfz1q470IDSe3tLQmRiRsbgzxoLnaOxEeBLRVgCd_routxYx5UJGuOtNHciDmq6xnEiCvurEcK-3b5lWGOu4IPuh_wI9Kct9zHATJ.png) 
+    - Proof: ![](https://remnote-user-data.s3.amazonaws.com/ymnB24G7KezsDeSRQuCC3T2AyrysF5i8CELEcLXyb5TraXyDqd5oY2W4MsxpJB_kxraPnB1HZ4X7a-n-cUCCvflxsq7aIN2SEhX-F6VBzJTHdp287CKWkxH2krGxGKM9.png) 
+- Method of substitution (u-sub)
+    - ![](https://remnote-user-data.s3.amazonaws.com/7Y90mqN7T6jO3lpgyYxYoF56vwgTUCCu4mKX6JRKSEmDvFmm6UQp7RTm-eXj-zYJ8Ga2TLbd1Rf3imrm-wD8ViPjZNdZ_QH6JKOnHP5fiRYfd2cdmC6d6G2x8DnPTKYW.png) 
+- Advanced guessing
+    - ![](https://remnote-user-data.s3.amazonaws.com/L0pcMDwO7PM-92f3LjhRDVrAB9EASxEnc1m2kQ0-T-YRXs391K5N-K8squvgG5oJl-2eMNLDWvm5xwayOWe8_MisZqcJpkCVtYbowDsvToRu4QlP6o43LTRsrxNyS37h.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/pvUxoIydCfhgKnNum6xfM4vvBTj1CzDP21Kdad0KxdHxoasjKXuHge5VodK__3OoWk7nek9TuPrM9UQRxHICwHsgBNc5vJtMjqVU6-7bPSEBcTjtzQy3nll56nklamg1.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/e3dLwDFdAUcCqCBNUi2xr_pLrlrFEpshyuXWiZe2Z2jGTZg5zQrPLegPTpXJ_UJtXWA_Bd4NGsqqJ8jqRj9fZVtvcdOLdhmwMOiGhsZo8DhtDNFfEKsQRXbF20y6lLTK.png) 
+- Riemann Sum
+    - ![](https://remnote-user-data.s3.amazonaws.com/rrMSr2g31NJ-taEzSmJpnrT_XWRs19FVhswlFcTnLSeFduC30NSjiYRvnpryufJUmeG1vxnrt77FNeGqkSaGcM0y3vDv0nnYHcgoUs9CIF6_xtKzJbdxIr5-FR_86JjI.png) 

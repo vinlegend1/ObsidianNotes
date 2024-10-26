@@ -1,0 +1,7 @@
+- YouTube Videos
+    - [Linear Programming - Formulation 1 | Don&#39;t Memorise - YouTube](https://youtu.be/uJFiR0DG2Bw) 
+    - [Linear Programming - Graphical Solution | Don&#39;t Memorise - YouTube](https://youtu.be/qQFAvPF2OSI) 
+    - [Solving Optimization Problems with Python Linear Programming - YouTube](https://youtu.be/ufYtueq2DCw) 
+- [The term linear refers to the relationship involving two or more variables, which show first-degree mathematical statement.](../../../undefined/undefined/undefined.md) 
+- [The term programming refers to the use of certain mathematical techniques or algorithms to obtain best possible solution or the optimal solution.](../../../undefined/undefined/undefined.md) 
+- [a mathematical technique that involves maximizing and minimizing a linear function subject to given linear constraints.](../../../undefined/undefined/undefined.md) 

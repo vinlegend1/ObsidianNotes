@@ -1,0 +1,147 @@
+- Why worry about Chemical safety?>>>
+    - Chemicals used everyday at home and in the workplace can be hazardous.
+- Risks and Hazards
+    - Approximately 1,000 new chemicals come onto the market every year, and about 100,000 chemical substances are used on a global scale.
+    - Hazard―Potential of a substance to cause damage
+    - Risk―Measure of the probability that harm will occur under defined conditions of exposure to a chemical
+    - risks are expressed as {{probability}} 
+    - Risk Assessment>>>
+        - hazard identification
+        - probability of risk
+        - consequences of risk
+    - Risk Management>>>
+        - comparative risk management―how does it compare to other risks?
+        - risk reduction
+        - risk reduction strategy
+        - financial commitment
+- 
+- Types of hazards
+- Chemical hazards―from harmful chemicals in air, water, soil, food, and human-made products. 
+- Biological hazards―from more than 1,400 pathogens that can infect humans. 
+- Natural hazards―such as fire, earthquakes, volcanic eruptions, floods, and storms. 
+- Cultural hazards―such as unsafe working conditions, unsafe highways, criminal assault, and poverty.
+- Lifestyle choices―such as smoking, making poor food choices, drinking too much alcohol, and having unsafe sex.
+- 
+- Chemical risks to human health>>>
+    - organ damage
+    - weakening of the immune system
+    - development of allergies or asthma
+    - reproductive problems and birth defects
+    - effects on the overall development of children
+    - Blindness & death
+    - cancer
+- Some toxic chemicals>>>
+    - [Vinyl chloride](../../Chemistry/Chemicals/Vinyl chloride.md) 
+    - Asbestos
+    - Carbon tetrachloride
+    - Mercury
+    - Lead
+    - Thalidomide
+    - Methanol
+    - CO, CS_2
+    - Arsenic
+    - Polychlorinated biphenyls (PCBs)
+- Types of Exposure>>>
+    - Air and inhalation
+    - Skin and eye contact/ absorption
+    - Food, water, and ingestion
+    - Transfer across the placenta
+- Some chemicals can cause cancers, mutations, and birth defects
+- There are three major types of potentially toxic agents. 
+- {{Carcinogens }}are chemicals, types of radiation, or certain viruses that can {{cause or promote cancer}}. 
+- {{Mutagens }}are chemicals or forms of radiation that cause{{ mutations, or changes, in the DNA molecules}} found in cells, or that increase the frequency of such changes. 
+- {{Teratogens }}are chemicals that cause harm or birth defects to a fetus or embryo
+- 
+- Our body’s immune system protects us against disease and harmful substances by forming antibodies that render invading agents harmless, but some chemicals interfere with this process.
+    - Arsenic―DNA damage in immune cells
+    - Methylmercury―effects on inflammatory pathways 
+    - [Dioxins](../../Chemistry/Chemicals/Dioxin.md)―immunosuppression
+- Some natural and synthetic chemicals in the environment, called {{neurotoxins}}, can harm the human nervous system, causing the following effects.
+    - Behavioral changes. 
+    - Learning disabilities. 
+    - Retardation. 
+    - Attention deficit disorder. 
+    - Paralysis. 
+    - Death.
+    - Examples of neurotoxins>>>
+        - Polychlorinated biphenyls (PCBs) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/or-S3AieaQ0H7q4orQnAmSeonyVeadpIOKgSfTUUyA8y8da5IrnCzciNS7ZB8rqHvvhohK--6Iqvr49dCQ-cJtuYHef2RzC_c8MvZb-ESYwRgWVpqZECPU6pc1V1RQYO.png)
+            - ![](https://remnote-user-data.s3.amazonaws.com/oeUs3_cKRr5X9YdIaGLBHgzjADUDJqCEpgMoLlkdHBjL-6GFxcm51G0NZR2lx0TqwSMGWwzRvJbNTyW1S1rcbB9WDqQIuUDy6auTOJDfXuvcjTU0hAp_LW1bPBWPuwB8.png) 
+        - Methylmercury 
+        - Arsenic
+        - Lead
+        - Certain pesticides
+- Uses of Arsenic
+    - Industry 
+        - Glass 
+        - Pigments 
+        - Textile
+        - Paper
+        - Metal adhesive
+        - Wood preservative
+        - Ammunition
+    - Agriculture
+        - Pesticides
+        - Animal feeds
+- Long-term effect of bushfires on water quality
+    - ![](https://remnote-user-data.s3.amazonaws.com/TToXAO2lhTW4F9Kb00-3n3ttgKQJPqXAzHS4mjaQ50TFaL5d8tnwQHYwGWGV-e4aM7Kz5gWiDf39woMEv_0scL09aTmEs01ZQVtF7T4_cLVwZlAfAZBn6B_884D_Y1GG.png) 
+- Lead Contamination
+    - ![](https://remnote-user-data.s3.amazonaws.com/PR6XjNKX_v8V5cnLHl-ZJLefEeShDDzzmVHD8AKkKA3-G16eNHGfwApEP8Sngj_C0QHQrEnrI9XHf_FG5GqWTfVRPNfiUpsQVf2549wjoOlvTX1ZGG3LyPmuVIk75Mvw.png) 
+- Low levels of mercury: These are the safest fish and you may eat up to two to three servings per week. Each serving weighs 180 grams or six ounces.>>>
+    - 1. Samaral 
+    - 2. Dilis (anchovies) 
+    - 3. Hito (catfish) 
+    - 4. Galunggong (mackerel) 
+    - 5. Salmon 
+    - 6. Sardines 
+    - 7. Tilapia 
+    - 8. Low in mercury are shrimp, squid, and crab. 
+    - 9. Bangus (milkfish) are safe but their mercury levels are a bit higher than the rest in this group. 
+- Moderate levels of mercury: Limit eating to one to two times (or servings) per week. Each serving weighs 180 grams or 6 ounces.>>>
+    - 1. Banak (mullet) 
+    - 2. Tamban 
+    - 3. Maya-maya (snapper) 
+    - 4. Canned light tuna 
+- High levels of mercury: At most, you should only eat three times (or three servings) in a month.>>>
+    - 1. Tuna fresh or sashimi 
+    - 2. Lapu-lapu (grouper) 
+    - 3. Sea bass
+- 
+- Methylmercury
+    - The EPA estimates that about {{1 in 12 women of childbearing age}} in the US has enough mercury in her blood to harm a developing fetus. 
+    - The greatest risk from exposure to low levels of methylmercury is{{ brain damage in fetuses and young children}}.
+    - Methylmercury may also harm the {{heart, kidneys, and immune system}} of adults. 
+    - EPA advised nursing mothers, pregnant women, and women who may become pregnant {{not to eat shark, swordfish, king mackerel, or tilefish and to limit their consumption of albacore tuna}}.
+- 
+- The main industrial sources of atmospheric mercury are {{mining, coal burning, and other industrial activities}} 
+- About 50 tons of elemental mercury are emitted each year from {{U.S. coal-burning powerplants}}, with lesser amounts coming from{{ oil- and gas-burning}} units. 
+- Recommendations to reduce mining and coal-burning, reduce or eliminate mercury in the production of batteries, paints, and chlorine by no later than 2020.
+- The endocrine system is a complex network of glands that release tiny amounts of hormones that regulate human>>>
+    - Reproduction. 
+    - Growth. 
+    - Development. 
+    - Learning ability. 
+    - Behavior.
+- Hormonally active agents (HAA)―synthetic chemicals that disrupt the endocrine system in humans and some other animals 
+    - HAA Examples>>>
+        - aluminum
+        - Atrazine™ and several other herbicides
+        - DDT
+        - PCBs
+        - mercury
+        - phthalates
+        - bisphenol A (BPA). 
+    - Some disrupt the endocrine system by attaching to{{ estrogen receptor molecules.}} 
+    - {{Thyroid disrupters}} cause growth, weight, brain, and behavioral disorders.
+- 
+- BPA>>>
+    - BPA is found in plastic water bottles, baby bottles and the plastic resins line food containers. 
+    - Studies found that low levels of BPA cause numerous problems such as brain damage, early puberty, prostate cancer, breast cancer, and heart disease.
+    - ![](https://remnote-user-data.s3.amazonaws.com/IYvdaLwJGoadDCg4Ivhwb6QG0IXz1PuVwE5oYM1DcPeSP9r2qprcdtvRUafaFSQmipk8mgNpnC6PbkVfjA795iPGz9zXuM2n0SIvaOGMVqt5cOpZpBmdBa8I7H91AsZR.png) 
+- BPA Alternatives
+- ![](https://remnote-user-data.s3.amazonaws.com/_ir-ZjvxQPNp0OFlRkUWNFkeFd8MeiNOWxEj3auJ3DQtfLzs2U3HLOX2gZZ_jp-49fuXVhXvH8nbajgvMV-YrzQZSBTzOJpCJFf-SEt2qxlaFoQ_lcQJXqPF07Cipjdq.png) 
+- Phthalates
+- ![](https://remnote-user-data.s3.amazonaws.com/sbgr_0RNbuuCTFjuhrz8ivU0ccduxdL2hn4gBeeM6so7u_0DVrOZKlLpzg-hcSFTRFgvMX0maHSBV2NAPTT80K-tTHqtvxyIn6vHG5JUMZL3Ffoqtfpyjn9X4VwgPIIV.png) 
+- {{Phthalates }}cause cancer and reproductive problems in laboratory animals. What does its chemical structure look like?>>>
+    - ![](https://remnote-user-data.s3.amazonaws.com/D92RSDnsqrnlMG76S-JCbccxruSc9lJuqFrktBkOeylRF-M_zy2q4MA8DRxdIUdBvrVwXxCAReMw4lJ7H3bDdxk5dDXUOAZDPhEZFZZlrh0F4wkP9wJMw0OMBQ6PSbKU.png) 
+- 

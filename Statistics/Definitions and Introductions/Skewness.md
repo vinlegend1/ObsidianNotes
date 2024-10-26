@@ -1,0 +1,9 @@
+- skewness
+    - When skewness is 0, {{median is also the mean}} 
+    - Mean<median, skew is {{negative}} 
+    - Mean>median, skew is {{positive}} 
+- kurtosis→how fat or thin the distribution is 
+    - {{Leptokurtic }}- kurtosis measures are near the tails and is positive
+    - {{Platykurtic }}- kurtosis measures are near center and is negative
+    - {{Mesokurtic }}- kurtosis = 0
+- 

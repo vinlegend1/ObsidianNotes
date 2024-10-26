@@ -1,0 +1,43 @@
+- Function of Gears>>>
+    - adjusting speed ratio
+    - adjusting torque ratio
+    - converting rotational motion to translational motion
+- 
+- Gear Types
+- Spur Gears 
+    - ![](https://remnote-user-data.s3.amazonaws.com/ewzXxj9cwXxruRQuXR3jknD5NnyLA3mu_HNE2OzeI20cbvaY6337IDB36ooCbq-UVDger5VvTPsrCPbSALqLzypCZHyYyXetW5p3vEQHPWZwceg98Lgxw9EKS8_dghe3.png) 
+    - What do spur gears do?→transmit power to shafts that are parallel
+    - the teeth are {{parallel }}to the axle axis in spur gears
+    - produce {{radial reaction loads and not axial}} loads in spur gears
+    - When are spur gears usually used?→Usually used for low to medium speed applications (up to 3600 rev/min)
+    - Why are spur gears not used in high speed applications?→not often used in high speed applications due to the loud noise they produce
+    - benefits of spur gear→simple design, cheap production and maintenance
+- Helical Gears
+    - ![](https://remnote-user-data.s3.amazonaws.com/xRCWXlSLFMvim7JEtjBX67D-mI9d7hDrwzmuwg3GrTlSceNXLYPIEQfTHnYFT1gNpBmEoMhZv_r-o-z7vvXMqyVUDH1KF92YzxZTOYeyVXspA6bH9XbYaPxh0ovSIMB0.png) 
+    - What are helical gears?→similar to spur gears but the teeth are angled
+    - Why angle in helical gears?>>>
+        - So more than one tooth is in contact during operation, leading to its ability to handle more load
+        - it's used more in high speed applications as a result. Quiter
+    - Cons of helical gears (at least compared to spur gear)?>>>
+        - sliding contact between teeth which would lose energy in the form of heat
+        - i.e. it's less efficient as spur gear due to tooth slippage
+- Bevel Gears
+    - ![](https://remnote-user-data.s3.amazonaws.com/ssJGNg5tLGAj_rRwbDQKMbnQwO-NzexSlk5-PSln2yl583CJwYCKO0VKKsAWGdm2eKOHC8dNvTf0c_KWI4HBuCwYLZBtK6ZGPut4iDvK-fJ1P6hTEzb7SrbgIAjo4jcB.png) 
+    - where are bevel gears most commonly used?→they're commonly used to transmit power from one shaft to another that are perpendicularly intersecting or at some sort of angle (but usually perpendicular)
+- Spiral Bevel Gears
+    - ![](https://remnote-user-data.s3.amazonaws.com/5mSlkUZSqaXALAgOi7pQ1J7WzpyjXv-KV7HEEbSUip1VqvzMbNM6n7PYRBUQUD8MNY2uEqYcPYZo0VkZ0P4ktIxg6n1kUAxRs7Wlco5TJBe7B_EyzRsN5q6hjsKyRVwO.png) 
+    - What are spiral bevel gears?>>>
+        - bevel gears with curved tooth lines.
+    - pros and cons of spiral bevel gears>>>
+        - Due to higher tooth contact ratio, they are superior to straight bevel gears in efficiency, strength, vibration and noise.
+        - On the other hand, they are more difficult to produce. Also, because the teeth are curved, they cause thrust forces in the axial direction
+    - 
+- Worm Gears
+    - ![](https://remnote-user-data.s3.amazonaws.com/8sq4RxyExEYo-fwKLM-UqSGfd4KQ2C_m8IPqU09HkY91OTw_SDArsgAtzLti2BUL9h8ntNSfr04qJ_X9gXQED5boCin3xLvc8jzivEZAxxE6K8pz7A6RhOHesptHfMmV.png) 
+    - what are worm gears used for?→they're used to transmit power in 90 deg on non-intersecting shafts 
+    - worm hears are good for{{ high shock load}} applications
+    - Cons of worm gears>>>
+        - low efficiency (close to 15%) due to high friction and associated axial stresses
+- Gear Rack or Rack and Pinion
+    - ![](https://remnote-user-data.s3.amazonaws.com/jdS8kUECxTCRe6HuPHjccI211_ro_qptqa4XQSTGhc5xwvZnjV0GXsHcggF0OiTEqEgNsUyJiOaKbjPELltITueJeUjUbc0KHXeATxWZ6wTSSLlaWerEK9QwXBHwKDLH.png) 
+    - converts rotational motion into linear motion  

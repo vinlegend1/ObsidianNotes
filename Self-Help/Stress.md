@@ -1,0 +1,17 @@
+- hard-wired physical response
+- can be advantageous in the short-term but it's not ideal to be stressed too often
+- adrenal gland produces cortisol + epinephrine = adrenaline
+    - also norepinephrine
+    - travels to heart
+    - adrenaline causes heart to beat faster and raises blood pressure
+- can also affect the stomach or gut
+    - increase gut sensitivity to acidity
+- causes you to crave comfort food
+- affects the immune cells
+- affects the length of telomeres in chromosomes
+- view things as challenges instead of stressful things
+    - respond more positively
+- Mental Health
+- mental health is our ability to respond to challenges
+- protective factors and risk factors
+    - protective factors are like the shield and risk factors are like the poisons to mental health

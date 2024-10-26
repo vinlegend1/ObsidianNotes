@@ -1,0 +1,17 @@
+- Derivative of Trigonometric Functions
+    - ![](https://remnote-user-data.s3.amazonaws.com/eywNeodnSDfFYRkp-RyN9DvEXEmzG406ilr2MPwMM1d79N3prhDJH4cAehD-CaU9nUPjMLj0Yk2xfme-1U9m2KcQftLmW4ki_lN8DRu1hND5mZhafUJk3arHeLojQhbc.png) 
+- 
+- Trigonometric Identities (Sum and Difference Angle Identities)
+    - ![](https://remnote-user-data.s3.amazonaws.com/pg6Wy5EdApeVmRUn_LxjuHzSaeExv98Bd1AONMaC0VH4MLoZtpTucyWJRHJGfbm4O7377S-Da_xls-FTm7rAVxRKSXrhsL66VBLhD_0ZixJe8VekbR3z0IsZagXBjigY.png) 
+- 
+- Inverse Trig Derivatives
+    - [Tricks for Memorizing Inverse Trig Derivatives - YouTube](https://www.youtube.com/watch?v=NI9Avfc9K2M) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/1xf1GaI_8Ghl5Ht_ik0zdV7a7CZGn0_x-wXs8Gm9FaOrKb28TAVGm6QYFhj3r4Lk8mzgIUt3t0b_kWVyEcieTBVsfb08EBULxRyO5hIsKmK8jBiwY_iIwLUxy4WpnN-5.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/8TfwS9aImo4OaOh8TQgmvA25sZU7dLVTxsV6yXb6UD1E2Z2viNaBSuwE51bCem2WzID930RfHE7iIA2-o4l7H-Mg3Has_hcC-Amnldfn3x2iaScfmCjENvSrAk4liwYZ.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/eTwRT_68dYosH81kyhFYyyRd4fuW3X0UHSbVC-gHJYreHcojMk6dqYw-iN-9QhVnfeiaCMEql8S_o8efJNLSWF8EwMVTh-SXyE8gcM3SHnCeiDOJnbw2TNau5AMPga8c.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/OBlqYTiUHIDnRCrl0jo37hHZb2AO2BYfnhNGdl3K4d0THDliqAjLOiKwxly57G4Io4rx5Px5jkMVpONkFHXOcZjCi8tmfD-eRmTvNqjM0h_X2mVnpI5WTzQYjY0BNGkA.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/x4V_dKwCaf5A1_jA3yyFpz3Udt5_Jvot4GFy13mpA_ylqNVJWmXOjx89difMufpt9KZuTTtBbzCUHkuv-gVUeAJH-DAdFXo1W1swNtHZurCc-u98hqIYFdgS7Z_2wq4A.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/nJSGcq3SHmuXkYuQ4Ad-qRuZfkwuNjTTn1e28zEPtQI8-GaVT8KKGUfP02Qns8bqO139So5B9kE2C4DYIOgoW5PL5NVqTmX8POMlOpUPmhPj8fSkNfj3qjfhhsKtHQ-e.png) 
+- 
+- Derivatives of Hyperbolic Functions
+    - ![](https://remnote-user-data.s3.amazonaws.com/dC9nuRrCJlo1m2ulrg8q_FhWh0xJNJn5cT8_zk-l0KzGrzMRNszjsSCueOG1KjenZNWFl5Ve9HxdPTo3gFfJzYQmXxPs-eUz977Lo7grH8d5clJhM97e6UPMJOWRmNyu.png) 

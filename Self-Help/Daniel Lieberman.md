@@ -1,0 +1,7 @@
+- Exercise is an evolutionary need
+- We have been evolved to do manual labors. It's not necessarily: " You have to exercise" more so "Your genetics require you to exercise"
+- Strength training to prevent muscle loss and functional loss and basically a lot of diseases
+- Many diseases are preventable just by exercising (74%)
+- Exercising "slows down" aging, or... Lack of activity makes aging run amok
+- Preventive exercises
+- Don't need full 8 hours sleep

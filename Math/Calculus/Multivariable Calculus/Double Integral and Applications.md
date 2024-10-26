@@ -1,0 +1,16 @@
+- ![](https://remnote-user-data.s3.amazonaws.com/82AGS4t2KfNd0NNgPIpb-0xFwpqU_oh3muTETX6FcHnBN97whErC3-ohbN7h1jp7W51hjgKZRrYhnewYxvCSuiQ8fLBaMckPbkjEod_4BZy6JQ0P6cxw4iqC_sovtRX0.png) 
+- Solve for area of a region (think of the function given as 1)
+    - technically you're solving for the volume under the curve but if the function is 1 (or height 1), you're essentially getting the area of the base
+- ![](https://remnote-user-data.s3.amazonaws.com/soLc497sT7QcKCsAyxTJnJLTeOXkf4VZb_tR6xnK_ZwE0RsNlYi4nkCwt37TqKqNbSxfvCpaUZM9N6rIKOfvV_RA0IkWoptzXDqzty1dNG3QMQFhZEWoD1Ph81jzUibE.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/qHp4xMXxC1v3t6nd_5dO-bvdqVLLflAzwNJxZuS20-OkRku2CejA_yx5dPi11eAxTFTT0dxrCR4Qv2e7zU7jzvBEtC-m-XSN8t1n1fqew57qr9ZhTxxH0O8-Tn6Arm2x.png) 
+- Center of mass
+    - ![](https://remnote-user-data.s3.amazonaws.com/C0in4KW9rg-KU5Sf1InonZdrUV687B6qVlTQjnLVc0g1EL03XazyNfjQ4bwZKZI3U01cA4sSrWhgi1Pdkg1EHJ1Db_yWZ-BjSgt9Sl5rAOI-NvQJ9pne_ZJ7H9FZJrbB.png) 
+- Moment of Inertia
+    - ![](https://remnote-user-data.s3.amazonaws.com/vT0wvoR4odDPCiuUzsr7vOAjPMNaWQu83F1CMGCYpEwY5YZasMMR4zk40Pujonxio38lz3WbsZOQlIk9Upi7PWrPr6dFE5ImN74QJkb0o19ASnnNT3r2U7LC54jEMiGW.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/eA7pNnc3zveFMCJofxGZvOVEbhZaa89-0KkfUxZu72QwjjF35omp8RDgRkcPxWqyUeEdIvOcTT_7O15yLFyV8QN4ODC9zdm7hoD6_ojBlvqKuI_o0UIzUcCs-a4J_As5.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/QUhNR1-D_lrXZJwXWuBZMxxDQFUGQxXORUA5TOGS6TTbzHWK79aVMeHGU7kHc60fXNdOKdrkplN4EivvXbAR0jTlr_LHrlIM6yo5v6jfwHLWsY6y6vtB_5zUAdKsapJJ.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/YAxUbU9uc9cq18IxIfviF-p4qtRmDVVUZYM9iNig5UVpubGfgJcnqz27btP2qGBaeUtICk8AYwyU4vbkn4DraUABkl_aP8HgekWp4tSpOEs3-IrCm1k2Gj1CMwAq27X6.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/btVPd6c_wBFz-z29PaMqqo4iMBGvgiEntTt-j4ENa1cls-vE2h5FjtsSA9K9WycGqUXUWwOr224G9OezwFFUGiMKGybDQlopzGDRgyuLvDNa-YCvyCIDAA9gBnDY8LzD.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/RHB-v0TNDraWleoY_qAlvpedkfn3zci0wQnbbNazGujUCSZttBqNX7MJVceJd64VkhVP-pCwYZabYtEmBTLRY2TvhyEPHxVx_9HmezWSOFWz3EziFgls-NB3K5f3ywx8.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/FMGR8ceFMljl8fB9uzj7qHDnE0Tb7ZEchMtmfWiG4UXnAbas0tQXw1rIcj9XimpO1K867MUMydQzCoRPBFxSMfN3_NvV0n_jskfAsGE3hG3xtItLYeBKvb2z1pOUt7ge.png)
+    - ![](https://remnote-user-data.s3.amazonaws.com/JLRgY-Ih1C9PuVc0Wdkw3f9_EaRRFvP_CyPIkLQU0jf_8JAYbeFqEcxBkjy4rcWuAN16gnIWZVDhxv6MJjmnifuNjw42biYAwxfdXhSLytsLennWjGerVDanmh-HzP4G.png) 

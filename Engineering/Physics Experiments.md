@@ -1,0 +1,11 @@
+- [drive.google.com/open?id=1JmP0H408astOyWyBE6SJBE8tj0O7zqQr&usp=drive fs](https://drive.google.com/open?id=1JmP0H408astOyWyBE6SJBE8tj0O7zqQr&usp=drive_fs) 
+- Topics
+    - Torque and Rotational Equilibrium
+    - VOM and Breadboarding
+    - Resistors and Capacitors in Series and Parallel
+    - Ohm's Law, Maximum Power Transfer
+    - Reflection
+    - Refraction
+    - Converging Lens
+    - Light and Color
+    - Specific Heat of Solids

@@ -1,0 +1,60 @@
+- Fractals [Article](../../../undefined.md) 
+    - What are Fractals?
+        - [A fractal is a never-ending pattern.](../../../undefined/undefined/undefined.md) 
+        - [Fractals are infinitely complex patterns that are selfsimilar across different scales.](../../../undefined/undefined/undefined.md)
+        - [These are created by repeating a simple process over and over in an ongoing feedback loop.](../../../undefined/undefined/undefined.md) 
+    - Famous Fractals
+        - [Koch Snowflake](../../../undefined/undefined/undefined.md) 
+        - [Sierpinski Triangle](../../../undefined/undefined/undefined.md) 
+        - [Mandelbrot Set](../../../undefined/undefined/undefined.md) 
+        - [Julia Set](../../../undefined/undefined/undefined.md) 
+        - [Wolfram Alpha](../../../undefined/undefined/undefined.md) 
+    - Fractals in Nature
+        - [Cauliflower](../../../undefined/undefined/undefined.md) 
+        - [Ferns](../../../undefined/undefined/undefined.md) 
+        - [Bacterial growth in Petri dish](../../../undefined/undefined/undefined.md) 
+        - [Leaves](../../../undefined/undefined/undefined.md) 
+        - [Opening Fern](../../../undefined/undefined/undefined.md) 
+        - [Gastropod shells](../../../undefined/undefined/undefined.md) 
+        - [Tentacles](../../../undefined/undefined/undefined.md) 
+        - [Nautilus shell](../../../undefined/undefined/undefined.md) 
+        - [Shoreline](../../../undefined/undefined/undefined.md) 
+        - [Mountain range](../../../undefined/undefined/undefined.md) 
+        - [Lightning](../../../undefined/undefined/undefined.md) 
+    - Fractals in Human Bodies
+        - [Neurons](../../../undefined/undefined/undefined.md) 
+        - [Retina vessels](../../../undefined/undefined/undefined.md) 
+        - [Lungs](../../../undefined/undefined/undefined.md) 
+    - [Fractals   The Hidden Dimension - YouTube](https://www.youtube.com/watch?v=xLgaoorsi9U) 
+    - 
+- Fibonacci and Golden Ratio
+    - [FIBONACCI SEQUENCE](../../../undefined/undefined/undefined.md) 
+        - [Leonardo Pisano Bigollo](../../../undefined/undefined/undefined.md) - who fibonacci was named after and inventor of fibonacci sequence
+        - [The Fibonacci sequence was the outcome of a mathematical problem about rabbit breeding.](../../../undefined/undefined/undefined.md) 
+    - Golden Ratio
+        - [https://remnote-user-data.s3.amazonaws.com/ZFVy451vtwA03pM_a_J463Syfd0IYUAiDa3VJgRgbLYJHfOp3sWNzn_NyEO5mse0Nuio9bXhnCulFELb6MUlvel0oTki7ZEingSoq_owqqKVqOFSwMU11lV6QYt6k9C8.png](../../../undefined/undefined/undefined.md) 
+    - [BINET’S FORMULA](../../../undefined/undefined/undefined.md)
+        - [https://remnote-user-data.s3.amazonaws.com/LPt0eyEl2ERAPUCgKKbXvW-rJOggIxKDdvto2r6cres0MtRvx-T9v6VQMF98wNqelbIvvsG3eEWnkLGMmw672PxikCgwXxsSG0cGfPnfmjKzvbU_RDNaBhDIlzycE7Mt.png](../../../undefined/undefined/undefined.md) 
+    - [GOLDEN RATIO IN ARTS](../../../undefined/undefined/undefined.md)
+        - [Shapes proportioned according to the golden ratio have long been considered aesthetically pleasing (especially in Ancient Greece). Many artists, including Da Vinci, have incorporated these shapes and ratio in their works.](../../../undefined/undefined/undefined.md) 
+    - 
+- Symmetric Patterns
+    - [translation](../../../undefined/undefined/undefined.md) 
+    - [REFLECTION](../../../undefined/undefined/undefined.md) 
+    - [ROTATION](../../../undefined/undefined/undefined.md) 
+    - [DILATION](../../../undefined/undefined/undefined.md) 
+    - [An isometry of the plane is a mapping that preserves distance (and therefore shape)](../../../undefined/undefined/undefined.md) 
+    - [GLIDE REFLECTION](../../../undefined/undefined/undefined.md)
+        - [A reflection followed by a translation or vice versa is called a glide reflection](../../../undefined/undefined/undefined.md) 
+    - [CHASLE’S THEOREM](../../../undefined/undefined/undefined.md) 
+        - [Every (rigid) motion of the plane is one of these transformations: a translation, a rotation, a reflection or a glide reflection](../../../undefined/undefined/undefined.md) 
+    - [MULTIPLICATION TABLE FOR ISOMETRIES](../../../undefined/undefined/undefined.md) 
+    - [A figure has symmetry if there is a non-trivial transformation that maps the figure onto itself.](../../../undefined/undefined/undefined.md) 
+    - Types of symmetric patterns
+        - [ROSETTE PATTERN](../../../undefined/undefined/undefined.md) 
+            - [This pattern consist of taking a motif or an element and rotating and/or reflecting that element.](../../../undefined/undefined/undefined.md) 
+        - [FRIEZE PATTERN](../../../undefined/undefined/undefined.md) 
+            - [This pattern is an infinitely long strip imprinted with a design given by a repeating pattern motif.](../../../undefined/undefined/undefined.md) 
+        - [WALLPAPER PATTERN](../../../undefined/undefined/undefined.md) 
+            - [Whereas a frieze pattern can be mapped onto itself by a horizontal translation, a wallpaper pattern covers the plane and can be mapped onto itself by translation in more than one direction](../../../undefined/undefined/undefined.md) 
+- 

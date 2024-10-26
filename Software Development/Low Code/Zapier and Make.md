@@ -1,0 +1,9 @@
+- No-code automation provider
+- Consists of one trigger event and one or more action
+- Can send like a slack message (but don't they have webhooks for it already?)
+- Dynamic Data in Zapier
+- Insert data allows access to dynamic data
+- Check Zapier Apps in Settings
+- Explore Tab in Zapier
+- Zapier is expensive AF
+- Make.com or Integromat is like a more technical alternative

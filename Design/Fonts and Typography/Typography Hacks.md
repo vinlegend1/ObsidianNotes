@@ -1,0 +1,12 @@
+- Bigger Line Heights
+    - 1.1-1.3x headings
+    - 1.3-1.5x body text
+- Negative Letter Spacing
+- Text Alignment
+    - Don't mix and match alignment between heading and body text
+    - long lines of text are usually perceived by users as intimidating and overwhelming
+- Whitespace is to be regarded as an active element, not a passive background
+- Use Fewer Font Sizes
+- Use HSB and adjust a bit
+- Decide on Adjectives
+- Use the best imagery

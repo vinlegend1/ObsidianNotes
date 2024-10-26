@@ -1,0 +1,46 @@
+- Phthalates
+    - Definition: Chemical compounds used as plasticizers and solvents
+    - Types:
+        - Diethyl phthalate (DEP)
+        - Diisononyl phthalate (DINP)
+        - Diisodecyl phthalate (DIDP)
+        - Butyl benzyl phthalate (BBP)
+        - Dibutyl phthalate (DBP)
+        - Di(2-ethylhexyl) phthalate (DEHP)
+        - Dimethyl phthalate (DMP)
+    - Uses:
+        - Plastics manufacturing: makes plastic more flexible, durable, and transparent
+        - Personal care products: used as a solvent in fragrance and cosmetic products
+        - Medical devices: used in tubing, blood bags, and other medical equipment
+        - Building materials: used in vinyl flooring, wall coverings, and wire insulation
+        - Toys and children's products: used in soft and flexible toys and teethers
+    - Note: Phthalates have been linked to various health concerns such as hormonal imbalances, reproductive issues, and developmental problems. Some countries have banned the use of certain phthalates in specific products, while others have imposed regulations on their use.
+- Dioxin
+    - What are dioxins?→Dioxins are a group of toxic chemical compounds that are produced as byproducts of certain industrial processes, such as waste incineration, chemical manufacturing, and paper bleaching.
+    - What is the most toxic dioxin?→The most toxic dioxin is called 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD), and it is often used as a reference point for measuring the toxicity of other dioxins.
+    - What are the dangers of dioxin exposure?→Dioxins are highly toxic and can cause a range of health effects in humans and animals, including cancer, developmental and reproductive disorders, immune system damage, and hormonal imbalances. Exposure to dioxins can occur through inhalation, ingestion, or skin contact with contaminated materials, such as food, water, or soil. Children, pregnant women, and people with weakened immune systems are particularly vulnerable to the health effects of dioxin exposure.
+    - What are some applications of dioxins in industry?→Dioxins are not intentionally produced, but are rather byproducts of certain industrial processes, such as waste incineration and chemical manufacturing. Some industries, such as paper and pulp mills, have been known to release dioxins into the environment through their manufacturing processes.
+    - What are some cases where dioxin exposure has been fatal to human life?→One of the most well-known cases of dioxin exposure occurred in Seveso, Italy in 1976, when a chemical accident released a cloud of dioxin into the surrounding area, resulting in widespread contamination and health effects for the local population. Agent Orange, a herbicide used by the U.S. military during the Vietnam War, contained high levels of dioxin and has been linked to health effects in both U.S. veterans and Vietnamese civilians. Dioxin contamination has also been found in communities living near waste incinerators and other sources of pollution.
+    - TCDD>>>
+        - ![](https://remnote-user-data.s3.amazonaws.com/iMnWF7VlD8PAAM7NSPc-jbuY6-QXbH6M0OQlv1DPsGuOO7ajq5dqWI2gjRJ4SYqkzMAIUrOSMyIhoSWs9QcJ9Ehg_olGL848iHbw2PHslVFD_-gN_-OvrPNZZVKZzw6u.png) 
+- Vinyl chloride
+    - {{Vinyl Chloride}} is a chlorinated hydrocarbon occurring as a colorless, highly flammable gas with a mild, sweet odor that may emit toxic fumes of carbon dioxide, carbon monoxide, hydrogen chloride and phosgene when heated to decomposition.
+    - 
+    - vinyl chloride color→colorless
+    - vinyl chloride flammability→highly flammable
+    - vinyl chloride odor→mild sweet odor 
+    - 
+    - Uses in Industry
+        - Vinyl chloride is used primarily to make [polyvinyl chloride (PVC)](../Materials Science/Plastics/Polyvinyl Chloride.md), a hard plastic resin used to make a variety of plastic products, including pipes, wire and cable coatings, and packaging materials
+        - Vinyl chloride is also produced as a combustion product in tobacco smoke
+        - Vinyl chloride main uses>>>
+            - making/production of polyvinyl chloride
+            - a combustion product in tobacco smoke
+    - 
+    - What is Vinyl Chloride?→Vinyl Chloride is a chemical compound with the formula C2H3Cl.
+    - What are the hazards associated with Vinyl Chloride?→Vinyl Chloride is highly toxic, flammable, and carcinogenic. It can also have a negative environmental impact and pose a risk of occupational exposure.
+    - What are some safety precautions for working with Vinyl Chloride?→Safety precautions when working with Vinyl Chloride include wearing appropriate personal protective equipment, ensuring proper ventilation, and following proper handling and storage procedures.
+    - How is Vinyl Chloride manufactured?→Vinyl Chloride is typically synthesized from acetylene and hydrogen chloride and then purified using various methods. It is then polymerized to create a variety of plastics and other products.
+    - What are some applications of Vinyl Chloride in industry?→Vinyl Chloride is widely used in the production of polyvinyl chloride (PVC), which is used in a variety of applications including construction materials, electrical insulation, pipes and fittings, automotive parts, medical devices, and consumer goods.
+    - What are some material science properties of Vinyl Chloride?→Vinyl Chloride has high reactivity and low boiling point, is soluble in water, and has polymerizable properties. Its polymer properties include thermal and chemical resistance, and it is used to create polymer coatings, adhesives, and packaging materials.
+    - 

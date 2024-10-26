@@ -1,0 +1,2 @@
+- [Arc Length of A Polar Curve (proof) - YouTube](https://www.youtube.com/watch?v=M-WgHKRVxkU) 
+- ![](https://remnote-user-data.s3.amazonaws.com/irBaN_SWTSWWWZ4MhbcWuT-7J-O9zg8BQif4jp5z2HwkyFrAaQ5hj8hu1Vh3AaK1ADsqEQvLgCCuDkX_AJyIQcLAkKbf8ACAkeADtrmthPRLEfQ2CJP0MAjxsyT1JrbE.png) 

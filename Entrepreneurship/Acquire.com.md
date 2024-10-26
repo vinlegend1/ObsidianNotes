@@ -1,0 +1,26 @@
+- Tool for creating & running giveaways for a brand to increase engagement
+    - only con with this is it's not sticky enough
+    - competitors: Gleam, Kickofflabs, Upviral  
+    - [www.g2.com/products/gleam/reviews#survey response 3396745](https://www.g2.com/products/gleam/reviews#survey-response-3396745) 
+- Omnichannel communication platform for businesses
+    - It allows you to connect Zendesk, Freshdesk, Livechat to Instagram, WhatsApp, Viber, Facebook, Telegram account where you can receive direct messages and reply to clients in real-time with the platform
+    - Competitors:   Twilio, Pythia, BotXOOngair  
+- Provides a POS system and eCommerce site for buying and selling discount gift cards
+    - Competitors:   Raise.com, Cardcash.com  
+- Project management system for streamlining time tracking, workflows, etc.  
+    - Asana, Trello
+- Management and organization virtual sidekick for photographers with $546,544 in TTM revenue
+    - Profitable SaaS with $550,000 in ARR and $546,544 in TTM revenue that offers creatives a simple way to manage businesses for photographers with features such as online booking and scheduling, automated workflows, contract management, invoicing, scouting location management, questionnaires, and more for a photography business.
+    - Competitors:
+        - Honeybook, Dubsado, 17Hats  
+- AI-powered marketing copywriting SaaS for growing sales & producing leads  
+    - Competitors: Jasper CopyAI ChatSonic Writesonic Frase  
+- URL shortener & analytics for influencers & sellers to track traffic & Amazon products  
+- A beautiful, modern webinar platform for running live and automated webinar events.  
+- Data analytics platform for cities, civil engineers, logistics and transportation.  
+    - transforms data from the physical world and turns it into intelligence. It compiles data from the real world, organize it, format it, and ingest it into its platform so you can easily access, use, and analyze it.  
+    - AECOM, Jacobs, Kimley Horn  
+- Proactive recruiting platform for small business.  
+    - Profitable SaaS applicant and candidate management with $453,000 in TTM revenue and $200,000 in TTM profit for small businesses that utilize multiple job boards/sources for customers to better prepare for their next hire.
+    - Career Plug, Ideal Traits
+  

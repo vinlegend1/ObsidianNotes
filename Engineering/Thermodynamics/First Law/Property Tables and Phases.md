@@ -1,0 +1,18 @@
+- T-V Diagram (at constant pressure)
+- ![](https://remnote-user-data.s3.amazonaws.com/sPDAIW3EBIDnne2Go32WT9vGYpoG8sVaJLrbMXR9RMxNW8e6lAT9zyqpWN3jElja-CQam-2MyixJ_0Pwc_Tkzfe63oLSikR6dPFeOHHR-FgcnVtlC-uUCvoTL8rn592e.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/exLN18m1R8riXnfY5stFtCqXI6KVJFZfxwCw-e-HInhfVPuF1Ctpz9cNlo4IAPDWa5QgAUMZkKaCRRPDZtsjNuht5xgffyJYmoEUiVk9l34stWc3vx8ZVO3QRlQN5sHG.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/BzgfiQ-hwW0ztg93fd-BpewXBUuEYtFGrgHa8s4jixQ_4RRK_bhJMtOyvzdQQ4Uo2Pi7f3QyEMZXHDHjwZ4tZdtHgznyomlSN7jWwzldTGAjFLjB_jiJQi0GUMrJZ3O5.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/D9bzlJOKBI5Nm9jHxHPeaSmjc6Pu-_adQinUTyrSaPBUJnDdy_IBdB-bo1xO8uO_EtqSfb2CNmye4C3_bZRGEySNe0saPwBJ_HavhFP0ymzoTmb_YaifU-HypBtq3TLY.png) 
+- Tips for looking up tables
+    - I think I wrote this
+    - find where it lies: less, between, or bigger based on the saturated chart (for looking up temperature knowing the pressure)
+        - if > then it's superheated
+        - < then it's compressed
+        - between then it's saturated
+- Examples
+    - A rigid tank contains 40kg of saturated liquid water @ 85C. Determine the pressure in the tank and the tank's volume.
+        - P@85C = 57.868 kPa
+        - $\nu = 0.001032 m^3/kg$
+        - $V = (40kg)\nu = 0.04128 m^3$ 
+    - ![](https://remnote-user-data.s3.amazonaws.com/ImllS-cijm6lc0Qx4QltmJmp8Hlc4Xfmb7RAj47rRhfbscNjwWmL4zpFX8TymdM2hy6doPpluN-I4udCbvewjRVo-C9J5imbNsYUPou6b0RGmJcGYyX0Re7jhvClHzym.png)
+    - ![](https://remnote-user-data.s3.amazonaws.com/4XZoyo6PesZr1t8XrYjwFzdgu_dVbRsaafoMCQ1JW6Y8iq-OdS1b3Nv6DThKTo8u3iekZ50TJvD4NuX6XCivqkJvAtwXSZeXWof1Zre7y2ANUMkMLt6eRY6uzf7-mYos.png) 

@@ -1,0 +1,10 @@
+- shape of element>>>
+    - to produce a direction of design or movement in eyes 
+    - shapes can also have psychological meaning if not used as directioning
+- subject matter→the main thing of the design, where you want your viewer to be focused at 
+- Rudolf Arnheim's structural net>>>
+    - ![](https://remnote-user-data.s3.amazonaws.com/zP1AEyhhJFGqoAJXLdhf1-v-FGL91JPGXogcg0WZen6Z6nFTtRFcOD5NaN8iNjUiDP97dmlvNVPqJKOkxdBSJTnbbEnAedNh3Umjl2a5EsLm5NcWDCLR4vlA-90w72gk.png) 
+- overall design direction composition>>>
+    - horizontal→calming and stable
+    - vertical→balance and boldness and alertness
+    - diagonal→movement and action 

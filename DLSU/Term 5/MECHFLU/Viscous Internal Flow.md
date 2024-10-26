@@ -1,0 +1,3 @@
+- Re = 2300
+    - critical or transition Reynolds number
+    - Reynolds number below which the flow is laminar, above which the flow is turbulent

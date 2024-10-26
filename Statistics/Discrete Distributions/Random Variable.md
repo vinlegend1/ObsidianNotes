@@ -1,0 +1,8 @@
+- Discrete vs Continuous Random Variable
+    - ![](https://remnote-user-data.s3.amazonaws.com/rtQXgfTDqGU0H9mkScnwVFt4dD3GGO-TZc4IHO4kdVbu_geS3fJIdF5h5JUPh0YhtCq63ac_cUme-FURdGJCDqISzj9IDN9Ej_MXzOOv_YnVvULldVAySmo2vJhPnxhT.png) 
+- Expectation Value and Variance
+    - ![](https://remnote-user-data.s3.amazonaws.com/A3SIRlxYzb9ZMArUhifujty4JHsDvNz_99rg8K6cRIym3ZHpqqr_cHbLpHZtFDI7W4xbprFI7E9tUgsvhhFXeqmlaUeNmwPyNClYH7u8GIWb5M8a7Vn3uqtVrF1CSmo-.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/OWrr8VpJpa1_JC6EPXcNJBg0U4-e8gavE2FKR6AoU_oJWIBWje-DXbeoP0RhnX2YszTcvqwJCPnE_ecgGHjxnPUqchK6cJhOeoiFawuVPVimYDkrU5SOTJ26yJSryn4K.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/HPf_acFe0yMlp0H0aYNPWEH72qh9s3QOb83RIFsYu42trSrsxOG87dohRjSYHHmN8lUOxMslCFtlB44zjxh_6ETph_pThKZP7PKC8FpIQEPmBtEPTCGUHNKn-cIYlug9.png) 
+- 
+- ![](https://remnote-user-data.s3.amazonaws.com/4fYK5aSp-At8Lr7DeJ2_Dw8o11-V7_vJK4E_sgn8XNXnaZdOKUP7JljhbUWmrIN9VLVn51xu9Jjx_92rchNkpAL5SevWdszPrtKAgA5inDljqfLJjCQtZcHB-DVH3SU8.png) 

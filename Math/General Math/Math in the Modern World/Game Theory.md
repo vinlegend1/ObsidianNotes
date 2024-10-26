@@ -1,0 +1,90 @@
+- **Game theory** is the study of strategic interaction between participants (players) in a situation (games) that contains a set of rules and a set of outcomes.
+    - It consists of a **set of players** and a **set of actions** (moves) for each of them.
+    - A sequence of actions (moves) is called a **strategy**.
+    - Each player receives a **payoff **that depends on the actions of all the players involved.
+    - What would be the player’s best strategy to different moves of the other players to achieve the “best” or maximum payoff?
+    - Real-life situations with game theory:
+        - a person deciding which mode of transportation to use
+        - businesses competing in a market
+        - sports game
+        - choosing where to eat
+        - food sharing and bill splitting
+        - species fighting for survival
+- A tool for decision-making
+    - elements: **players, rules, consequences, payoffs** 
+- The problem:
+    - CASE A:
+        - If only one of them confesses, then one will go to jail for 1 year and the other will go to jail for 25 years.
+    - CASE B:
+        - If neither of them confess, then each will go to jail for 3 years.
+    - CASE C:
+        - If both of you confess, then each will go to jail for 10 years.
+    - Questions to ask:
+        - If you are one of the two suspects, what are you going to do in this scenario?
+        - What would be your “best” response and what would be the other suspect’s best response?
+- Classification of games
+    - Simultaneous vs Sequential game
+        - **simultaneous**: rock paper scissors, pokemon
+            - Each player has only one move and all these moves are done simultaneously.
+        - **sequential**: board games, board games, and other card games
+            - No two players move at the same time and players may have several actions (moves).
+    - Perfect vs Imperfect-Information Game
+        - **perfect-information**: each player, when making a decision, is perfectly informed of all the actions that have previously occurred
+        - **imperfect-information**: opposite of perfect information
+            - games of the general, cluedo, prisoner's dilemma
+    - Complete vs Incomplete-Information Game
+        - In a game of **complete-information**, the strategies, payoffs and player information are common knowledge to all players.
+            - chess, tic-tac-toe
+        - Otherwise, the game is said to be of **incomplete-information**.  Some players may possess private information.
+            - games of the general, cluedo, monopoly
+- Methods of Presenting a Game
+    - Normal Form
+        - ![](https://remnote-user-data.s3.amazonaws.com/mnUDLLC0Ij-Q_uRqiOZUdOCmxOM3cX6Rmh__MRhw-EtFxwcUDABOi8t3X1QlzZ-SRqIRgV05pJ-Cd8NeWTN9fCuR9id1e3gYUsk-patFk1vvmeFlOY40ppZkrotx0wvb.png) 
+        - Prisoner's Dilemma
+            - ![](https://remnote-user-data.s3.amazonaws.com/de7TPG-sX0ApvmROaBjCKPf5TgwmOf5Psix93V_FOP71QPUUU9Gzhs0tqpjK8UM4AJ-0A7lv3AhbM1Ww_vxYa5XI2nRVXc6iQlLhmKMyGqIjDjuOZvfEhnM9CqXiWZ6O.png) 
+        - Two companies share a market where they make Php50 million each. They need to decide whether they will advertise or not. Advertising costs Php20 million, but captures Php30 million in revenues from the competitor provided that the competitor does not advertise. Construct the normal form of this game.
+            - ![](https://remnote-user-data.s3.amazonaws.com/stR_kJCm8S0PDqwQqLHsTqBLWqjhqAu0DXd7UbC8E6kRUc5Pfg3JsRlEH0d82_Ouzbub98evs3FLEHwIh99F0g8fcViyQI9TvKY9XMpZUniTs2xlybVTRhXYYozryB4N.png) 
+    - Extensive Form
+- Normal Form
+    - Games in normal form are used to analyze one-shot games. Each player chooses one action and all of them chooses simultaneously.
+    - How do we decide? We can use the following: **Maximin Solution** and **Nash Equilibrium**.
+- Maximin Solution
+    - This solution involves choosing the strategy that gives you the **maximum among your worst payoffs**.
+    - This was proposed by the mathematician **John von Neumann.** 
+    - ![](https://remnote-user-data.s3.amazonaws.com/Mz3lD7euUtK-1750ISKsTCfWTunmHFRQEwxUJ3T3AA6_zSa-lZZAmiVaRcOK3QFkrmIi-r-F8DReNtgAZ9NT1QQ54ghCjz-wihm_ffc13BSsiytrR-Ot1jBPXIbL53FC.png) 
+    - Step 1: Separate the payoff values of each player into two matrices.
+    - Step 2A: Determine the maximin strategy of the row player. To do this, highlight the worst payoff in each row. Among the highlighted payoff values of the row player, determine the maximum. The strategy corresponding to this maximum value is the maximin strategy of the row player.
+    - Step 2B: Determine the maximin strategy of the column player. To do this, highlight the worst payoff in each column. Among the highlighted payoff values of the column player, determine the maximum. The strategy corresponding to this maximum value is the maximin strategy of the column player.
+    - Step 3: If both players have a maximin strategy, then the game has a maximin solution. We write it as an ordered pair or strategy pair (A,B) where A and B are the maximin strategies of the row and column player, respectively.
+    - ![](https://remnote-user-data.s3.amazonaws.com/_OrsvK5lpTPIsJ_w42DcZNmEi_Egbu4LMOiPXPXvH1NW2BBHfoMXZti4AtLK4_PvNMa-cYjjAjUnnJoJ76hSNSdokjPtpFUMWPH8HAdkOYy8Kh70iT1IP23RSDij2NBD.png) 
+        - Since at least one of the players (husband or wife) does not have a maximin strategy, the battle of the sexes game does not have a maximin solution
+- Nash Equilibrium
+    - A Nash equilibrium is a strategy for each player such that every players’ action is the best response to the other players’ actions.
+    - Each player is using his best response in the game. So, switching into another strategy would result into a lower payoff.
+    - In other words, no player can reach a better payoff by changing strategies.
+    - This solution concept was named after **John Forbes Nash, Jr.** His theories are used in economics, and in fact he won the Nobel Prize for Economic Sciences in 1994.
+    - ![](https://remnote-user-data.s3.amazonaws.com/ioT6pN5F2Pa6tm4tLedr8dimFQzXl0CEsFsQTNDefoVKNYj2Qs4VxCv2x-GI58Py8xLIEDnYOdf-jcpzuOXJJOR-XyMLMn5PD64XSCFrfHaX6UMiTBkjVtw6a4UhNPST.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/25VFlCt3_ret_hbnCP13Te2Sf4lZovbb6gctB5N7V2RvnILzxzdKzblXJslN21eUNJpFvuMJqBgtUKcv3LigDkXD9GF6sIeeRRai1gfh3TdKeSzthfIPMDf055rDh9l4.png) 
+- Dominating vs Dominant Strategy
+    - Suppose that A and B are strategies of the row (column) player. We say that “A is **dominating **B” or “B is **dominated **by A” if it outperforms B regardless of the strategies chosen by the opposing player(s).
+    - We say that A is a **dominant **strategy of the row (column) player if it is dominating all the other strategies of the row (column) player.
+- Dominant Strategy Equilibrium
+    - A game in normal form has a dominant strategy equilibrium **if both players have dominant strategies**.
+    - ![](https://remnote-user-data.s3.amazonaws.com/bdrZrTmVuEjick79i2mk4qLFfoAXwp_ETXFdqPASjm5zUREMQn4GoXjEmDGweEsf8EZL6tM2U_Scfgym8mXl_DXuY0hCVoyssgG_W7CXeRORDt2KmV2OHkqdcoqs4OIW.png) 
+    - **Iterative Elimination of Dominated Strategies (IESDS)** 
+        - This method can be used to find any Nash Equilibrium of a game.
+        - An algorithm that removes any dominated row (column) strategies in the game.
+        - Reduces the number of strategies/outcomes to be considered in the game.
+        - ![](https://remnote-user-data.s3.amazonaws.com/DRPkmtubjrK9Vvzx7_btSYZJhmEj8iMSGyW4QhMUcT156uI2kplMDXr-0KeDMJrI0zBiRpyy1xrzWabHQ7qoFJvxK4D2auhwYEE_xs_sqo6zG7t3fgNJEly7eieT7fDz.png) 
+- Games in Extensive Form
+    - A game in extensive form is a tree diagram in which each strategic decision is shown as a branch point.
+    - Example:
+        - ![](https://remnote-user-data.s3.amazonaws.com/Ntg_5Munlb1VcFvtoi01tP-NrvnyvcVc8COfCY80Fxs4hUls_RQV44CePvy5TEspto0bdWbg0cBtJbd-Mvmkq4wr_Q_fut9Qqjp6ugKs9bO6MCIH22DFwCIUqQwc3DrW.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/EjUtf8rY4qKb8ZuCZ-noPw1UY21H1nszbMY9MnPSEHBleJ5_28kRyTgySr6wLOlpUlgqcYE-JJ2LziKJH2gN7BUqQ7VynmBEl6jJJL6IqOleUbP2hHw81eAaAsLxCpkT.png) 
+    - **Backward Induction** 
+        - Step 1: Solve the subgames at the last stage in each branch to reduce the game into a smaller one.
+        - Step 2: We repeat until all subgames have been solved.
+        - Step 3: The resulting tree diagram gives the equilibrium solution.
+- ![](https://remnote-user-data.s3.amazonaws.com/tzN0x60nwIhMkJaDAGZApxW3m2_fjKfJEPsvaXZJsoOxpr2HliYDkXnpmq5bC4_P0ZF7V49nDd4GnfLWAatlAex2qidj_SHY_5Je1ssb3G0i5lBXSqeHN0LRya2p_soH.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/noPTfZG5AQuThOAWmb7ExhSqbJIB2RkQU2OiJw982gJLhIk_tY5RgtbIAkdqXKfdUUOoSbp1_WGEmy9fWW7mFuGWqLAK-VOZc9s3B56sEgEuqI1Lxv2Fk4ut45aYFQ_A.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/gxEGdsVqoI5X4Y6oPJWaoSrB9YHVIZn-s0ayvQybx8jAPwbl61p2bD8fbLs_bt3zVEwouhyb6mE4koWVvuUD1Wx5AX4EvbjFu23n25YxneVWjHtb_R67iHxFS6da6ReI.png) 

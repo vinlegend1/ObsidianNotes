@@ -1,0 +1,47 @@
+- Social Responsibility benefits
+    - Reduce business cost
+    - Distinguish business from competition
+    - Attract and retain employees
+    - Attract consumers
+- Social Responsibility
+    - bad publicity if you don't do it
+    - example: ![](https://remnote-user-data.s3.amazonaws.com/ELkbTcWNDrAnCa3EGVP55ZMpODvu_b7kUp491mUbRZtoCLO9XNln_5Z2SSYGv1yq90uXxEZJRnsB2MKCLNtSJTNYzzMWRQkdX5WvR9MaMGBScM9NFwG56tAE-g977Qsh.png) 
+- Managers―enables/authorizes individuals to think, behave, take actions and control work
+    - ![](https://remnote-user-data.s3.amazonaws.com/JnFPiElmpQDUIia93XPeiKOeAMLgvhKTjTVHmbX4NBYBY_zt25KiiDsINfhpRA5fqAnp5kTJuN6eHAzQEccc2XcB-hekGPmnhbHPSRALs6rSgJv8XuaBt-WFgkjh10_p.png) 
+- Managerial Skills>>>
+    - Strong human skills
+    - Strong conceptual skills to understand individual parts of organization as a whole
+- Nature of Managerial Work>>>
+    - ![](https://remnote-user-data.s3.amazonaws.com/r2xwaEs2Shjt7nPr7o6yb0Th0ynYLYWfc8ppDKxAz4nhp8cbOF8mXhaxDA30kZsDmEVbE5Twc-2kwFgNH6mXdSqh-AbotO74levyZ6UvjCvQtaBNE9jPgazX0xbKT9DW.png) 
+- Informational Role―link all managerial work together 
+    - Monitor role―manager receives and collects information
+    - Disseminator―manager transmits special information into the organization
+    - Spokesperson―manager disseminates the organization’s information into its environment
+- Interpersonal Role―ensure that information is provided - primarily concerned with interpersonal relationships   
+    - Figurehead role―manager represents the organization in all matters of formality
+    - Liaison role―manager interacts with peers and people outside the organization
+    - Leader role―defines the relationships between the manager and the employees
+- Entrepreneur Role―manager that initiates change
+    - Disturbance handler role―manager deals with threats to the organization
+    - Resource allocator roles―manager chooses where the organization will expend its efforts
+    - Negotiator role―manager negotiates on behalf of the organization
+- Leadership>>>
+    - Social and informal sources of influence that inspire others to take action
+    - Builds “human capital”
+    - Understands when, where and how to use formal sources of authority, and power.
+- Transactional Leaders>>>
+    - Clarify role or task requirements
+    - Setup structures
+    - Provide appropriate rewards
+    - Considerate to the needs of subordinates
+- Transformational Leaders>>>
+    - Inspire others to unite in seeking extraordinary performance
+    - Challenges status quo
+    - Stimulate change in organization
+- Entrepreneurship>>>
+    - Recognition of opportunities (needs, wants, problems and challenges) and the use or creation of resources to implement innovative ideas for new planned ventures.
+    - Converts idea into action
+    - Catalysts for value creation
+- Strategy>>>
+    - Combination of goals, plans, and actions designed to accomplish an organization's mission.
+    - Provides leaders and employees a clear set of guidelines in the daily operations

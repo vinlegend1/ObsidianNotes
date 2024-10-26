@@ -1,0 +1,3 @@
+- Quality↔proportion of a saturated liquid-vapor mixture that's become vapor denoted by $x$ 
+- ![](https://remnote-user-data.s3.amazonaws.com/dsNQITFdYad22fheuPNtk8qVCngQNQZ4j-ajbcU0YcHQgUnzySM_ZNJ4n1KmykeB2pyAKwQi3DRFMyMvRWj6nEV1Dz7lviOz5wEd46iXAAIq2cBSGJKRERFWbyRvgfAh.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/7s0f25shWPRDfVK-VC1KJgC_h8VePbF8gP4tHh65PkJL_26hoJ2PbwF2j4MMp9P3Fyi12vR8JWlYxRkf8hz7I7UA3ztvi4p7YwEZSbdiQCKbnTYMYp9WPb27Um0KWi9V.png) 

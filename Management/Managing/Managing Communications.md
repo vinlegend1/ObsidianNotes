@@ -1,0 +1,75 @@
+- Communication
+    - Transfer of information from one person to another
+    - Way of reaching others by transmitting ideas, facts, thoughts, feelings and values
+    - GOAL: for the receiver to understand the message as intended
+    - Essential to every management function
+    - Without communication, coordination of work is impossible and the organization can collapse
+    - Every act of communication influences the organization, one way or another
+- 
+- Open Communication
+    - Being open to employees is by far more effective than being restrictive
+    - Employees respond favourably if they are informed of the problems that the organization is facing
+    - Employees can see themselves as partners in the enterprise
+    - Empowered on a daily basis to help run the workplace
+    - Understand what the business is all about
+- Potential Problems
+    - Polarization - taking extreme positions on an issue
+    - Defensive Reasoning - when person is threatened with losing an argument and abandon logic and reasoning
+    - Cognitive Dissonance - internal conflict and anxiety when people receive information that is incompatible with their values, decisions
+    - Face-saving - preserving ourselves from attack
+- Communication Barriers
+    - Arise from human emotions, values and poor listening habits
+    - Stems from differences in education, race, sex and socioeconomic status and other factors
+    - Involve psychological distance (eg. when resentment between two people exists)
+    - People see and hear what we are emotionally “tuned” to see and hear
+    - Communication is guided by people’s expectations
+- Communication Barriers (Physical)
+    - Occurs in the environment
+    - Noise, distance, walls, other interferences
+    - Surroundings can be altered to influence receiver’s behaviour
+- Communication Barriers: Semantics
+    - Science of meaning
+    - Achieved using symbols - words, pictures, actions
+    - Limitations in the symbols with which we communicate
+    - Can be a difficult challenge when people from different cultures communicate with each other
+- Communication Symbols: Words 
+    - Main communication symbol
+    - Major difficulty occurs due to multiple meanings
+    - Context and social cues can help interpret information
+    - Readability must be increased to make speech and writing more understandable to the receiver
+- Communication Symbols: Pictures
+    - Used to clarify word communication
+    - Blueprints, charts, diagrams, maps
+- Communication Symbols: Action
+    - Nonverbal communication
+    - Handshake, smile, raise in pay or being late
+    - Failure to praise an employee or failure to provide promised resources can	 send a wrong message to employees
+    - We communicate at all times at work regardless of our intentions
+    - Credibility gap occurs when there’s a difference between what someone says and does
+    - Body language/facial expression (frown from a manager can mean a rejection)
+- Communication Credibility Factors
+    - Trustworthiness
+    - Expertise
+    - Dynamism (confidence and enthusiasm)
+- Downward Communication
+    - Flow of information from higher to lower levels of authority
+    - Managers must convey their messages carefully and with candor and warmth, must be open to true dialogues and sensitive to human needs
+- Downward Communication: Prerequisites
+    - Develop a positive communication attitude
+    - Continually work to stay informed; seek relevant information
+    - Consciously plan for communication
+    - Develop Trust
+- Problem: Communication Overload
+    - Managers give employees enormous amounts of information which overwhelms them but does not improve understanding
+    - Employees receive more than what is needed
+- Communication Needs
+    - Job instruction
+    - Performance Feedback
+    - News
+    - Social Support
+- Upward Communication: Problems
+    - Delay - hesitation to take a problem upward
+    - Filtering - telling a superior what he/she wants to hear only
+    - Short-circuiting - skip one or more steps in communication hierarchy
+    - Need for response - if manager does not respond, this will discourage future upward communications
+    - Distortion - modification of a message for personal gain

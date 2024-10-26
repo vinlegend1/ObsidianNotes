@@ -1,0 +1,2 @@
+- expensive but really useful
+- for writing blog posts with excellent SEO

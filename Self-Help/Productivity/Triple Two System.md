@@ -1,0 +1,6 @@
+- Allocate **2 mins** for a new habit
+- Don't miss **2 days** in a row, forgive yourself for missing 1 day
+- stick with the habit for **2 years** 
+- Other 2-min stuff
+    - get the short stuff (things that can be done in 2 mins) done right away
+- 

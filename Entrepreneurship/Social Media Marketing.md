@@ -1,0 +1,7 @@
+- lead generation
+    - call to action, funnel into email list
+- lead nurture
+- lead conversion
+- storytelling > fun facts / trivia
+- call to action to content, but establish a relationship first, provide something of value first
+- [How To Market Your Business On Social Media - YouTube](https://youtu.be/RmwI_QqcPQc) 

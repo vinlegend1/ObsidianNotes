@@ -1,0 +1,3 @@
+- Use case for zinc sulfide>>>
+    - pigment for paints, plastics, and rubber
+- 

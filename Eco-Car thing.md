@@ -1,0 +1,27 @@
+- All vehicles must have a minimum crumple zone of 100 mm between the front of the vehicle body and the driver’s feet
+- Aerodynamic appendages, which adjust or are prone to changing shape due to wind, are not allowed.
+- Sharp points must have a radius of 50 mm or greater or be covered with foam or a deformable material.
+- The energy compartment (engine/motor/transmission/battery, etc.) should be easy to access for a quick inspection.
+- All vehicles must have a solid floor and frame that prevent any part of the driver’s body from contacting the ground.
+- 
+- Prototype Class Dimensions:
+    - a) The vehicle maximum height must be less than 1000 mm.
+    - b) The vehicle track width must be at least 500 mm, measured between the midpoints where the tyres of the outermost wheels touch the ground.
+    - c) The ratio of height divided by track width must be less than 1.25.
+    - d) The vehicle wheelbase must be at least 1000 mm.
+    - e) The maximum total vehicle width must not exceed 1300 mm.
+    - f) The maximum total length must not exceed 3500 mm.
+    - g) The maximum vehicle weight, without the Driver is 140 kg.
+    - h) None of the body dimensions above must be achieved by design singularities such as ‘stuck-on’appendages or cut-outs.
+- 
+- Urban-Concept Class Dimensions:
+    - a) The total vehicle height must be between 1000 mm and 1300 mm.
+    - b) The total vehicle width, excluding rear view mirrors, must be between 1200 mm and 1300 mm.
+    - c) The total vehicle length must be between 2200 mm and 3500 mm.
+    - d) The track width must be at least 1000 mm for the front axle and 800 mm for the rear axle, measured between the midpoints where the tyres touch the ground.
+    - e) The wheelbase must be at least 1200 mm.
+    - f) The Driver’s compartment must have a minimum height of 880 mm and a minimum width of 700 mm at the Driver’s shoulders.
+    - g) The vehicle body and chassis ground clearance must be at least 100 mm with the driver (and necessary ballast) in the vehicle.
+    - h) The maximum vehicle weight (excluding the Driver) is 225 kg.
+    - i) All vehicle dimensions must not be achieved by body extensions such as ‘stuck-on’ appendages or cut-outs.
+- 

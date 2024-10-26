@@ -1,0 +1,7 @@
+- Checklist to check for when operating a lathe machine (for safety)>>>
+    - T-wrench or chuck key removed from the spindle.
+    - Position of the cutting tool is correct.
+    - Cutting tool is away from the workpiece.
+    - Spindle speed is correct.
+    - Rotational direction of the spindle is correct.
+    - Cutting feed should be small.

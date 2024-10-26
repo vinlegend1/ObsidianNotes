@@ -1,0 +1,12 @@
+- It's important to pick which element should be the u and which should be the v>>>
+    - you want to reduce the u (or make it simpler)
+    - and abuse v for its "consistency"
+- ![](https://remnote-user-data.s3.amazonaws.com/WglRkj2zVZOYdr6bLC_vD14qEBAyQRaaNl9iBMN6j35rfl7loLthUSNIQLlhhr-24ozEWzJpcOprxqpYWwi43TnlGlQuhcjQYblufikkFa2rmHYVyQnX2pE4WpicQxGL.png) 
+- Definite integral integration by parts>>>
+    - ![](https://remnote-user-data.s3.amazonaws.com/MaP9zDXl5KSMNN8ecUxHQo49PkcMJoHOOMdlvtGP9LmyejizegPxaXGb65LNVVlD6EgS8OCABBJ-AI69Y0JW8JlqNG1JWYJk3FoycgrPANfgw1frIG18Hf5W2otfhqvx.png) 
+- Integration by parts examples
+    - ![](https://remnote-user-data.s3.amazonaws.com/8gpPKMdHbrkNnJ7wEh9dZJZ6mJw-HLNdd1OlZuCeznWw2wX4Nrx4ezM7gCbjcHbLtkWVBwRfpkJBgxy-zsSaYed4i0uruj7uc6FwSqBtOuzp9gVT84BZ3qsnGv2dVO2p.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/VP9J81LvjtLE_D22NAyK6cqkxg_zXQ77pxsHmIKrwn9GKkZG5BJ7RTuvKFqs9nnoeZ4JqOvZgcC5WI_hzqrE_EgzQmgHM1UpZdY6b0ybC51Ak-UmfrEvEUA11qVEScCC.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/0SlhT6s85Tl30PzF6MXHKjPK0-u-RZGVolvDotEEHlObshIgQbbf4ppAj27h3Or_m6KjOwz9uRRQ5KIE_0RZd5BYKqOixKC7E2OdrZLSVHhmOb1qEwPIOlTRiVQx-tnM.png) 
+- Reduction formula (recursive integration by parts)
+    - ![](https://remnote-user-data.s3.amazonaws.com/b4qOdnDTmBYvY72eFn9WRHcQn6ULth2AMDpnv8_GHtrUj1JwpDgF5H1NAWj4Qaq3x5qLyR2nqTAL9VXkEKvfx1Be0trCq6n_6YqLI6vC-yq12pl1sHElUdRWePR4NpVW.png) 

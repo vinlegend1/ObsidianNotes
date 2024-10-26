@@ -1,0 +1,39 @@
+- Terminologies
+- [preference ballot](../../../undefined/undefined/undefined.md)
+    - [ballot on which each voter ranks all eligible candidates, from first to last place, with no tied ranks.](../../../undefined/undefined/undefined.md) 
+- [preference table](../../../undefined/undefined/undefined.md)
+    - [table showing how many times each possible ballot was submitted](../../../undefined/undefined/undefined.md) 
+- [voting method](../../../undefined/undefined/undefined.md)
+    - [mathematical procedure that uses data from the preference table to determine a winner](../../../undefined/undefined/undefined.md)
+- [fairness criterion](../../../undefined/undefined/undefined.md)
+    - [mathematical statement about our expectations for a voting system](../../../undefined/undefined/undefined.md) 
+- Fairness Criteria
+- [The Majority Criterion](../../../undefined/undefined/undefined.md)
+    - [If a candidate receives a majority of first-place votes, that candidate should win the election](../../../undefined/undefined/undefined.md) 
+- [The Condorcet Criterion](../../../undefined/undefined/undefined.md)
+- [The Independence of Irrelevant Alternatives Criterion](../../../undefined/undefined/undefined.md)
+    - [If a re-election is held with the same ballots and non-winning candidates are removed, the previous winner should still win.](../../../undefined/undefined/undefined.md)
+- [The Pareto Criterion](../../../undefined/undefined/undefined.md)
+    - [Candidate A, that every voter prefers to another candidate, say Candidate B, then it should be impossible for Candidate B to win the election.](../../../undefined/undefined/undefined.md)
+- [The Monotonicity Criterion](../../../undefined/undefined/undefined.md) 
+- [Non-dictatorship](../../../undefined/undefined/undefined.md) 
+- Voting Methods
+- [Majority Rules](../../../undefined/undefined/undefined.md)
+- [Plurality Method](../../../undefined/undefined/undefined.md) 
+    - fails condorcet criterion on certain cases
+    - fails [Independence of Irrelevant Alternatives Criterion](../../../undefined/undefined/undefined.md) 
+- [Condorcet Method](../../../undefined/undefined/undefined.md) 
+- [The Hare System](../../../undefined/undefined/undefined.md)
+- [Borda Count Method](../../../undefined/undefined/undefined.md)
+    - [Borda Count Method fails Majority Criterion](../../../undefined/undefined/undefined.md)
+    - [Borda Count Method fails IIA Criterion](../../../undefined/undefined/undefined.md) 
+- [Sequential Pairwise Voting](../../../undefined/undefined/undefined.md) 
+- Summary on Criterion + Methods
+- [https://remnote-user-data.s3.amazonaws.com/RaikXKPP4VYoxj9b2iT4bCKHBE7FscB5tbooM_IRcGLGZGYIOE7ex5zpske9jJ7YmaPYD9EYp9-IUaPm2n878pWYrjOTFYXL5Eou31IfLdkb_8-5sZ111mfNFccGDSjI.png](../../../undefined/undefined/undefined.md) 
+- Problems or Misc Theorems on Voting 
+- [Arrow’s Impossibility Theorem](../../../undefined/undefined/undefined.md) 
+- [Plurality runoff](../../../undefined/undefined/undefined.md) 
+- [Gibbard-Satterthwaite’s Theorem](../../../undefined/undefined/undefined.md)
+    - [No voting method is completely resistant or unaffected to strategic voting](../../../undefined/undefined/undefined.md)
+- [May's Theorem](../../../undefined/undefined/undefined.md) 
+- 

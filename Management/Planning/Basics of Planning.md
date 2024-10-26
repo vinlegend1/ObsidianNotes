@@ -1,0 +1,71 @@
+- Planning
+    - Coping with uncertainty by formulating courses of action to achieve specified results
+- Three Types of Uncertainty>>>
+    - State uncertainty: Occurs when the environment, or a portion of the environment, is considered unstable
+    - Effect uncertainty: Occurs when impacts of environmental change are unpredictable
+    - Response uncertainty: Arises when the consequences of decisions are unpredictable
+    - 
+- Organizational Responses to Uncertainty>>>
+    - Defenders: Relying on a primary technology and/or a narrow product line to remain competitive
+    - Prospectors: Seeking first-mover advantage by aggressively making things happen and not waiting for them to happen
+    - Analyzers: Following the market leader and imitating what works, avoiding expensive R&D mistakes
+    - Reactors: Waiting for adversity (e.g., declining sales) to occur before taking corrective action
+- 
+- Balancing Planned Action and Spontaneity in the Twenty-First Century
+    - Command-and-Control Model>>>
+        - Top-down tight control of operations through exact planning which creates organizational inflexibility to deal with unanticipated events and limited success
+    - Contingency Model>>>
+        - Planned action balanced with creative flexibility to take advantage of unexpected opportunities and to cope with the need for change
+- 
+- The Essentials of Planning
+    - A Plan>>>
+        - Is a specific documented intention consisting of an objective (end) and an action statement (means)
+            - States what, when, and how something is to be done
+    - Essentials of Sound Planning>>>
+        - Organizational mission
+        - Types of planning
+        - Objectives
+        - Priorities
+        - The planning/control cycle
+- 
+- Types of Planning
+    - ![](https://remnote-user-data.s3.amazonaws.com/_WviO5ofUomrmek-GlZUtPcD2mdA7kVQZubWKoFHR9SUIEd09OO3dqVS20wN2XmqJigXr7lXPXh5E_A5001c0bloZlGZI7p1MJrZfDP8uSQ1rpAHM5C62zih6araLfr4.png) 
+- 
+- Organizational Mission
+    - A clear, formally written, and publicized statement that guides the organization by:
+        - Defining the organization for key stakeholders
+        - Creating an inspiring vision of the organization
+        - Outlining how the vision will be accomplished
+        - Establishing key priorities
+        - Stating a common goal and fostering togetherness
+        - Creating a philosophical anchor for the organization
+        - Generating enthusiasm and a "can do" attitude
+        - Empowering organization members
+        - 
+- Objectives
+    - An objective is a commitment to achieve a measurable result within a specified period.
+    - Writing Good Objectives Objectives should be expressed in quantitative, measurable, and concrete terms.
+        - What specific result is to be achieved?
+        - When is the result to be achieved?
+        - How is the result to be measured?
+        - Who will be responsible for achieving the result?
+    - The Importance of Objectives (Uses of)
+        - Target: Sets specific goals to achieve
+        - Measuring stick: Gauges how much was achieved
+        - Commitment: Encourages pursuit of the objective
+        - Motivation: Provides a challenge for achievement
+    - The Means-Ends Chain of Objectives
+        - Achievement of lower-level objectives creates a means for achieving higher-level objectives.
+        - ![](https://remnote-user-data.s3.amazonaws.com/KDqfQa6TNnfnkZJuHFgA2TtbzmlgGBrqlEuJvnKHuphhujO-xyfg0D5JHQKESD96LqnDvFIpvZfGUqJ8VxYTtQ6hqS4AzFJsG5-ukNtkDsdLNSllIwfASLLdss9RBd0z.png) 
+- Priorities
+    - Priorities are a ranking of goals, objectives, or activities in order of importance to guide the order and timing of decisions.
+    - Management looks at its priorities when deciding how to allocate resources.
+    - The A-B-C Priority System
+        - A: "Must do" objectives are critical to successful performance.
+        - B: "Should do" objectives are necessary for improved performance.
+        - C: "Nice to do" objectives are desirable for improved performance but not critical to survival or improved performance.
+    - The 80/20 Principle (Pareto Analysis)
+        - A majority of causes, inputs, or effort tends to produce     a majority of results, outputs, or rewards.
+- 
+- Basics of Planning Control Cycle
+- ![](https://remnote-user-data.s3.amazonaws.com/46qfRqAindwfG51Vlqia66vuxiWFOPDbzzrjEsveCAG0FO3Y7G2jh4SmVmo8QlSBwYQZk5IvjeslNDRL2TMN_yD-rlb8oxyaZqbHdx2d5IrJ39BZiWaSMYSTkFblDT0i.png) 

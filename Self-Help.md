@@ -1,0 +1,90 @@
+- Daniel Lieberman
+    - Exercise is an evolutionary need
+    - We have been evolved to do manual labors. It's not necessarily: " You have to exercise" more so "Your genetics require you to exercise"
+    - Strength training to prevent muscle loss and functional loss and basically a lot of diseases
+    - Many diseases are preventable just by exercising (74%)
+    - Exercising "slows down" aging, or... Lack of activity makes aging run amok
+    - Preventive exercises
+    - Don't need full 8 hours sleep
+- Productivity
+    - Triple Two System
+        - Allocate **2 mins** for a new habit
+        - Don't miss **2 days** in a row, forgive yourself for missing 1 day
+        - stick with the habit for **2 years** 
+        - Other 2-min stuff
+            - get the short stuff (things that can be done in 2 mins) done right away
+        - 
+    - Cal Newport Productivity System
+        - Current Reality: A lot on your plate and a lot of interruptions, not much focus. Overwhelmed and stressed
+        - > Be Intentional and Strategic
+        - The System
+        - Steps:
+            1. Quarterly planning approach
+            2. Weekly planning
+            3. Daily planning
+        - Systems used to capture and organize
+        - trello board
+        - google calendar ⇒ for appointments but not for weekly planning
+        - habit tracking
+        - Quarterly Plans
+        - makes plan to progress in areas of life
+        - Weekly Plan
+        - Planning and Reviewing for the week
+        - Weekly review process
+            - Go through lists like active projects list, trello boards, calendar, emails
+            - make notes on what you want to make progress on each week
+        - Daily Plans
+        - work on important tasks in the morning (when your energy is high)
+            - but important doesn't mean working on urgent tasks
+        - timeblocking for focused work
+            - Benefits:
+                - Intentional about deep work time
+                - better plans based on energy levels
+                - batch admin tasks into sprints
+        - Physical planner for Timeblocking
+        - convenient access
+        - Perform schedule fixes
+            - have an intentional plan but also be able to be flexible by moving the sched around
+        - batching of email and admin work
+        - schedule sufficient time for tasks
+        - Implement a Work Shutdown Routing
+- Huberman Lab Podcast
+    - How to Breathe Correctly for Optimal Health, Mood, Learning & Performance
+        - You need carbon dioxide to efficiently bring in oxygen
+        - mechanical and chemical systems
+        - most people are over-breathing
+            - hypoxic state 
+        - sleep apnea
+        - personality types can be altered through breathing (apparently)
+        - In the lungs, there are small sacs call the alveoli that increases the surface area of the lungs that improve the mechanical aspects of breathing
+        - Diaphragm and intercostals muscles>>>
+            - responsible to contract and expand the lungs
+            - intercostals muscles are found in the rib cage
+        - Nerves control muscles
+        - Phrenic nerve>>>
+            - comes out of the neck
+            - form synapses with the diaphram
+            - motor nerve
+        - 
+        - Diaphragmatic breathing is the most "efficient" way to breathe
+        - Amygdala↔**the integrative center for emotions, emotional behavior, and motivation**.
+        - Hyperventilation↔**rapid or deep breathing, usually caused by anxiety or panic**.
+        - 
+- Stress
+    - hard-wired physical response
+    - can be advantageous in the short-term but it's not ideal to be stressed too often
+    - adrenal gland produces cortisol + epinephrine = adrenaline
+        - also norepinephrine
+        - travels to heart
+        - adrenaline causes heart to beat faster and raises blood pressure
+    - can also affect the stomach or gut
+        - increase gut sensitivity to acidity
+    - causes you to crave comfort food
+    - affects the immune cells
+    - affects the length of telomeres in chromosomes
+    - view things as challenges instead of stressful things
+        - respond more positively
+    - Mental Health
+    - mental health is our ability to respond to challenges
+    - protective factors and risk factors
+        - protective factors are like the shield and risk factors are like the poisons to mental health

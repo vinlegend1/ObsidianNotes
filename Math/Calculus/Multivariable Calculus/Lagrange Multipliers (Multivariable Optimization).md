@@ -1,0 +1,10 @@
+- ![](https://remnote-user-data.s3.amazonaws.com/x73uW-OrJEeCl-ekGJunH3RyBU27lXsNA_50gR48crgL8NV59cWZVDi7GBkVbQJjy2TPszorklYoRXzHDGHO0rqi85xvI8XRS7e1ft5pyOt7gfX8hPhKVgmrqqm7C3md.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/Sms5brBRdqXDvSRxmXBO4yhdQ9cRxVslKCaxPhgmBHaYi0yTJfOAZxEQ54ZnX1inaYaJ4STJ5gzCH98cuBIAAX7FCPAVaT-k0F7I1ERiVvjPvKSRObkCiMfybvByrZTF.png)>>>
+    - ![](https://remnote-user-data.s3.amazonaws.com/U_pHkc9KT--pfIF9dSQvgRtne_PLL75l3kv8GW8Ct8NB9l2iaIsocihNGYVY9IB--OGT7SU14mj-gzwc7mzu1uEYrn5c6_SN7LKvLEerBDumLWwLQZZoY5ykK6psIwZv.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/_jhfwbjKsayDNRPG713QW3ZXbze4Llr2iReOq9TGRHQi1V9Nw-BfbLsOTXcDsQl2IgJ4K7YkAt5dCwWVNkuMfF5SQcuZpNLuQtkTje-wDfz1Sn4UOESqhyrBIGClFAzp.png)>>>
+    - ![](https://remnote-user-data.s3.amazonaws.com/d13_rt-PFs03FFeu90zLdNX4KfUXYNOf79uum2btI2zNdoUWBEHin7ZGaHSr2r3fnGxaIr-nUEPH0YdJVndf9jMvHMKeiEDLTWuFERNz2lPXcqB9z-rFlmciz9vIFn3a.png) 
+- Lagrangian>>>
+    - ![](https://remnote-user-data.s3.amazonaws.com/LIcV89enkjaM9qv2CczTML-pCxPOoYH3hojdDQEHT3r3sJTr7sUDhUQxwVVodQZSd_wrGGfuT9i9xQCkVxBjq9vPb7vmc5KqhZzfPVIXo45ME-JLaYi--1vYRL9q7hDo.png) 
+    - turns a constrained optimization problem to an unconstrained optimization problem
+- ![](https://remnote-user-data.s3.amazonaws.com/mPqBkyu3-aGsmnHFWgLUJtt7rrsCUFGwP7x9r_g3G0xUWo46ye7a4YxKk82nnfgIeCAXQHaxVOFsn5w8HZN7XCE1dxjv8IT41xc8UIS7wczQQjnik9lJ0DkOq0yFqLlS.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/L6NQ8GEKbVd-QtBqBrASAE3-HCZTLwY0o-a6IdK8kfuwIbppv8OBSCFki1RyG2kClf0ol1hdtmVnHKR2EOZTXYA08vmPTMfocIKtQVrij2dH90EAwiEuDdpGAGWC-wn9.png) 

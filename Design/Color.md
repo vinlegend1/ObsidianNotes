@@ -1,0 +1,45 @@
+- color does have a direct response to our bodies and can play with our emotions
+    - brightness + low saturation→soft feeling
+    - dimness + high saturation→strong feeling
+    - weaker contrast + weaker saturation→calming 
+    - strong contrast + strong saturation→activity 
+- complementary colors
+- You MUST KNOW your target audience
+    - culture matters to color theory
+    - age and gender also matters
+- Example color meanings:
+    - yellow or orange>>>
+        - energetic
+        - excitement
+        - change
+        - yellow in particular is thoughtful, cheerful
+        - orange is a playful color that often makes you stand out
+    - red>>>
+        - danger
+        - warning
+        - passion
+        - excitement
+        - anger
+    - green>>>
+        - natural
+        - tranquility
+        - healthy
+    - Blue>>>
+        - sense of security and safeness
+        - trustworthness
+        - maturity
+    - Purple>>>
+        - royalty
+        - feminine
+        - luxury
+    - pastel skin tones>>>
+        - for beauty products
+        - pastel in general is calming and non-energetic or proactive
+    - 
+- When choosing color, consider>>>
+    - the emotion
+    - the message you're convey
+    - and the emotions tied to said message
+    - 
+- 
+- 

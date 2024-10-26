@@ -1,0 +1,4 @@
+- The derivative shortcut theorem goes like this>>>
+    - $\frac{dy}{dx} = \frac{F_x(x,y)}{F_y(x,y)}$ 
+    - on the condition that F(x,y) = 0 (all elements on the left or right side, and nothing on the right)
+- 

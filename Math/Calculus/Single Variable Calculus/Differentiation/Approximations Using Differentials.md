@@ -1,0 +1,9 @@
+- Value Approximation
+    - ![](https://remnote-user-data.s3.amazonaws.com/Qz6WXtLAE2uo8Bn9RwHqvt1YmHSNLNs_K2UdcyV7PeOZl3dY0SClGAsLowUNPujkbzSlB2HE0uN0adYQuBwSn3rSmnQn64IbP-xrDC83NEsVj7opbW6a2_eax4snJbbF.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/WySGlo6kSrMFYtM1sP91HbVSAhfGejXCEUfW24N5rukyIWY0ADuBKbBsCMYpc69p01tQHm-JgSdyOsPXaMmDUVhOCT6VZKqa7iX9opx-twPrS6F08hatBlMzh5Qr8lzl.png) 
+- Error Approximation
+- ![](https://remnote-user-data.s3.amazonaws.com/2yU0R8x_oe-Ji3ON1bcZzONF_vkOHisNyQalaB-azm1KaTdF_Mg9md1p_EVTs2S-EANSa2TIkH4oUBMi9t1eLDMItcXCd5IzYKLG8mnl1p_DGQEyTcPVW-2-P_DUksSW.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/wvayQoO7tyEjzKELemaLR8XqMIWr_4D7_VGwDBQMYXA2ZWnF7kJGwK8USypYrcHN5ozFrF-bfb7D4HrUx3EJL6rEdWELKPeKAG6qYAj7-zZp2iUEz3EfV9ikUlKY3e3l.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/TarKw5SGe7JSPKXvCKa75qCOpFkkAzJFmNkur7tqzK8N6lQl318OWvlkWkh4l_CB6VfuwQUHxrQVRSdQ0L5qw9tIC007xO7j_-mENgvW4SSdMi0ecBdWxJi-9IasZwqa.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/zv8MPfZxjnt_vbk1Z7rm2vGGqEvPv6BsAq6L88FVSGIsqr7_D0k6L3hFz7Qo1MQU1lzWO8ZrAMwXGrGqBENZrQRmz8-_nwSeKb9DrhnN79b-VNsdEWvHAFUV7JLVg4k1.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/i82ncKQMYexjScNx1wE9Hb2VOroSa6PJ8CUXhVQbUu4DY2_iHWfcdXPXA932ZTY3k0sNPAEvRFmefl_5NJBaWIkmDQUka-1Kd-MshlE_2uIyJXoORfWXl6_QC3CFSQip.png) 

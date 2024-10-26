@@ -1,0 +1,25 @@
+- PDF GPT - [https://pdfgpt.io/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGxnSXVwdy12dVJqQXBkV2JySmhvczRqdGN0Z3xBQ3Jtc0tsVy1COUMwV1QtMUhLM3RmcDUybUEtUjRHeVZxZ2hFdGRtY2xpUDU2MDhBUVJSaXkweHFBYWkyODh3X0RxcnBYNkpJaXYzWnFuMEs3eW9DamNWNTYwbkpJMWVpWlpjV1ZxektFQnRkRzFUS2xNLWtJaw&q=https%3A%2F%2Fpdfgpt.io%2F&v=jccPQhCTmR0) 
+    - creates instant insights, summaries, and analysis of pdf
+    - can ask the AI like chatgpt
+- Parrot AI - [https://parrot.ai/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHJVRVZHZjNtNGZTcTlTUmVtREJCeG9Oc1RUZ3xBQ3Jtc0ttVnl1UFJCQ0tabVJQakJBbmw2VlhSQmZCTzRJejNZZmU3S2I3Q2RzUlc3NzJsWXdZM3JGcmtUNHptR0sxN2tuMElubWNKS1hNM3QzTTBZSVF5WWdDTWtqcDVmOEJsSGkwSGZ3S3FEOUZvTzRIOWxFdw&q=https%3A%2F%2Fparrot.ai%2F&v=jccPQhCTmR0) 
+    - turn zoom meetings or videos or audio into notes and insights
+- Adobe Enhance - [https://podcast.adobe.com/enhance](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa19sOTloa25WTC01X3JONWxKRDJENzBNSUtvZ3xBQ3Jtc0trdHJNMjlYSnA2UlZJNmhRNFN3SjluaU1HTjFtWF9sSDhTaHQ2M3d6RWdFSWxBNzd1cTl0NTJuZ1VmNWg0bzFhbWRKWkRUUEVtV1ktVGxfU2JSb1hpVWVPM0NManZLdnZ0UjljMUw0RndUWmxNdGZYbw&q=https%3A%2F%2Fpodcast.adobe.com%2Fenhance&v=jccPQhCTmR0)  
+    - enhancing voice (really good background cancellation)
+- InVideo AI - [https://invideo.io](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDFMWGxSM2ZLOUJ5d00zSE5oVlBBbzBXbFFld3xBQ3Jtc0tsajR0OVJwYTdKd00yQTRUS2hIZ09TNE9VNXNLQTZDYjlkVjJUaFlRaUFsSzdVRnFGTk5BOENRZXY2TWxqclBhb0JscU5XRS1fLU9VVEFqV01YMk5uOUZiT05fV2pIRVA1d0R6eGVleW02cmpkWVltcw&q=https%3A%2F%2Finvideo.io%2F%3Fref%3Dandrewzeng3&v=jccPQhCTmR0) 
+    - text to video
+- Perplexity - [https://www.perplexity.ai/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXE4aTJwVmlmVG50UVJtZWZLb1VwYURMUXJhUXxBQ3Jtc0tuNXUzQ1hscUNIMHhIOFl1Yk1RTE05enNxR2F0b3BwbkFEUWo0bWZHMWszQ3VwRDZKVTJ4YzZSSzFBdWhCcWVCdWJjSkhKcUJhM3Fnd3JEYWtzYzRJTWNGZDF6cjIwNmgycmJPUVYtMWo1LXZyZHVDdw&q=https%3A%2F%2Fwww.perplexity.ai%2F&v=jccPQhCTmR0) 
+    - search engine on steroids
+    - email and code, basically chatgpt but idk what's different
+- Stable Diffusion - [https://stablediffusionweb.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXQ1Zkg4TWNDLXNFbVp6SmQyVGJuSzVYclV4d3xBQ3Jtc0tsTnVFNWpjX2xuQzhCcTB0OV9UV09vMHJBRExBMVR2MmZkN29HVkRmOUotLWx6N2oyMjZfWkhVOGh6aVdKS0VibDlEME1pTDFEZ3pKWEw3NXFTWDJfcWZxTHMtYWpROHRZMnc5UFVzeko1bE5DX0tIcw&q=https%3A%2F%2Fstablediffusionweb.com%2F&v=jccPQhCTmR0) 
+    - AI Art tools
+- Magic Eraser - [https://magicstudio.com/magiceraser](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEZ6cXI0R2JoVG83bXJ0YVlNNER3bS04QXFLQXxBQ3Jtc0trMEo4bU85SFRzdWlnd2xoX2pheGE3WGU3T280U3ZtdW1iV0EzcmZBMm10UkFOcjRuNEhaMVF0Q2ZaNXVZZGllX19BYkhKTTBGb1JWSUJKUV9KemRRMGg4UmMwNkhMS2Q4NXFFOFpPc2ZkWnNxTUNERQ&q=https%3A%2F%2Fmagicstudio.com%2Fmagiceraser&v=jccPQhCTmR0) 
+    - photoshop in seconds
+- Tome - [https://tome.app/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDBCVzZnT0FLdUJfSU50a3QyNEhaU1ozZ0s3d3xBQ3Jtc0trV1ZjamtWTW1RdHFoOVN6WVMyLVdUcmdOOTUybU5CUHp3ckFOZVdfYVF2UTFNWDVvUWdyLTRRczdFNHJGdFZPamR3eEtaekkzRlp4RTZ2ODcxdnAwVTRKR0NRSThlVVBXNUVrckZpdGd3emowcnVEUQ&q=https%3A%2F%2Ftome.app%2F&v=jccPQhCTmR0) 
+    - presentation builder from a single sentence
+- Prime Voice - [https://beta.elevenlabs.io/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqay1MM1BzdThpdHlTeUVmM1hVeC15azJDejBZQXxBQ3Jtc0ttZTM5Zkd5QzNWUmhsSXlrYm1LbVIyYlRkMXFWQXQzMFFfeHM2bXJfcmIxOVJ1NnltV3ZnWnlCZUxya3oyWmN5ZFh0OEVVWXZ0UHZldGYwLW9QdlpySzVuQWtIeVdzX1dTZ3pWcUR3djZELTMzbk5OUQ&q=https%3A%2F%2Fbeta.elevenlabs.io%2F&v=jccPQhCTmR0)  
+    - voice generation
+- Reimagine - [https://www.reimaginehome.ai/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0lKMUVTWjlSa2phQ25hTUtCanJINTRIV1IzZ3xBQ3Jtc0trbHNBUERLQUJzd0dSRFlrU1FNaEd6ME5ZS1lhSDlqY3pQNDYxSzdBbjlIVHZTN24yRllzTmtpZkFHZDU3blhIUlo4LWx2TjZiZ0JLTmpuQWs4WjlNT3daSlZwQWRSTkJMSXVVRmgtSTZTaGFkdkRHYw&q=https%3A%2F%2Fwww.reimaginehome.ai%2F&v=jccPQhCTmR0)  
+    - interior design
+- Flowgpt - [Best ChatGPT Prompts & AI Prompts Community - FlowGPT](https://flowgpt.com/) 
+- [Long PROMPTs Splitter](https://chatgpt-prompt-splitter.jjdiaz.dev/) 
+- [prompster - Chrome Web Store](https://chrome.google.com/webstore/detail/prompster/fbagfekcjdidpmmookklbaeddgkjddml) 

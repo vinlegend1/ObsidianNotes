@@ -1,0 +1,192 @@
+- Quadric Surfaces
+    - ![](https://remnote-user-data.s3.amazonaws.com/EhLju_yfFbMUDgzCcCoPYGV4ItPvOtCq30hgYdBERqtvmWaO7v3UFwKD4xENLpye3NSWzniYZ-c9I6b0hqmXuy_mKVd6XOESfdE7svYg6_rbib3BJocZOYfrD50vY2hV.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/2JrVc5A9M7xceP2KBu7plaKzaptXpeDk6FZn9bdYhMJdVqurZA6SbtDzl3Gmq-YRiHL1oWDHKIMrzaS_cuhIddSX-umN7SbD6grzybUQZx948jRWMysLeIcerY0k0mOo.png) 
+- Gradients of Non-Cartesian Coordinates
+    - Polar Coordinates
+    - ![](https://remnote-user-data.s3.amazonaws.com/BenAVfwDcQZNmb8lE_9p3oTUSTvtZndqy9qwjS19izyFbVE56oDApIOs5IEA_bq2RiveELnfR26ijDE4M75FBOmWLdHzkLUR21QZh-LcB_9B7IObz84hxCIQA-pyxMG8.png) 
+    - Spherical Coordinates
+    - [Deriving Gradient in Spherical Coordinates (For Physics Majors) - YouTube](https://www.youtube.com/watch?v=a8J0vjM1gG4)
+    - 
+
+      $$\vec{\nabla} = \hat{r} \frac{\partial}{\partial r} + \frac{1}{r} \hat{\theta} \frac{\partial}{\partial \theta} + \frac{1}{r sin\theta} \frac{\partial}{\partial \phi}$$
+
+       [Differential Area on Non-Cartesian Coordinates](Multivariable Calculus/Differential Area on Non-Cartesian Coordinates.md) 
+- Differential Area on Non-Cartesian Coordinates
+    - Polar or Cylindrical coordinates
+    - 
+
+      $$dV = rdrd\theta dz$$
+
+      Derivation here: [Differential Area Element in Polar Coordinates](../Calculus/Single Variable Calculus/Integration/Differential Area Element in Polar Coordinates.md) 
+    - Spherical Coordinates
+    - ![](https://remnote-user-data.s3.amazonaws.com/C5hnr_uP1a26IbjWIrf4lvityebo-JYIeIdw-_NVZzjt-Ob7_udY0OtGwvW3YmAys5Qn5Fe6eu7_69qVzKnNXkEPw___2Tkm0r5E7vvDRZDmxx1uDk1K4JxGOOQXFhbT.png) 
+    - 
+
+      $$dV = r^2sin\theta dr d\theta d\phi$$
+
+       
+- Stokes Theorem
+    - ![](https://remnote-user-data.s3.amazonaws.com/JLHRD-kbXCY_tHiDY_9-pPXbLvSxM-sb8DsrTcBmJDlDzt7rNIwDlo0XfXPJ9C3UeyVlRl5evparYdF82DznKwie6JasXqZSq63bUYlKUofkOujm0HZjPy1AZGlffLrO.png) 
+    - Divergence Theorem
+        - ![](https://remnote-user-data.s3.amazonaws.com/5WX7f0qFuFsoYddKbGO2gNDwDBWcZaAPE8vVFYOF8iPbR0BAjOgGX5VfZssW3dQBIx-CFbbJqK49rNlUcOz7QhCQ5d6CF8qILBWg9PF_1nyMTAlzClRJsUwHjIPvoARv.png) 
+    - 
+- Green's Theorem
+    - ![](https://remnote-user-data.s3.amazonaws.com/FZGAL6jDx6HBk2OD36ZfeHOVJ1zUSJxh1ezdIEgY1eWg9ZF36lePJthzy5SyPIB39izzNjK95DSwxhr-JdOkcLgihAo9AU6OeQ33GuraZ3PlGyGDOm0iPfoRMilAPTxw.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/c_dGOVxqs_78S4Ur2_MmPu34WO1nxVGrcRd7vv_5vzipL6y4Cuz0v_HwHMdNHfcDr_7MDTqRzo13P5i6p0V-72uOrAf5R4LGU7xsn1vtsIyI-qkJz469zMvT6tREf0Pd.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/LmvSZJV2NEu241kwhdB9w6Ft-qmW2xWfy1IloDl0vAAUzOgQVyBl0WqfwgfOuuV-OD_6KgHEUD40bXejuXGJtNdRdkrpWEOkjSWeCixfexDaD0o58F66XCAD5BDSZ6KV.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/b76-gRgcd6GhQB8dYekT72eLUlgrgfuEUqtOM8HNfQvuMswUYffWlKuqarXlQFYAxRCNu6X-tpuaAKPV7BTOciz5_efcvW58vO9_hDoR8AoAe99HxXkypB6yFqCLVjNF.png) 
+    - 
+    - Green's Theorem for flux
+        - ![](https://remnote-user-data.s3.amazonaws.com/a8Ao9R3Ud7Tn-XfcDsoJBeNb0EL4RqWeBIH-MtucZ5cEoc-iWSllTQRQky-6tr6r7noYFexsc62zxxPvQ9lw4IwNlKbWEbyC0gm0tKW_9dwert29mw0nKYHJMkzVB_E5.png) 
+- Change of Variables
+    - ![](https://remnote-user-data.s3.amazonaws.com/XPSNhO76pt33g2ViOrXG9bisvHmBTzYgFe88TtCN3FV8CEY2uqnBZJE0fdu6WBVdKLvd2zfPA79772yBBL38pM3L-2oymi9W3X-tI5d9czmCvuST3KZZT8up5hqYi5Ag.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/__edCAjvSjeHGHsUWMWEyx_WrdSHN2jq48Saga7M7LpmPsY__raK3A9uFF1Y1zvBnIdGRurQAQic-VCq4vWyeobEZ_Xmi4Q798RlzVmvgmsutDsK0l5nuUZgTsSvmXZi.png) 
+    - Jacobian
+        - ![](https://remnote-user-data.s3.amazonaws.com/zksPC0MoFwSHkg0QdbDeMvTwnEztGkanqlxrMItRpDe7DAP4yXfRyd8yzz_N0pmcegbbsCAACr6ytKIDgjrAmIMCFI_Ii-kBNuBuCAPkpvQzEnWhjZC5xWZ5CGPfrpFB.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/1SKu-svrfXmck6OJQwVyRSLEnDYxdAfwtlmXsU17Je0aHftH6cIbl6Lw36seZJCHfcok0_Scu7qh98FJplPZ_wV2Ps7fZ-RkfVZBLPrgViWtpK5g0gwFyR93zjH4z1Gg.png)
+        - ![](https://remnote-user-data.s3.amazonaws.com/dYc2YK4cCu0EHROie4J4j2mq6HBL-bAB4zIWz3eI8FYOAvzHzooY6hijavoPucDKrEVU24cCFQPdGiZB9L_OwOC5W7fS4ksRQflrDXi4JD7bXgaNK7_eaoYfF9b7GwDB.png)
+        - ![](https://remnote-user-data.s3.amazonaws.com/93qSyLvrZSyjvgHz7Ac1wWRq6BWXJnwaaNxAjDP2c7Sigb3fYfrVQRSnP1VfI4t3Wd0Q8k4icokKrBUOwTF6e2S2Qca_zMml8emevC-jZR4IBPCAAfj1pCGCz6jSzCF5.png) 
+- Double Integral and Applications
+    - ![](https://remnote-user-data.s3.amazonaws.com/82AGS4t2KfNd0NNgPIpb-0xFwpqU_oh3muTETX6FcHnBN97whErC3-ohbN7h1jp7W51hjgKZRrYhnewYxvCSuiQ8fLBaMckPbkjEod_4BZy6JQ0P6cxw4iqC_sovtRX0.png) 
+    - Solve for area of a region (think of the function given as 1)
+        - technically you're solving for the volume under the curve but if the function is 1 (or height 1), you're essentially getting the area of the base
+    - ![](https://remnote-user-data.s3.amazonaws.com/soLc497sT7QcKCsAyxTJnJLTeOXkf4VZb_tR6xnK_ZwE0RsNlYi4nkCwt37TqKqNbSxfvCpaUZM9N6rIKOfvV_RA0IkWoptzXDqzty1dNG3QMQFhZEWoD1Ph81jzUibE.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/qHp4xMXxC1v3t6nd_5dO-bvdqVLLflAzwNJxZuS20-OkRku2CejA_yx5dPi11eAxTFTT0dxrCR4Qv2e7zU7jzvBEtC-m-XSN8t1n1fqew57qr9ZhTxxH0O8-Tn6Arm2x.png) 
+    - Center of mass
+        - ![](https://remnote-user-data.s3.amazonaws.com/C0in4KW9rg-KU5Sf1InonZdrUV687B6qVlTQjnLVc0g1EL03XazyNfjQ4bwZKZI3U01cA4sSrWhgi1Pdkg1EHJ1Db_yWZ-BjSgt9Sl5rAOI-NvQJ9pne_ZJ7H9FZJrbB.png) 
+    - Moment of Inertia
+        - ![](https://remnote-user-data.s3.amazonaws.com/vT0wvoR4odDPCiuUzsr7vOAjPMNaWQu83F1CMGCYpEwY5YZasMMR4zk40Pujonxio38lz3WbsZOQlIk9Upi7PWrPr6dFE5ImN74QJkb0o19ASnnNT3r2U7LC54jEMiGW.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/eA7pNnc3zveFMCJofxGZvOVEbhZaa89-0KkfUxZu72QwjjF35omp8RDgRkcPxWqyUeEdIvOcTT_7O15yLFyV8QN4ODC9zdm7hoD6_ojBlvqKuI_o0UIzUcCs-a4J_As5.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/QUhNR1-D_lrXZJwXWuBZMxxDQFUGQxXORUA5TOGS6TTbzHWK79aVMeHGU7kHc60fXNdOKdrkplN4EivvXbAR0jTlr_LHrlIM6yo5v6jfwHLWsY6y6vtB_5zUAdKsapJJ.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/YAxUbU9uc9cq18IxIfviF-p4qtRmDVVUZYM9iNig5UVpubGfgJcnqz27btP2qGBaeUtICk8AYwyU4vbkn4DraUABkl_aP8HgekWp4tSpOEs3-IrCm1k2Gj1CMwAq27X6.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/btVPd6c_wBFz-z29PaMqqo4iMBGvgiEntTt-j4ENa1cls-vE2h5FjtsSA9K9WycGqUXUWwOr224G9OezwFFUGiMKGybDQlopzGDRgyuLvDNa-YCvyCIDAA9gBnDY8LzD.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/RHB-v0TNDraWleoY_qAlvpedkfn3zci0wQnbbNazGujUCSZttBqNX7MJVceJd64VkhVP-pCwYZabYtEmBTLRY2TvhyEPHxVx_9HmezWSOFWz3EziFgls-NB3K5f3ywx8.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/FMGR8ceFMljl8fB9uzj7qHDnE0Tb7ZEchMtmfWiG4UXnAbas0tQXw1rIcj9XimpO1K867MUMydQzCoRPBFxSMfN3_NvV0n_jskfAsGE3hG3xtItLYeBKvb2z1pOUt7ge.png)
+        - ![](https://remnote-user-data.s3.amazonaws.com/JLRgY-Ih1C9PuVc0Wdkw3f9_EaRRFvP_CyPIkLQU0jf_8JAYbeFqEcxBkjy4rcWuAN16gnIWZVDhxv6MJjmnifuNjw42biYAwxfdXhSLytsLennWjGerVDanmh-HzP4G.png) 
+- Lagrange Multipliers (Multivariable Optimization)
+    - ![](https://remnote-user-data.s3.amazonaws.com/x73uW-OrJEeCl-ekGJunH3RyBU27lXsNA_50gR48crgL8NV59cWZVDi7GBkVbQJjy2TPszorklYoRXzHDGHO0rqi85xvI8XRS7e1ft5pyOt7gfX8hPhKVgmrqqm7C3md.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/Sms5brBRdqXDvSRxmXBO4yhdQ9cRxVslKCaxPhgmBHaYi0yTJfOAZxEQ54ZnX1inaYaJ4STJ5gzCH98cuBIAAX7FCPAVaT-k0F7I1ERiVvjPvKSRObkCiMfybvByrZTF.png)>>>
+        - ![](https://remnote-user-data.s3.amazonaws.com/U_pHkc9KT--pfIF9dSQvgRtne_PLL75l3kv8GW8Ct8NB9l2iaIsocihNGYVY9IB--OGT7SU14mj-gzwc7mzu1uEYrn5c6_SN7LKvLEerBDumLWwLQZZoY5ykK6psIwZv.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/_jhfwbjKsayDNRPG713QW3ZXbze4Llr2iReOq9TGRHQi1V9Nw-BfbLsOTXcDsQl2IgJ4K7YkAt5dCwWVNkuMfF5SQcuZpNLuQtkTje-wDfz1Sn4UOESqhyrBIGClFAzp.png)>>>
+        - ![](https://remnote-user-data.s3.amazonaws.com/d13_rt-PFs03FFeu90zLdNX4KfUXYNOf79uum2btI2zNdoUWBEHin7ZGaHSr2r3fnGxaIr-nUEPH0YdJVndf9jMvHMKeiEDLTWuFERNz2lPXcqB9z-rFlmciz9vIFn3a.png) 
+    - Lagrangian>>>
+        - ![](https://remnote-user-data.s3.amazonaws.com/LIcV89enkjaM9qv2CczTML-pCxPOoYH3hojdDQEHT3r3sJTr7sUDhUQxwVVodQZSd_wrGGfuT9i9xQCkVxBjq9vPb7vmc5KqhZzfPVIXo45ME-JLaYi--1vYRL9q7hDo.png) 
+        - turns a constrained optimization problem to an unconstrained optimization problem
+    - ![](https://remnote-user-data.s3.amazonaws.com/mPqBkyu3-aGsmnHFWgLUJtt7rrsCUFGwP7x9r_g3G0xUWo46ye7a4YxKk82nnfgIeCAXQHaxVOFsn5w8HZN7XCE1dxjv8IT41xc8UIS7wczQQjnik9lJ0DkOq0yFqLlS.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/L6NQ8GEKbVd-QtBqBrASAE3-HCZTLwY0o-a6IdK8kfuwIbppv8OBSCFki1RyG2kClf0ol1hdtmVnHKR2EOZTXYA08vmPTMfocIKtQVrij2dH90EAwiEuDdpGAGWC-wn9.png) 
+- Vectors
+    - Dot products and cross products
+        - ![](https://remnote-user-data.s3.amazonaws.com/vLOLfILm0wbrL7d9K7ADpSS7jDYzF-X7cgVcb6mnB4Cff7JysBoDN_nQaPFCbtaYhjeEwQygTZNpf87Uk8QAEG1xawvSbToCYjoaGp9JYg8EKeP0g7YHWhJvlQl81vNw.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/r7g298nXV7Jl1LXjPpC3AgWyHWZThKsSD_JgZo1xDGdP0lmfIFMsDpz_ozna_A_PQ2aIbuQMZS7ZhF5N1A6ZdHy7W7AkIP8SP0WOKExFwiu1BKAcAYNOdfZcfYymA6Zf.png) 
+        - Equations of a plane and normal vector
+        - ![](https://remnote-user-data.s3.amazonaws.com/smQSadpniGisgWufq0Eg-GayxlDWbeHsEMp21aePURHWVye-ynDzAtJk4YtNztkmoxhAVOqskRlW5PwZCIOvpIaMg9tGP6EtygB-h93KlrzeH2JJgdAc1UU8iRQIOAJL.png) 
+        - to get the normal vector of a plane, get the {{cross product between two vectors in the plane}} 
+    - 
+- Parametric Equations
+    - ![](https://remnote-user-data.s3.amazonaws.com/8Fn27D2jkR1szRG69pDrVUDaBKIsEm5QWrjNsMLoj9a83NBLFgFrod2jxXnS7K3SPrrjPqg7RnwsmbaC7fRt7rtalhUOR4EhhoIpEkAo7jYabFUorelcZOvtWeV8jOzX.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/7hCkHCnwTGfQsJM97vaj6NvWV0BEHhaAIBvZat8pGS8x6D09R-6RsY_wk4rY7Z7qbz4yvKLb2Q6r4ygfWxnuRl0_MzejHFXq3eeLuLkjtK3lIPg7ytaMpGWs5Vwq7qZm.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/ZyswYM_RWs-hvDWvOAPpAXBrNBs9xfF5calDHuqvySP4RE5VpqUV8eSwO27dMc8mQ7sjftw-6wFAJKTPvUA1uMsdazPMoOhSMlz8uGIc3sHLs3RuLgr33ixW_AGMYSzv.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/MAezvBplpaEy6NkDku-u_tLYHdSky8F0D54yMLdq0V8sYvcLPnpDycnGaKAcsZCyg8dJHBE462zNYq4Nd8zrLPxjdnXBpB22NHObIAvtqrDKVUG3b09vsAyoRxfh6yZW.png) 
+    - Cycloid
+        - ![](https://remnote-user-data.s3.amazonaws.com/U7DZ3DqpVpC8DJqx2WkIAjVjbOk6PuSObsKnbczOH3RwFSFfclgNTmD4p3Wg3dzPz8RCzU3w-GxFRVNo9fIlEJBa0Kt4VQoiywBmYS13osCRVOGPdM1ygRVTatkPqpql.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/kbfCYNwVO14eKdERVlDdBAnKGemCgIl2wTwzna35n6qKf6-ekHB2REYzOAEFhV8ts37LeQ9D9nMVtpww39Giu7sIkmFmGIbzOzg51sVNzh6cLEqFf_l64TKa59parRLU.png) 
+        - YOU DON'T HAVE TO ALWAYS PARAMETRIZE USING {{TIME}}, YOU CAN USE DISTANCE OR ANGLE DEPENDING ON WHAT'S BETTER
+        - ![](https://remnote-user-data.s3.amazonaws.com/HjSQQilIaOuchS2DGeeUJ22UmPYaUyjTLkmBQPQuScrpLUoY2cYxWzNmCdTXNDrQS83fufY-qib3WEcuMvmWAS2mqw-L8vuefAO5Gx59oSRYS0UWCMNyGg5GME41li3I.png)>>>
+            - ![](https://remnote-user-data.s3.amazonaws.com/Dr7zAch56HBsuuNzP5BLyXqTrff8BHIOyqCs_aUX5NFeIsgO02igmDAygQoM252KFNVIcG5XbeyeRhac1UI3S7EaEp1cYMdj0ydXI372NhnN0TymW2onMLs_0bQIZT8e.png) 
+        - cycloid at 0 2pi intervals
+            - ![](https://remnote-user-data.s3.amazonaws.com/3JCbal2dALUfZ2BJuAKIzpIJRR_rr1yshmPoR3V-tyyEG4reTw0o7Ydvg7Wo51as4qoQv9bukguT85x4pwz_vOZccS8uwXrAf5pSK26FU1iIHGqx-qb1kNaAsxlsNoUg.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/nLHd173rSBkN1be3oMcWYcWtJoiRF48D9QzIIJvsI2fZhQFWFRvPah7qht5D9qDxALkIWFNHY2A1fvKn3etcKf63e9ohoYhaMeUViHmRrPoUPXZVdgbhZU0bfkHapq52.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/ZV8kpyfuriL2ZNjeWpDpht42hM3tNQxFqNn_IwUNX-ZVffFDmVxBVZZvJ6EXOK_xaCCPBoUv_nLI9k3eaC0P61fxH4i9gmT4THngc8Xj2LQAQyCdltBut9BdkjwjZ40N.png) 
+    - 
+    - Velocity and Acceleration
+        - ![](https://remnote-user-data.s3.amazonaws.com/5768CeNhFNyq0Ll55mWLTXZkw2oNFUGnFhzNZeOu14lxmNRhJxhjpW_bfJ3MJISHCdCTrVpnIO9tx1Eo2irCErvTlbUC0mkhp97wH0RceMW5ZkI8VINHXTjPiN-XUJD0.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/X-qw7rATkqBhA1khmPyFVmklhbRnWpft1BDAPyfRn5MkrQC5opiaQali60AlTnrn2Mie8ugiNAKuNmXU0d0MHLDSV-EOsVsnDp0pE4_gyCFvh-FGvFWrWg733IA9QD1T.png) 
+        - Unit tangent vector:
+            - ![](https://remnote-user-data.s3.amazonaws.com/mJwqquqvFdKR8o95ygoHWX7D4aS_s44rCZHH1DiMW6Fah3gs8Dr9YBZkFp3dzwEGOqzk156vR4TkSrYBPeRIpUVZXbrZtxhnHGfUgR5lGqzM8FM4RL7Ju6EVuutGIFPM.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/HDS3WQwy8UqhkDOwKJOOsaiKf_YMOXZoxDWE1fMcWtRnsoLCTeZQ8Ac_XDocL7RFMbp-YO4wLE-9WFThkXoniR2xuvgEx1AM1PfecgPaq_hfJ3mXJz8Akud8DYuNurPJ.png) 
+    - Kepler's law (in vector form):
+        - ![](https://remnote-user-data.s3.amazonaws.com/bFkNe_NEhYwGkfFnWGENiroFkxXPE-qolIy6aiW1YYTyClZx9OETGSUqYSg0O8u1jxIpVZ4tXwD7T7o78llzzOJ_wZxQ6J8pTj0uwGWVDtsXd5eIErUc1o3CViRSQHVA.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/aXip-32jOMzs9GtBnIByujdQ0n2r97Pn1vhIwu4RLncqb3dmDNsQ4c81t2ngzbb2soPECXPrAQLmtg2D6Ut8i1h9-OuKZ8tVa9D3V9Q3_DjcUg6K0drU2aCqMOYqsrQB.png) 
+        - YOU CAN APPLY PRODUCT RULE TO DOT AND CROSS PRODUCTS 
+    - ![](https://remnote-user-data.s3.amazonaws.com/9NWL1GcUqNEh-wgN4EqjgJttot7uap_2Rm8QR7j2ZzRaEifixl2QH1D-oaoyMfH5vEucnd1Ws_yT5yrot7GddJltOL_O5wZ-hU-o3MFIF5zWXNawqyjrPJSv69ODlXwg.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/6vzRDamtiLWAZQ5fZbtjNtoaa9oQjfVDp4RtubpNLe_GnkCuCs7lnDKnf4R7776MfXIAfrnuUxJQHbEvXSXMRrvwV3hcKP5n6LIu25u3NFh-3NpJItYJykz7I9Ak_JNm.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/_NlsN86v6xAEvwAofhMgc6THesMWcnlB0OzpfwqB5VJt3Tqr7DRfiP6cAD0kave2kmgdGu_xTvXXdFwTANKxMeiHvzoyEXuZaof6cUiGKWs-9y6nnxv9p2LBhm5vmOZ4.png) 
+- Gradient and Directional Derivatives
+    - ![](https://remnote-user-data.s3.amazonaws.com/OdWsWHIXLWJtKPdSJkEd7CMF7-gc5NIykqoDUJKhRxyLay-qecAUzBFdPcJVz-EegQznaQznaWJ1xIdisl2xclSW5eFuSNerdY0fPmhH2RZiW0k6511z_GEET2zOfFqb.png) 
+    - gradient is the→direction of steepest ascent (the magnitude is the steepness, and the direction of the vector is "the direction")
+    - Directional Derivatives:
+        - ![](https://remnote-user-data.s3.amazonaws.com/NYu7MIQjgp-dWG4Gts6_4SmrPzn42VnYmnLz0EjyT7We_jmuT15VmgactJnzUhW_wgsPaUGgGUZzeiYQyviO0TApWnq1tLiU8GLDm9QlyudqSXSm3ahs0l142rCOzZZS.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/I6jxUrOU_KNzllSod9wV4Q43QaYEV6CipFGgzk1m8IWDhxGuw90_izItJxvZKhw9CcRzsX6nJ6pnavVuatqnWYyz0hVsDsg2nu283-ubxHde9jRdbZ-Qm7hlsHATUD-p.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/Os0FbQQxHH9wcKMIKHBKveylqzGg_tvk7juqkkHmDKHvuRvuc4t5fMfMZZYM0x5kjaV9AczIAb0D_Dnvl7CMrRqLcHtNoPC5ovGc8H-OVZMO4pLNr3KIUzOYTfGndmix.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/9tRQ7xJ1hESzeSO9WwKQXXUwuLVmGMztsBovtTVyDcUUCTK-HLl7vvSPjiAMk9t3H6ogRZ6U-fkEj78xHNKx4jUvZpaDFtMqRBREa12AUrYVVQAtGQsoeoWjNRUPWx0U.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/JCWK7O-9aTnjTePcyhf32YOUFbFL_-5TNEbLvQ44iZ94y1WdXTIs3ec83XziaI6BNDF_MyVq0j6RhDbSeRw7LpFZ0OBb9MuAu6rr4Y8VLMZPMsn5iCML3PiGbQfgX_T6.png) 
+        - Directional derivatives give the definition of the steepest ascent of the gradient. How?>>>
+            - it shows by considering the base definition of a directional derivative
+            - $\frac{dw}{ds_{\hat{u}}} = \nabla w \cdot \hat{u} = |\nabla w| |\hat{u}| \cos \theta$
+            - where length of unit vector is 1; therefore, the largest value possible for the directional derivative is if $\theta = 0$ or the two vectors are aligned
+            - hence, direction of steepest ascent
+    - ![](https://remnote-user-data.s3.amazonaws.com/Uwo3NlvmU38GNpQYWoxVlfYs1cuLjuqb50kJbKeKMTXmysRHwJCI756XcgLtJNDnun7yTCEIhbWPKsjFJmsZFUR6-yf2YObl62rzuckjp2nlBFjIccrU_jSoa-THXOOg.png) 
+    - chain rule of parametric equations and gradient + vector rewrite
+        - ![](https://remnote-user-data.s3.amazonaws.com/N8f1oVsiD9x5zes13l9rPjbrQcPKu4AZ78imHXgyQYrJnoUazCCF72HHWHJWrTDKmaXCYKNMLZtinwtl-bpOeyN6aIrVj3ESq_a0V2Gf0R-Krbft11wZ8z2gLYS2KUWo.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/qnrX49CaKvmKAOw5720mt6v6vdfkx_XCHpIyQtfCgUpJDFpuMnk5Z7LR5s3CNV895TcVsh60546tO_6O5eOpFpxcjTD8krLywX5jaEPlPSqvk0zhDLrYhjvSzmpC36Cg.png) 
+    - 
+- Symmetry of Second Partial Derivatives
+    - [Symmetry of second partial derivatives - YouTube](https://youtu.be/J08-L2buigM) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/5Pfiy5prvD4j8cB1KfEMVkQAnNSaGb5AFVwCczvb28ORPm57iGGL9FZHiNT0wvPIpwiHt-XhoaiKFm9HLxZakD7pxhp7vnYwDVPiE5nfJXlTra6YYlz3KoG0an0ZiUwm.png) 
+    - 
+- Vector Fields
+    - ![](https://remnote-user-data.s3.amazonaws.com/mxv987o4Yy-fR8djiS-w6Wbijy7Kj9M-T5I-TA_Neeir3qXqF49igmrVIQwbljZSQQnRz826Li-XfWPyGPXircfakSD_Lk_bd_aPNZU15mO-HNJorMttb2lrJ6p7r_fe.png) 
+    - visualizing vector fields: [Fluid flow and vector fields | Multivariable calculus | Khan Academy - YouTube](https://youtu.be/VJ2ZDLQk3IQ)
+    - ![](https://remnote-user-data.s3.amazonaws.com/OBD5ZcxEg4bfbz3YYRw8bBJokIHTgWTIV3nE5K-buPAWcCjgqrgLPWzV1n3l02DTBamk-UGNIPISw3OEQ67QtZasBsgOOzyq0XR2luGH_WVELcmdrLIbBX6vI0CTnrEG.png) 
+    - 
+    - Conservative Fields
+    - ![](https://remnote-user-data.s3.amazonaws.com/oe6EUigpnBbvprGH5so-yzkBfqSyt4TT83Lj1OBLE6nz7MsqdCGY-TnIul3VfKfPUBCHGcd1cQDGUFyj85CPsBs8_ruJ9T_YazlydOQ2hx3VtmOElpYShE3FvGsav28W.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/RlfXOg2_DMAdcYcEpc4rH7YH79Md0UjPwuadxGB2c-FO7yOdon2JFbqKm3OH-KznRNVGByMJ-54dWJH45xEb2HGpJjpIqj3jH0GcQ2OhmslHBf-oZJrEqxss4gum4OZC.png)
+        - ![](https://remnote-user-data.s3.amazonaws.com/_SdpAua0GWRnYqNdtYnv-gRQNf22yBlETNiKngHPmKsy4kn7zSxURI6JyBGvQkxdw7ppgwAZFCIrz1aPbcr-n6cErXKo6KmfgvCf-uaAL674hF2PZfo_JugHuQl50Bns.png)
+        - ![](https://remnote-user-data.s3.amazonaws.com/xFf-fDzoJHPRQWaoINqm9S-FVdyeOR2Jr61hFIXknvR5ldy6LazQ11pXyruVtUUswGe-Zv4rIwwaVFLpcPfdydFFTi71BdrE0bLattFfTY9zr77W-KUEPO0DD1RR5I4r.png)
+        - ![](https://remnote-user-data.s3.amazonaws.com/prJ3ibs1OgtP54cba673vLJ09iA-VPWmznSMMKXjlymqhMGvYQPSf1WcgtW64v0teBfXAfd3_s07upMPAhvRGFMglNK-Q-zXa6O2kP-f7YcA_3unIwXfMrqYOTxLLZRW.png)
+        - ![](https://remnote-user-data.s3.amazonaws.com/KtrXXTWBjjiM7evEUYor2BHuFRm7zKLYxOpnwSs3fZR9GyWMpDjse9cmhdz8Q_b-eUZk5EoxizvAXR8pN803TI6jgmuH3WO7785R2IBrfZ2fVid_KJx6BQO6AGxUH8m3.png)
+    - ![](https://remnote-user-data.s3.amazonaws.com/iP-UR5TbXev1Iw3CfsIu8FatNoZjgGbeDWybmI6XhlC9psQpwXSJbicvZwcj0hPyRW6FwenGfx2RniiEFL-Ft3kqTeQJE4w3jrC7I0Rb6FSMqfQ4HzDtG-Bn0CUzHwmw.png)
+    - ![](https://remnote-user-data.s3.amazonaws.com/Y6xfTTuOKmpg06ThPh14696AAXqpi-XlEqe0UERELgeUNlgXAQHWkDYesIWWKGSWGg_J7FOFbOw6vZ_TPd0QoU1niGoKqOpgEO9CUA8pDTNM_SyltS3XoWg2bCa-ymQg.png)
+    - ![](https://remnote-user-data.s3.amazonaws.com/lBkTaESrCTeQq949vpCA7K7dpZlqViodx5RmwUrVE9-fSa6LWRDYm85gTQsNR-pMCvqw0DvCwJEEF1cn9dNB6XCvA4V8hh7Dbcj_48RT-coKAylNovUH--GAsUgH2t1C.png)
+    - ![](https://remnote-user-data.s3.amazonaws.com/xq2chpgnddLvX0GsOIBZ_94JK-fqiqRZVT_LNz5l9Q_N5a_LXd93vkOe8KO2Fo7ksMcIoqOgjetYZJhFCmdP2kJGYhdbjE-7ktMqRVtd3tc9Tbu4coROO07YaPuBlFhi.png)
+    - ![](https://remnote-user-data.s3.amazonaws.com/m2nLEuHtA7u_8-q24-h3yHgtCVV0KDlY9eEUicJ7OFSZuBCooFAgxD5WuQqd8gWXgXwi9KaK1DtNQToW-qh5yT0xGzAqFU5EAWBLLvhp9M7GYJT_iyOCIPpAMFGDOqgn.png)
+    - ![](https://remnote-user-data.s3.amazonaws.com/5qU7wIRPHv__P4jWvkHM8wfJvb9YEOnYb98Ao7LR7UkQUPV184UYNGN5WyGFaDc5_Z4GoTQ_Idnt_S9oIaq1PByg_roh5pGvHw0kWnrN22Oqdb8gq2z2lwwpShO1TDeG.png)
+    - ![](https://remnote-user-data.s3.amazonaws.com/dCXLj-_OCHF7CvtY7zi9YxKYqt8CtHyuLW-aVaTRg3fcB9eNYYU1Tdc-bESgzZG-JiZINZK-gFT85SToYetBenRUsEvKolBoW2RM_ibDhHMHz7flgTgnZLwvr0RgAvX0.png)
+    - ![](https://remnote-user-data.s3.amazonaws.com/D3VOqU_bKkTmGxKWDfnzBDQXuw9mVAfKQZHOyKxOtiUUzz5i1uNbiaZ0h22996JrRTjN7KFRmHI4x9ZmUfoMCDPm4-j7aL3q1XIhYGywiXfmXyoJiOKBgLP2WSnC2zsF.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/bmYnTiWG4H39nCq0xHbScn9gw1NpsgeW-EKZW07CqfBep2QsPKU-IDOtJp8wOqQEQAJwIl6ZSlcm2_u14m5_rqfZFMXja-43j7sKkt26J4I5_tbJFbYZZV60ZmrlD_j8.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/48zeEviPRt9YW6ESfjd-jdaWzg4vsrYZUstIPvsBe8DXqjE54nDDhPnOaeX3usrqyAI-uujt6anOBw_VEtH7f7w2mHsA2T-IBt9IUQnIUsqwnFvhhGS29nIKcuvvZ53h.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/q0sZ2VYO5viAkTj4BWSautboX9O8PwSw-RCMrjakHN2TpXAiZOLGN4YmQ6S7-RdSWcQH4JOEPzfCJw3Ak6-3GUfEFR8aBw4IYxOiyvOwA8wsAJFr3OC0_9BcyUPoZ0EC.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/jBUvCNCDWL9tH2q60Q8aG6rigRd6v5NnfNmfsr-mBfse1sxRK0apentCZnEpc9tYKYD_9vdTGx_p2Esp0-vcVSHukKEIYZ_9XvAsDaOVuFgqBbuEPZ5J7hWmyXeRuIaO.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/rdTkWAbCrgnH_PO34lgjobKVpT1oAqNk9YEUkgqsj5UXHNgtw5SmM6LB69uPcK_nUrbc1XEn1QpuXXmjEfZPaLZ-7Ov9ErQ4M7sqm2czNmbJmzo3-rl97kT9bW1pKSQR.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/ImPRCv9-GjadRq6S_StCLNfZ4aW2f5h157Kj5Db1AE2gIU1A5Bk257MEL_yroG26IMEZ_GXAveOMTLIQ5unwYWmMHhr-oAnYOMQ3As-2FGZE7_rv6oull1yK3W_R41Tx.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/MwJPT6nlYbNSVwYnOZv-jmTXhezrtFEVua-Xlvxh13xvdOKivvl_ooqNt3cbeWvpeWRhjuRWTGF0xTPqv5jTd2EOzOoPMTxnC_rb4PGW073rIsarHjGdTya23d6MNgIM.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/tbypE7xuoREYQyPPvmkYVlqSLJ4MJH0aG-dA2soqmb96X1-ash0MqrYMWvyPaA407CMinyFVYjZ2HsQd4oKg8nUqLhMRixkOXQl42M0rtwgz2nh5_3hRDsM0UcHawPfK.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/WJjPDzH-nA6KzPDyupO3oiSMBunF8r5CgpZQwjZPbP0pTeBhFlkYL5XbiTGCwNxznRhJT0Oa3mx1Nbg44I9Bdmum01-W5KSZeS8wmpylxseOOINPXKZqmNVPi6P6ba6J.png)
+    - ![](https://remnote-user-data.s3.amazonaws.com/_KtSM8zKPmlo0wNc-aBbw91YoRpVZ5pVMzgetTyPEdoFmHcDADOdt_zyXed3mIhmn8dpqtxyk9B70Cv2DHnnsSdQgL_yqgKk9WV2T1WfvrfJjzeZ32SB3hcBVuJ7-84_.png)
+    - ![](https://remnote-user-data.s3.amazonaws.com/0IOf7pNHk4RCrbuIJqQlVNDbLO2Y6gjCLkwXOle-fI9Lc3m3HuJ4XFI5gHc6iOBXXjcMXS0wT8bnCq7We5vQZc0ulmAoe0NjWRUrbPiPtafVvL30GRRWVHqM0mvsFBYn.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/E34ANDqj32n_yusIp2fouBz6PX9XpY5ua1B_Zho84ZBqZmLY_cPaNgR2GIIQIbLWNuE8NenYVkxhndK5acmtDcHe_nuw0q01ZBjPoFU85HTL9s-iaV8bM0o-fTBL3ks5.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/RCkO_C1WZIA9zmwZLzpjFm0QJisZhDPN7Xet1DQ1wTcUC_wHBKKoDkUrCTU4UsmU3mkpo_FN3Ar0Ay6POVdLqoodchx-QYwlugbWidorVvatxqRQX32Itc23tLg7EW-2.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/VfTWRUcu_B-uGluSmwgd5-PE7i-ElEwSMuLT5-0Tn7waQNAi04B8cOxCBRDsbJXgwI9EZ-pVs6lsgskrQnmPUFUwRep0CbaYuHh2MsWM8LLaiXt-iHe03-HKOjKFjLjA.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/XUYMhiVIgZsUwaxW9sYPTjp5Mg4rUoe0yjUe085uA_WKA_Wr9LbUhBwLkju651dzLqlmSe8Idt1Upnoki82Me9TsqbkMP8JibYrtUCRQb6031JfpsbWHKtrBi4FyPBtT.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/2Gz07xN4sqsdBXawXPK612UjUTom4jWzCYz7-IegGHth90AF50ZG2gwDbWp49V4zHv9AGnYsXRlRnnjxQYC8H6CwG4IZsdIZoF8fjEcVeyE6YPkXznrCYCN_zQTvjLvk.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/0JGJBTzm5uhGbVDLHxtpGheFy6ofyy2jcxijMjDJgdERCJfR1RmfPXhbeMIhYbkQoCWOioiapaM4Pvg-kEk_kTuZYLaKh7t_c2g5uAzcM-dwNnn8lat1CtBdNjQqud_X.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/38sRX-s5ngIKzqg1u3cGpo9h5zDSPKgZmERVf8jetIfSPLpI80kblgHQEIn95bmNjpkVTUvuXIKlIzI2hdMWIPP8Oa_uNnRWpBnv8VO2GN6wVJuJC8pRW0TdsFHCPZrs.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/q1Mm-6GoR5vVrK4QLp6Q6To735Rpfyr_-oO1HYdl0zFSX3Q1iMKXEo8XjhAcLE26iLeKB-HC828eJh4LWy1l6xFZ53ugBYsTwpJD6HO7Xx6lLZGTp3UwfWyD-ZQRqvvY.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/1-MRSwDLD3auV8TxOdJANMGKXm_WmK9t7rHhmSOvmL29VVzBZmxBspywldTe-1q8eMk7QeHGx7z5uYC0uLlt5Cm9xtN95J_DXm_Wqmdbqua9XYB9rWdPsQKCrHoa5Alx.png) 
+    - Curl
+        - ![](https://remnote-user-data.s3.amazonaws.com/iCekx7y8bvXiG-OzeGQGXLO8_1zy7Yb8_LImuHfPggm-iKCoO-89MIU-T8Fkdk7JOkwnlZOIp_FyBU1OAGMp34IW28Yyeety6GBGeHDTdOtrpM547VVekfoZONxEF7LH.png) 
+    - 
+- Derivative Shortcut w/ Partials
+    - The derivative shortcut theorem goes like this>>>
+        - $\frac{dy}{dx} = \frac{F_x(x,y)}{F_y(x,y)}$ 
+        - on the condition that F(x,y) = 0 (all elements on the left or right side, and nothing on the right)
+    - 
+- Approximations
+    - ![](https://remnote-user-data.s3.amazonaws.com/QpM24nEhOtc9PC2rNQbqsvhfUkKLrKtViHkgXyQl8-ewvV8HBccfmgAANLr7JP4cZCGHwXNRrFnwBkk2Kg37HarT1EQ0y8MBe1sgyXgrvzKEZ_x83EmOFKDzlVtSC4Qg.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/Gbk2v94j-ipNQ3-hi2F26RWX4wycBL4HqROp648UhUtA3gjyKVSfi-xLj0H1xKvtokAJcNV3L19cnWvTNqHg3W9rJeBgGRpi3R1AihNN-uoz47JCB6jnL_7qxyq1f1wA.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/kS256tsB3SYtnJMchq7UhHxSkg7dvbAAGJq-BPJ1HKnDtR6Gj3oEvuD_BVNB_IQNcpbo0NYT-sba5c3br3ds5VdypM6XQPSDImIGYBgkmY9VeCvboa1nl-LyDstrKzlb.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/am9SUwOSVyK4mRdCb8pVmQaPkzphJm4xIE6PGlXANKyT-nNKRxb1mbm7z34QiLAUKj0bXyZ_wiri4PrqQkyfctK_pTcxEfMOeCKF49LIzRHosUF1wXsM0CV5LY7aq0zS.png) 
+- Implicit Partial Differentiation
+    - ![](https://remnote-user-data.s3.amazonaws.com/1vaFK_Xggtr4s6YW46kuNasX26GjSR1Su8jDN6So0SHdXkMgm3HwEQIcjTX5uVhdlreT1ybxlpMLlE8zjva0DBKRR-SVfmfxuJbB8xh7ZDu-y5EaLoXgiYjbcQNP6mBB.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/OucpW9J-fYaNY8bFupr5xwM_WnkAgzgCod14PHRDMrGzXgSokB55merRh18U0zVYUAT2kcAyn9AxXKnUsYokJSSkm67IZb4RZsw_BpZfWL7msaZ4ar12f7WoHNqqaQ_Y.png) 

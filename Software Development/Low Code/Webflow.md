@@ -1,0 +1,33 @@
+- Alternatives
+    - [Designers Are Leaving Webflow... Here&#39;s Why - YouTube](https://www.youtube.com/watch?v=NT8w5ZS13ao)
+    - Framer is good ⇒ design good
+- Payment Plans in Webflow
+    - Account plan
+        - max of 2 projects (for free)
+    - Individual Website plan
+        - Basic plan (works most of the time)
+- Animations
+    - ![](https://remnote-user-data.s3.amazonaws.com/ep7anBYBjscvgZOALkNJIKNfkVgpI0qGjWc8_d9mhPAdZTUbtf6QZBt8sRuLe_CFLYh7Z84nkietKWuMmaD9uV6hi1UhCmh0ZpZlHoixTmIlijKeR5eBZJwE4OkCN3fl.png) 
+    - there's page load and page scroll, and element trigger
+- Interface
+- breakpoints for responsiveness
+    - ![](https://remnote-user-data.s3.amazonaws.com/ivtC415u4m4xNjEptGXQX2NWeURHx3ISiVLIvAv9EIy-lIhyk7-y1PL3FcFH7R57XcbKC4O7No98QBVBiSHZDGJ2jPWXVCgTiQ3_3uiMKbAk_6V7CzOD0JMg5z3SyXIo.png) 
+- Symbols
+    - are like reusable components
+- Navigator
+    - structure of website
+    - it's kinda like layers in photoshop
+    - ![](https://remnote-user-data.s3.amazonaws.com/pQ_3Lvn6CBr_I0h4IhMikGzQd0SbDz-Rf0SijbwzTKqV_UDm9_S5VUw9Einx68Z-kBUbAQLEg74oYiGD6sLW1ABm97S3bQlj0F5x5uDGZU1FOo5svO9XmACzBb6wPTP0.png) 
+- CMS
+- Ecommerce
+- Assets
+- ![](https://remnote-user-data.s3.amazonaws.com/VNW2QFJ7ZURqBvFnpgY310PwvtXXJFzx1mT2RoLxIxLDW-vQGfBjETeyxonDE2Rfsx3Q3yTBjsJnsj7y9jpuyn-3HIkt50vf-AXKNRgMpvcbShTj9mhPKFxHye9gvDEL.png) 
+- Classes
+- like css classes... if not it is css classes
+- Navbar
+- there's a separate navbar component
+- Grid
+- Prebuilt Layouts
+- custom prebuilt grids
+- there's also effects in editor bar (e.g. zoom in effect)
+- ![](https://remnote-user-data.s3.amazonaws.com/FTwzGPqHCfRjwuw1z4bpFlB5K9gMWVZgtNaJV8aYq8flOuz-1-YndfqUjpSvRdXXFkAKa-INzFGbTfrLLxOMTAKYxe-R6sCf_Km-fvn73EDGfL1q_bnIzxMsO1hkmlSK.png) 

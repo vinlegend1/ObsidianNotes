@@ -1,0 +1,9 @@
+- Pascal's Principle>>>
+    - pressure applied to an enclosed fluid is transmitted undiminished to every point on the fluid and to the walls of the container
+    - scalar and no direction
+- Pressure>>>
+    - $\lim_{\Delta A->0}{\frac{\Delta F}{\Delta A}} = P$ 
+- ![](https://remnote-user-data.s3.amazonaws.com/YK0cWwfOk4xnc8g0SUWdNPQnI1UPbBnXm2eMXunSYQXbkWe13aVZoRIWvNcBLCeWQ9LtqVGPN4uLB7cJwqH2OsIs790hs5ZXzP-mfc7pFvBEQ0rMzXI_mdqiR8D4tLgY.png) 
+- Conservation of Energy in Hydraulic Jack
+    - ![](https://remnote-user-data.s3.amazonaws.com/bUFEwNbDP0sHBAfvlkyAueRCFgWsAaQ3QC_q-ilxLx3PbKMibH2WU3JAB2rat5R8Jwr91knGCf9CyB1LP2yCJ2zmb4mhK7XFH7knXlGRI4kZOI2K4NZm2XJNq4FiNq8F.png) 
+- 

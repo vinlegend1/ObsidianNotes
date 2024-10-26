@@ -1,0 +1,15 @@
+- [Graphic Design Principles Are CRUCIAL! (Here&#39;sWhy) - YouTube](https://www.youtube.com/watch?v=UfkzHRM70sQ) 
+- spacing provides what function?>>>
+    - enhances visual hierarchy 
+    - prevents clutter
+    - adds style
+    - enhances proximity
+- macro white space>>>
+    - large area of nothingness in design
+    - modern and minimalist and luxury
+- micro white space>>>
+    - smaller area of nothingness between lines of text and paragraphs of text
+    - informative and serious if the balance is shifted this way
+- passive white space↔refers to space that helps with legibility and aesthetics of layout
+- active white space↔helps viewer move through your design in order and structure 
+- 

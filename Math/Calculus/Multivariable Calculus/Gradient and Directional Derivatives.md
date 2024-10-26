@@ -1,0 +1,18 @@
+- ![](https://remnote-user-data.s3.amazonaws.com/OdWsWHIXLWJtKPdSJkEd7CMF7-gc5NIykqoDUJKhRxyLay-qecAUzBFdPcJVz-EegQznaQznaWJ1xIdisl2xclSW5eFuSNerdY0fPmhH2RZiW0k6511z_GEET2zOfFqb.png) 
+- gradient is the→direction of steepest ascent (the magnitude is the steepness, and the direction of the vector is "the direction")
+- Directional Derivatives:
+    - ![](https://remnote-user-data.s3.amazonaws.com/NYu7MIQjgp-dWG4Gts6_4SmrPzn42VnYmnLz0EjyT7We_jmuT15VmgactJnzUhW_wgsPaUGgGUZzeiYQyviO0TApWnq1tLiU8GLDm9QlyudqSXSm3ahs0l142rCOzZZS.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/I6jxUrOU_KNzllSod9wV4Q43QaYEV6CipFGgzk1m8IWDhxGuw90_izItJxvZKhw9CcRzsX6nJ6pnavVuatqnWYyz0hVsDsg2nu283-ubxHde9jRdbZ-Qm7hlsHATUD-p.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/Os0FbQQxHH9wcKMIKHBKveylqzGg_tvk7juqkkHmDKHvuRvuc4t5fMfMZZYM0x5kjaV9AczIAb0D_Dnvl7CMrRqLcHtNoPC5ovGc8H-OVZMO4pLNr3KIUzOYTfGndmix.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/9tRQ7xJ1hESzeSO9WwKQXXUwuLVmGMztsBovtTVyDcUUCTK-HLl7vvSPjiAMk9t3H6ogRZ6U-fkEj78xHNKx4jUvZpaDFtMqRBREa12AUrYVVQAtGQsoeoWjNRUPWx0U.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/JCWK7O-9aTnjTePcyhf32YOUFbFL_-5TNEbLvQ44iZ94y1WdXTIs3ec83XziaI6BNDF_MyVq0j6RhDbSeRw7LpFZ0OBb9MuAu6rr4Y8VLMZPMsn5iCML3PiGbQfgX_T6.png) 
+    - Directional derivatives give the definition of the steepest ascent of the gradient. How?>>>
+        - it shows by considering the base definition of a directional derivative
+        - $\frac{dw}{ds_{\hat{u}}} = \nabla w \cdot \hat{u} = |\nabla w| |\hat{u}| \cos \theta$
+        - where length of unit vector is 1; therefore, the largest value possible for the directional derivative is if $\theta = 0$ or the two vectors are aligned
+        - hence, direction of steepest ascent
+- ![](https://remnote-user-data.s3.amazonaws.com/Uwo3NlvmU38GNpQYWoxVlfYs1cuLjuqb50kJbKeKMTXmysRHwJCI756XcgLtJNDnun7yTCEIhbWPKsjFJmsZFUR6-yf2YObl62rzuckjp2nlBFjIccrU_jSoa-THXOOg.png) 
+- chain rule of parametric equations and gradient + vector rewrite
+    - ![](https://remnote-user-data.s3.amazonaws.com/N8f1oVsiD9x5zes13l9rPjbrQcPKu4AZ78imHXgyQYrJnoUazCCF72HHWHJWrTDKmaXCYKNMLZtinwtl-bpOeyN6aIrVj3ESq_a0V2Gf0R-Krbft11wZ8z2gLYS2KUWo.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/qnrX49CaKvmKAOw5720mt6v6vdfkx_XCHpIyQtfCgUpJDFpuMnk5Z7LR5s3CNV895TcVsh60546tO_6O5eOpFpxcjTD8krLywX5jaEPlPSqvk0zhDLrYhjvSzmpC36Cg.png) 
+- 

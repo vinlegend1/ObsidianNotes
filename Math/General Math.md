@@ -1,0 +1,449 @@
+- Math in the Modern World
+    - Cryptography
+        - 
+    - Mathematics in Nature
+        - Fractals [Article](../undefined.md) 
+            - What are Fractals?
+                - [A fractal is a never-ending pattern.](../undefined/undefined/undefined.md) 
+                - [Fractals are infinitely complex patterns that are selfsimilar across different scales.](../undefined/undefined/undefined.md)
+                - [These are created by repeating a simple process over and over in an ongoing feedback loop.](../undefined/undefined/undefined.md) 
+            - Famous Fractals
+                - [Koch Snowflake](../undefined/undefined/undefined.md) 
+                - [Sierpinski Triangle](../undefined/undefined/undefined.md) 
+                - [Mandelbrot Set](../undefined/undefined/undefined.md) 
+                - [Julia Set](../undefined/undefined/undefined.md) 
+                - [Wolfram Alpha](../undefined/undefined/undefined.md) 
+            - Fractals in Nature
+                - [Cauliflower](../undefined/undefined/undefined.md) 
+                - [Ferns](../undefined/undefined/undefined.md) 
+                - [Bacterial growth in Petri dish](../undefined/undefined/undefined.md) 
+                - [Leaves](../undefined/undefined/undefined.md) 
+                - [Opening Fern](../undefined/undefined/undefined.md) 
+                - [Gastropod shells](../undefined/undefined/undefined.md) 
+                - [Tentacles](../undefined/undefined/undefined.md) 
+                - [Nautilus shell](../undefined/undefined/undefined.md) 
+                - [Shoreline](../undefined/undefined/undefined.md) 
+                - [Mountain range](../undefined/undefined/undefined.md) 
+                - [Lightning](../undefined/undefined/undefined.md) 
+            - Fractals in Human Bodies
+                - [Neurons](../undefined/undefined/undefined.md) 
+                - [Retina vessels](../undefined/undefined/undefined.md) 
+                - [Lungs](../undefined/undefined/undefined.md) 
+            - [Fractals   The Hidden Dimension - YouTube](https://www.youtube.com/watch?v=xLgaoorsi9U) 
+            - 
+        - Fibonacci and Golden Ratio
+            - [FIBONACCI SEQUENCE](../undefined/undefined/undefined.md) 
+                - [Leonardo Pisano Bigollo](../undefined/undefined/undefined.md) - who fibonacci was named after and inventor of fibonacci sequence
+                - [The Fibonacci sequence was the outcome of a mathematical problem about rabbit breeding.](../undefined/undefined/undefined.md) 
+            - Golden Ratio
+                - [https://remnote-user-data.s3.amazonaws.com/ZFVy451vtwA03pM_a_J463Syfd0IYUAiDa3VJgRgbLYJHfOp3sWNzn_NyEO5mse0Nuio9bXhnCulFELb6MUlvel0oTki7ZEingSoq_owqqKVqOFSwMU11lV6QYt6k9C8.png](../undefined/undefined/undefined.md) 
+            - [BINET’S FORMULA](../undefined/undefined/undefined.md)
+                - [https://remnote-user-data.s3.amazonaws.com/LPt0eyEl2ERAPUCgKKbXvW-rJOggIxKDdvto2r6cres0MtRvx-T9v6VQMF98wNqelbIvvsG3eEWnkLGMmw672PxikCgwXxsSG0cGfPnfmjKzvbU_RDNaBhDIlzycE7Mt.png](../undefined/undefined/undefined.md) 
+            - [GOLDEN RATIO IN ARTS](../undefined/undefined/undefined.md)
+                - [Shapes proportioned according to the golden ratio have long been considered aesthetically pleasing (especially in Ancient Greece). Many artists, including Da Vinci, have incorporated these shapes and ratio in their works.](../undefined/undefined/undefined.md) 
+            - 
+        - Symmetric Patterns
+            - [translation](../undefined/undefined/undefined.md) 
+            - [REFLECTION](../undefined/undefined/undefined.md) 
+            - [ROTATION](../undefined/undefined/undefined.md) 
+            - [DILATION](../undefined/undefined/undefined.md) 
+            - [An isometry of the plane is a mapping that preserves distance (and therefore shape)](../undefined/undefined/undefined.md) 
+            - [GLIDE REFLECTION](../undefined/undefined/undefined.md)
+                - [A reflection followed by a translation or vice versa is called a glide reflection](../undefined/undefined/undefined.md) 
+            - [CHASLE’S THEOREM](../undefined/undefined/undefined.md) 
+                - [Every (rigid) motion of the plane is one of these transformations: a translation, a rotation, a reflection or a glide reflection](../undefined/undefined/undefined.md) 
+            - [MULTIPLICATION TABLE FOR ISOMETRIES](../undefined/undefined/undefined.md) 
+            - [A figure has symmetry if there is a non-trivial transformation that maps the figure onto itself.](../undefined/undefined/undefined.md) 
+            - Types of symmetric patterns
+                - [ROSETTE PATTERN](../undefined/undefined/undefined.md) 
+                    - [This pattern consist of taking a motif or an element and rotating and/or reflecting that element.](../undefined/undefined/undefined.md) 
+                - [FRIEZE PATTERN](../undefined/undefined/undefined.md) 
+                    - [This pattern is an infinitely long strip imprinted with a design given by a repeating pattern motif.](../undefined/undefined/undefined.md) 
+                - [WALLPAPER PATTERN](../undefined/undefined/undefined.md) 
+                    - [Whereas a frieze pattern can be mapped onto itself by a horizontal translation, a wallpaper pattern covers the plane and can be mapped onto itself by translation in more than one direction](../undefined/undefined/undefined.md) 
+        - 
+    - Consumer Mathematics
+        - HW on Consumer Mathematics
+        - Amortization
+            - Look at the sheet/pdf
+            - 
+        - Simple Interest
+        - 
+
+          $$I = Prt\\F = P + I$$
+
+          
+        - Compound Interest
+        - simplified equation (for easy memorization)
+            - 
+
+              $$F = P(1+i)^n$$
+
+               
+        - expanded equation
+            - 
+
+              $$F = P(1+\frac{j}{m})^{tm}$$
+
+              
+            - where:
+                - P is the **principal** 
+                - j is the **rate per year** 
+                - t is **time in years** 
+                - m is the **number of times the interest is compounded per year** 
+        - Witholding tax
+        - Time Deposit Account
+        - Annuity
+            - An annuity is a sequence of equal payments
+made at equal intervals.
+            - The amount of each payment is referred to as
+the regular payment, denoted by R
+            - 
+
+              $$F = R(\frac{(1+i)^n-1}{i})$$
+
+              
+                - this formula was derived from the [Sum of a Geometric Sequence](General Math/Infinite Geometric Sequence/Sum of a Geometric Sequence.md) equation
+            - the Present value can be derived from the future value F by discounting F n times
+            - 
+
+              $$P = R(\frac{1-(1+i)^{-n}}{i})$$
+
+              
+        - 
+    - Linear Programming
+        - YouTube Videos
+            - [Linear Programming - Formulation 1 | Don&#39;t Memorise - YouTube](https://youtu.be/uJFiR0DG2Bw) 
+            - [Linear Programming - Graphical Solution | Don&#39;t Memorise - YouTube](https://youtu.be/qQFAvPF2OSI) 
+            - [Solving Optimization Problems with Python Linear Programming - YouTube](https://youtu.be/ufYtueq2DCw) 
+        - [The term linear refers to the relationship involving two or more variables, which show first-degree mathematical statement.](../undefined/undefined/undefined.md) 
+        - [The term programming refers to the use of certain mathematical techniques or algorithms to obtain best possible solution or the optimal solution.](../undefined/undefined/undefined.md) 
+        - [a mathematical technique that involves maximizing and minimizing a linear function subject to given linear constraints.](../undefined/undefined/undefined.md) 
+    - Game Theory
+        - **Game theory** is the study of strategic interaction between participants (players) in a situation (games) that contains a set of rules and a set of outcomes.
+            - It consists of a **set of players** and a **set of actions** (moves) for each of them.
+            - A sequence of actions (moves) is called a **strategy**.
+            - Each player receives a **payoff **that depends on the actions of all the players involved.
+            - What would be the player’s best strategy to different moves of the other players to achieve the “best” or maximum payoff?
+            - Real-life situations with game theory:
+                - a person deciding which mode of transportation to use
+                - businesses competing in a market
+                - sports game
+                - choosing where to eat
+                - food sharing and bill splitting
+                - species fighting for survival
+        - A tool for decision-making
+            - elements: **players, rules, consequences, payoffs** 
+        - The problem:
+            - CASE A:
+                - If only one of them confesses, then one will go to jail for 1 year and the other will go to jail for 25 years.
+            - CASE B:
+                - If neither of them confess, then each will go to jail for 3 years.
+            - CASE C:
+                - If both of you confess, then each will go to jail for 10 years.
+            - Questions to ask:
+                - If you are one of the two suspects, what are you going to do in this scenario?
+                - What would be your “best” response and what would be the other suspect’s best response?
+        - Classification of games
+            - Simultaneous vs Sequential game
+                - **simultaneous**: rock paper scissors, pokemon
+                    - Each player has only one move and all these moves are done simultaneously.
+                - **sequential**: board games, board games, and other card games
+                    - No two players move at the same time and players may have several actions (moves).
+            - Perfect vs Imperfect-Information Game
+                - **perfect-information**: each player, when making a decision, is perfectly informed of all the actions that have previously occurred
+                - **imperfect-information**: opposite of perfect information
+                    - games of the general, cluedo, prisoner's dilemma
+            - Complete vs Incomplete-Information Game
+                - In a game of **complete-information**, the strategies, payoffs and player information are common knowledge to all players.
+                    - chess, tic-tac-toe
+                - Otherwise, the game is said to be of **incomplete-information**.  Some players may possess private information.
+                    - games of the general, cluedo, monopoly
+        - Methods of Presenting a Game
+            - Normal Form
+                - ![](https://remnote-user-data.s3.amazonaws.com/mnUDLLC0Ij-Q_uRqiOZUdOCmxOM3cX6Rmh__MRhw-EtFxwcUDABOi8t3X1QlzZ-SRqIRgV05pJ-Cd8NeWTN9fCuR9id1e3gYUsk-patFk1vvmeFlOY40ppZkrotx0wvb.png) 
+                - Prisoner's Dilemma
+                    - ![](https://remnote-user-data.s3.amazonaws.com/de7TPG-sX0ApvmROaBjCKPf5TgwmOf5Psix93V_FOP71QPUUU9Gzhs0tqpjK8UM4AJ-0A7lv3AhbM1Ww_vxYa5XI2nRVXc6iQlLhmKMyGqIjDjuOZvfEhnM9CqXiWZ6O.png) 
+                - Two companies share a market where they make Php50 million each. They need to decide whether they will advertise or not. Advertising costs Php20 million, but captures Php30 million in revenues from the competitor provided that the competitor does not advertise. Construct the normal form of this game.
+                    - ![](https://remnote-user-data.s3.amazonaws.com/stR_kJCm8S0PDqwQqLHsTqBLWqjhqAu0DXd7UbC8E6kRUc5Pfg3JsRlEH0d82_Ouzbub98evs3FLEHwIh99F0g8fcViyQI9TvKY9XMpZUniTs2xlybVTRhXYYozryB4N.png) 
+            - Extensive Form
+        - Normal Form
+            - Games in normal form are used to analyze one-shot games. Each player chooses one action and all of them chooses simultaneously.
+            - How do we decide? We can use the following: **Maximin Solution** and **Nash Equilibrium**.
+        - Maximin Solution
+            - This solution involves choosing the strategy that gives you the **maximum among your worst payoffs**.
+            - This was proposed by the mathematician **John von Neumann.** 
+            - ![](https://remnote-user-data.s3.amazonaws.com/Mz3lD7euUtK-1750ISKsTCfWTunmHFRQEwxUJ3T3AA6_zSa-lZZAmiVaRcOK3QFkrmIi-r-F8DReNtgAZ9NT1QQ54ghCjz-wihm_ffc13BSsiytrR-Ot1jBPXIbL53FC.png) 
+            - Step 1: Separate the payoff values of each player into two matrices.
+            - Step 2A: Determine the maximin strategy of the row player. To do this, highlight the worst payoff in each row. Among the highlighted payoff values of the row player, determine the maximum. The strategy corresponding to this maximum value is the maximin strategy of the row player.
+            - Step 2B: Determine the maximin strategy of the column player. To do this, highlight the worst payoff in each column. Among the highlighted payoff values of the column player, determine the maximum. The strategy corresponding to this maximum value is the maximin strategy of the column player.
+            - Step 3: If both players have a maximin strategy, then the game has a maximin solution. We write it as an ordered pair or strategy pair (A,B) where A and B are the maximin strategies of the row and column player, respectively.
+            - ![](https://remnote-user-data.s3.amazonaws.com/_OrsvK5lpTPIsJ_w42DcZNmEi_Egbu4LMOiPXPXvH1NW2BBHfoMXZti4AtLK4_PvNMa-cYjjAjUnnJoJ76hSNSdokjPtpFUMWPH8HAdkOYy8Kh70iT1IP23RSDij2NBD.png) 
+                - Since at least one of the players (husband or wife) does not have a maximin strategy, the battle of the sexes game does not have a maximin solution
+        - Nash Equilibrium
+            - A Nash equilibrium is a strategy for each player such that every players’ action is the best response to the other players’ actions.
+            - Each player is using his best response in the game. So, switching into another strategy would result into a lower payoff.
+            - In other words, no player can reach a better payoff by changing strategies.
+            - This solution concept was named after **John Forbes Nash, Jr.** His theories are used in economics, and in fact he won the Nobel Prize for Economic Sciences in 1994.
+            - ![](https://remnote-user-data.s3.amazonaws.com/ioT6pN5F2Pa6tm4tLedr8dimFQzXl0CEsFsQTNDefoVKNYj2Qs4VxCv2x-GI58Py8xLIEDnYOdf-jcpzuOXJJOR-XyMLMn5PD64XSCFrfHaX6UMiTBkjVtw6a4UhNPST.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/25VFlCt3_ret_hbnCP13Te2Sf4lZovbb6gctB5N7V2RvnILzxzdKzblXJslN21eUNJpFvuMJqBgtUKcv3LigDkXD9GF6sIeeRRai1gfh3TdKeSzthfIPMDf055rDh9l4.png) 
+        - Dominating vs Dominant Strategy
+            - Suppose that A and B are strategies of the row (column) player. We say that “A is **dominating **B” or “B is **dominated **by A” if it outperforms B regardless of the strategies chosen by the opposing player(s).
+            - We say that A is a **dominant **strategy of the row (column) player if it is dominating all the other strategies of the row (column) player.
+        - Dominant Strategy Equilibrium
+            - A game in normal form has a dominant strategy equilibrium **if both players have dominant strategies**.
+            - ![](https://remnote-user-data.s3.amazonaws.com/bdrZrTmVuEjick79i2mk4qLFfoAXwp_ETXFdqPASjm5zUREMQn4GoXjEmDGweEsf8EZL6tM2U_Scfgym8mXl_DXuY0hCVoyssgG_W7CXeRORDt2KmV2OHkqdcoqs4OIW.png) 
+            - **Iterative Elimination of Dominated Strategies (IESDS)** 
+                - This method can be used to find any Nash Equilibrium of a game.
+                - An algorithm that removes any dominated row (column) strategies in the game.
+                - Reduces the number of strategies/outcomes to be considered in the game.
+                - ![](https://remnote-user-data.s3.amazonaws.com/DRPkmtubjrK9Vvzx7_btSYZJhmEj8iMSGyW4QhMUcT156uI2kplMDXr-0KeDMJrI0zBiRpyy1xrzWabHQ7qoFJvxK4D2auhwYEE_xs_sqo6zG7t3fgNJEly7eieT7fDz.png) 
+        - Games in Extensive Form
+            - A game in extensive form is a tree diagram in which each strategic decision is shown as a branch point.
+            - Example:
+                - ![](https://remnote-user-data.s3.amazonaws.com/Ntg_5Munlb1VcFvtoi01tP-NrvnyvcVc8COfCY80Fxs4hUls_RQV44CePvy5TEspto0bdWbg0cBtJbd-Mvmkq4wr_Q_fut9Qqjp6ugKs9bO6MCIH22DFwCIUqQwc3DrW.png) 
+                - ![](https://remnote-user-data.s3.amazonaws.com/EjUtf8rY4qKb8ZuCZ-noPw1UY21H1nszbMY9MnPSEHBleJ5_28kRyTgySr6wLOlpUlgqcYE-JJ2LziKJH2gN7BUqQ7VynmBEl6jJJL6IqOleUbP2hHw81eAaAsLxCpkT.png) 
+            - **Backward Induction** 
+                - Step 1: Solve the subgames at the last stage in each branch to reduce the game into a smaller one.
+                - Step 2: We repeat until all subgames have been solved.
+                - Step 3: The resulting tree diagram gives the equilibrium solution.
+        - ![](https://remnote-user-data.s3.amazonaws.com/tzN0x60nwIhMkJaDAGZApxW3m2_fjKfJEPsvaXZJsoOxpr2HliYDkXnpmq5bC4_P0ZF7V49nDd4GnfLWAatlAex2qidj_SHY_5Je1ssb3G0i5lBXSqeHN0LRya2p_soH.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/noPTfZG5AQuThOAWmb7ExhSqbJIB2RkQU2OiJw982gJLhIk_tY5RgtbIAkdqXKfdUUOoSbp1_WGEmy9fWW7mFuGWqLAK-VOZc9s3B56sEgEuqI1Lxv2Fk4ut45aYFQ_A.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/gxEGdsVqoI5X4Y6oPJWaoSrB9YHVIZn-s0ayvQybx8jAPwbl61p2bD8fbLs_bt3zVEwouhyb6mE4koWVvuUD1Wx5AX4EvbjFu23n25YxneVWjHtb_R67iHxFS6da6ReI.png) 
+    - Logic
+        - ![](https://remnote-user-data.s3.amazonaws.com/qsJFe7lSeJ9S2EkI-NWg1SqnTOdz0-Bt1XVopIV1qF_xkAG_FJPVNWo4h__dQ9ID_88wvCO1Gw2oP3fO80LvxmFrrJvB6w5tVVY_cDz8cxCkA_gWCEH5dxq29VF48MUh.png) 
+        - Rules of Replacement
+            - ![](https://remnote-user-data.s3.amazonaws.com/Tl1SJbWGW45qpyEQQ2TPpipsYDf8n8klLpIqNO6itDXtoJjGgGaa95jTJl8rpxnYuMABpHnPZgyTUto_3jTQmt8Nz6AjfbqgURJ896jrBXHpTfCUzE8T6qbyrz9_7q94.png) 
+        - Rules of Inference
+            - ![](https://remnote-user-data.s3.amazonaws.com/79ibP9sMYKNza8crai_72XQN_H8vVnGGnL_1faPKPL-yAVQXgOy2uLoxT7AzoajPsbrtw-3qNz_EKc614JdHtzWveHN-R_Z4_HPQNBDMVsjHeYiVoZzfnvaoiY-c-Qgj.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/wJzSUrerH6cdTSv-nr_e8_DeGC37xPgGqmzFiH8eJA86K7RxVs_iYGwV4IImZk3OCkOamC8vi10SqRADvjJUh3gi3e5-P38eexWEtUetFF7kiL9HJDg7YAuZEejt7w3_.png)
+    - Social Choices
+        - Terminologies
+        - [preference ballot](../undefined/undefined/undefined.md)
+            - [ballot on which each voter ranks all eligible candidates, from first to last place, with no tied ranks.](../undefined/undefined/undefined.md) 
+        - [preference table](../undefined/undefined/undefined.md)
+            - [table showing how many times each possible ballot was submitted](../undefined/undefined/undefined.md) 
+        - [voting method](../undefined/undefined/undefined.md)
+            - [mathematical procedure that uses data from the preference table to determine a winner](../undefined/undefined/undefined.md)
+        - [fairness criterion](../undefined/undefined/undefined.md)
+            - [mathematical statement about our expectations for a voting system](../undefined/undefined/undefined.md) 
+        - Fairness Criteria
+        - [The Majority Criterion](../undefined/undefined/undefined.md)
+            - [If a candidate receives a majority of first-place votes, that candidate should win the election](../undefined/undefined/undefined.md) 
+        - [The Condorcet Criterion](../undefined/undefined/undefined.md)
+        - [The Independence of Irrelevant Alternatives Criterion](../undefined/undefined/undefined.md)
+            - [If a re-election is held with the same ballots and non-winning candidates are removed, the previous winner should still win.](../undefined/undefined/undefined.md)
+        - [The Pareto Criterion](../undefined/undefined/undefined.md)
+            - [Candidate A, that every voter prefers to another candidate, say Candidate B, then it should be impossible for Candidate B to win the election.](../undefined/undefined/undefined.md)
+        - [The Monotonicity Criterion](../undefined/undefined/undefined.md) 
+        - [Non-dictatorship](../undefined/undefined/undefined.md) 
+        - Voting Methods
+        - [Majority Rules](../undefined/undefined/undefined.md)
+        - [Plurality Method](../undefined/undefined/undefined.md) 
+            - fails condorcet criterion on certain cases
+            - fails [Independence of Irrelevant Alternatives Criterion](../undefined/undefined/undefined.md) 
+        - [Condorcet Method](../undefined/undefined/undefined.md) 
+        - [The Hare System](../undefined/undefined/undefined.md)
+        - [Borda Count Method](../undefined/undefined/undefined.md)
+            - [Borda Count Method fails Majority Criterion](../undefined/undefined/undefined.md)
+            - [Borda Count Method fails IIA Criterion](../undefined/undefined/undefined.md) 
+        - [Sequential Pairwise Voting](../undefined/undefined/undefined.md) 
+        - Summary on Criterion + Methods
+        - [https://remnote-user-data.s3.amazonaws.com/RaikXKPP4VYoxj9b2iT4bCKHBE7FscB5tbooM_IRcGLGZGYIOE7ex5zpske9jJ7YmaPYD9EYp9-IUaPm2n878pWYrjOTFYXL5Eou31IfLdkb_8-5sZ111mfNFccGDSjI.png](../undefined/undefined/undefined.md) 
+        - Problems or Misc Theorems on Voting 
+        - [Arrow’s Impossibility Theorem](../undefined/undefined/undefined.md) 
+        - [Plurality runoff](../undefined/undefined/undefined.md) 
+        - [Gibbard-Satterthwaite’s Theorem](../undefined/undefined/undefined.md)
+            - [No voting method is completely resistant or unaffected to strategic voting](../undefined/undefined/undefined.md)
+        - [May's Theorem](../undefined/undefined/undefined.md) 
+        - 
+    - Graph Theory
+        - What is a shortest path from the starting point to the destination point?
+        - **GRAPH THEORY** is the study of graphs, which are mathematical structures used to model pairwise relations of objects.
+        - Origin of Graph Theory
+        - ![](https://remnote-user-data.s3.amazonaws.com/h5X3bIH-Ds5uQvuinHhodtSQWfRllzW3eH0a20kckYJzHmDGug1QXv4n91jvQ5dtZbzRh0RRhibiTvtiUbPkZxuzb4vnytymqm37byEJlpHz7R5Lx6yGck4vRfUZWhSV.png) 
+            - This is Konigsberg, now known as Kaliningrad, in Russia. In the early 1700’s, people from this town posed a particular question.
+                - “Is it possible to take a walk through town, crossing each of the seven bridges just once, and ending up wherever you started?"
+        - The famous Swiss mathematician Leonhard Euler heard of the problem, solved it (its not possible) and in the process invented Graph Theory.
+        - Undirected Graph
+            - An **undirected graph** 𝐺 consists of a set 𝑉(𝐺) of vertices and a set 𝐸(𝐺) of edges that which join two vertices.
+            - **Vertices **𝑢 and 𝑣 are **adjacent **if they are joined by an **edge**. This edge is denoted by 𝑢𝑣.
+            - ![](https://remnote-user-data.s3.amazonaws.com/Ert6YxMhXjaf7ONXpMjziyJk5RA2tPS7-j8z3FV9bekzQxb4sZX0DhCB3Z47EShnbzRylTzdeOkMOWLtfyLQp3ypyUYIjkktEtKoNt5FXD0lMJjzzyGyf4jratj-a2xg.png) 
+            - The **order **of 𝐺, denoted by |𝑉(𝐺)|, is the number of vertices in 𝐺.
+            - The **size **of 𝐺, denoted by |𝐸(𝐺)|, is the number of edges in 𝐺.
+            - ![](https://remnote-user-data.s3.amazonaws.com/Xa5y_K4KUFSNfHHKgzjFVpexbmLpLNZ63dN1rCd21rw4X-bFi703fv14HVVJKiEcKDqtQKQMymTyqpSYGS6wg8Cz_OZB_vC0-3RyiPRdnKU6NrEYumbN8CbhdgVPWOvk.png) 
+            - ![](https://remnote-user-data.s3.amazonaws.com/sfb0ck2tvO4FuRl2I7738fVSbe_nXb_accHchiP8GXR7gMbuJOpQWzKn9OJvNvgeUQ7b4OpH72ICjEaYHEA_YdU7pUzOoikTPqriur9fpclqVlL8-TiUWC40uktzDd3E.png) 
+            - The degree of the vertex 𝑢, denoted by 𝑑𝑒𝑔_𝐺 (𝑢), is the number of edges that are incident to the vertex 𝑢.
+            - The neighborhood of 𝑢, denoted by 𝑁_𝐺 (𝑢), is the set of all vertices that are adjacent to 𝑢.
+            - ![](https://remnote-user-data.s3.amazonaws.com/E8M4o9_SxkBOtpz9Lvt1ygvSotTx85tKepc9upDeUyvbCt1R_aLnHlLlKtsz0P1e3sTQTk5bjsnWprpL0BphWcUwrNh0rdgzYPHn92HyGnU3M04NY_retX-HH6MrCxVg.png) 
+        - Walking on a Graph
+        - A walk of length 𝑘 from vertex 𝑣_0 to vertex 𝑣_𝑘 is a sequence 𝑣_0, 𝑣_1,…,𝑣_(𝑘−1), 𝑣_𝑘 of vertices such that two consecutive vertices are joined by an edge.
+            - Denote this walk by
+                - (𝑣_0, 𝑣_1,…,𝑣_(𝑘−1), 𝑣_𝑘)
+        - Connected vs Disconnected Graph
+            - A graph is said to be connected if there is always a path from a vertex to another.
+            - Otherwise, 𝐺 is disconnected.
+        - Weighted Graph
+            - We say that graph 𝐺 is a weighted graph if all the edges of 𝐺 are assigned with numerical values (weights).
+        - Directed Graph
+            - A **directed graph** 𝐷 consists of a set 𝑉(𝐷) of vertices and a set 𝐴(𝐷) of arcs that are formed using (ordered) pairs of vertices in 𝑉(𝐷).
+            - An arc from 𝑢 to 𝑣 is written as [𝑢,𝑣]. In this case, we say 𝑢 is the **initial vertex** while the vertex 𝑣 is the **terminal vertex**.
+            - Similar to undirected graphs, the **order is the number of vertices** of the digraph and the **size is the number of arcs**.
+            - ![](https://remnote-user-data.s3.amazonaws.com/waxPTAsreRkaa2WDja1959uTXY_9l3QRBAzXGp8SHYHcXF9igi5jCREYenysfe3qxcUSGNP7rHZQuIYNSf2kq-Rq20IgeWH-yEkBbyPxTypC_EaCpdgsGT5_R5-Z3bvu.png) 
+        - Djikstra's Algorithm
+            - Is a tool for determining a shortest path from a starting vertex 𝑠 to any destination vertex.
+            - It applies to connected simple graphs (directed or undirected).
+            - State of a vertex: distance value and status label
+            - The distance value of a vertex represents an estimate of its distance from vertex 𝑠. This may be updated everytime Dijkstra’s algorithm is used.
+            - Status labels: Permanent or Temporary.
+            - Once a vertex reaches permanent status label, that means we have determined its shortest distance from the starting point.
+            - At each step of the algorithm, one vertex is designated as current.
+            - 
+    - Minimum Spanning Trees
+        - **Minimum Spanning Trees (MST)** 
+            - Kruskal’s and Prim’s Algorithm
+        - Path and Circuit
+            - A **path **from a vertex u to a vertex v of a graph is a sequence of edges starting from u and ending in v such that the end of each edge other than the last one is the start of the next edge in the sequence.
+            - The **length of a path** is the sum of the weights of the edges of the path.
+        - Trees
+            - A tree is a **connected **undirected graph with **no simple circuits**.
+            - ![](https://remnote-user-data.s3.amazonaws.com/7x6M2pJ18LP1SQgEnuNYw5wjToF4mdavymJIcbooljXSG8cox8iRBiciwXLAqG5QKmrpkEOdUKW-nHrmUsY7w4L4VREP34AWL_4i22j6ovRsRxFtfXvL-Tv08sB9jamR.png) 
+        - Spanning Trees
+            - A spanning tree obtained from a graph is a tree which uses all the original vertices.
+            - A minimal spanning tree (MST) is a spanning tree with the total weight of its edges as small as possible.
+            - **Application**: The concept of MST is used to find the least expensive way to connect a set of locations, terminals, computers, etc.
+            - ![](https://remnote-user-data.s3.amazonaws.com/dKLq06cqSclShrCc7-Dyvd11LyXqFqN1GVrfvRdllISX7E3240zarunXLY51IMMV8tIiF_GPCu_MPNIrAPOnuZF-0J1n2oylHlxxDZ2CMRn4gRlNGDxWWS4-0AK_9LWe.png) 
+        - Kruskal’s Algorithm
+            - 1. Begin by choosing the shortest edge.
+            - 2. Choose the shortest edge remaining that does not complete a cycle with any of those already chosen. (If there are two or more possibilities, choose any one of them at random.)
+            - 3. Repeat Step 2 until you have chosen n-1 edges altogether. The result is a minimum-length spanning tree.
+        - Prim's Algorithm
+            - 1. Start with any vertex chosen random, and consider this as a tree.
+            - 2. Look for the shortest edge which joins a vertex on the tree to a vertex not on the tree, and add this to the tree. (If there is more than one such edge, choose any one of them at random.)
+            - 3. Repeat Step 2 until all the vertices of the graph are on the tree; the tree is then a minimum-length spanning tree.
+            - should yield the same weight as Kruskal but maybe different connections
+- SMC Stuff
+    - Weird Math Tricks
+        - 
+        - ![](https://remnote-user-data.s3.amazonaws.com/-2zMo3F_mIfmhqkVfHO0i16GizDXyMGepTaIVnyrjinHxmtAo4Ju6JNacbWIzTPG_-Z4UynSFEK-UUb8B1USFBHFa1ueNGfIFMNjsKrUF48olK54Exa3G7JHm9sgmYmb.png) 
+        - 
+        - Stirling's Aoproximation>>>
+            - 
+
+              $$n! = \sqrt{2\pi}n^{n + 1/2}e^{-n}$$
+
+               
+        - Triangle Inequality>>>
+            - 
+
+              $$a^2 + b^2 > c^2$$
+
+              
+        - factors and ingenius factoring>>>
+            - 
+
+              $$x + xy + y = a\\
+x(1+y) + y = a\\
+x(1+y) + (1+y) = a + 1\\
+(x+1)(y+1) = a+1\\
+\textbf{find factors for a+1 if x and y stated to be > 0}$$
+
+               
+        - Rational Root Theorem>>>
+            - factors of constant term divided by factors of leading coefficient +-
+        - Triangle Geometry Problems Strategy>>>
+            - solve all the possible right triangle first
+            - apply any identities on the way
+            - solve for the trig functions by equating in some way
+            - solve for a trig function and then solve for rest to get back to the lengths of sides or measure of angles
+        - ![](https://remnote-user-data.s3.amazonaws.com/ukEb3394xGRALSGp6ruXlI21RY4s7ZIGSOHB8rZYYV_yfJGwybNUKVb4GOqA5b2pRR2ilxp4EyzWI0wRoSx7iHHDt9q3m8liyIawgaNxbXKanNg2yecOhU3oqTnWxuim.png) 
+        - Algebra Tricks>>>
+            - simplify/manipulate equation such that the two sides are similar enough or solvable
+        - 
+        - Divisible tricks>>>
+            - 2 - if even
+            - 3 - if sum of digits divisible by 3
+            - 4 - if last 2 digits divisible by 4
+            - 5 - if 0 or 5 last digit
+            - 6 - if number is both divisible by 2 and 3
+            - 7 ⇒ rest - 2last divisible by 7
+            - 8 - number formed by last 3 digits is divisible by 8
+            - 9 - if sum of digits divisible by 9
+            - 10 - if you know the rules
+            - 11 - (sum of digits in odd places) - (sum of digits in even places) = 0 or divisible by 11
+        - 
+    - Jeopardy Algebra
+        - ![](https://remnote-user-data.s3.amazonaws.com/uhtLUXwj2v056G0yNkSqNmFcuiPVjaZ-1rERJefc-htWJKX9cDl54Kb-O8egS-cIyBrq9YE4vWBnxCirNlDr2nl0CXFlHaN14zBBOp_6fmEgrFG87gn64xiu2On4TO9Y.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/cHLEygOnzAwgHbAnV3CelyKKRKOt0YPdk7au9fmeVMRIBJfJLrtUkL_mC7oSnjDWW1wSNRgAbNb0Djg7gQOv2o6KaPAo6fUjx17phM14-GVBGsbXS0Eh-gr2uBjqCTkR.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/YH6wJYKUoG8JIZfW04GDhC2CYledNT8dlEyh2B7J_leMVUn-vXU-0U85lCzq5y4CFySZ9Iac_0BlOWkH7jK2mmL3BpM7BZcGScVePFxNaeVAoJnXDCnJYpm39R80PWEE.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/-peZY5ZrhOdWuh3N_-tcoypdK9AaTTecPGJHtYbzEGMAauqN3bEln8aYnASAVzj3oSxTvRCS9GULdqbMmcgtucsIw4XrrKUq4ahps7sKvdT5tF11NRT-AGADudlPOKvv.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/PBtakaXmV392g3bU0XypN-fEx9ZcHOY7JIosL6bSHSTT6V-z80Egegq8-BdNnjUZGYpnW2moGfCVbLrVOGyIC80_2puQfjziQFG38XqXCGJOyFqDAXWDJxYnorYoqmvi.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/VHQsZB0dh0kuV8RX3RC13sA51bQqUb2DLPY9aTqRsgLf_o6KykUS6XTFw6wJCrb-REdYKrGh1unWo71yzXTz3iUwrgKCGAZQYILQArktNoPtUV5C3Sq86W4nFnhKXtAg.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/c9Bv6joXF8GlJCteF_eJPsAr-qknSAminV_EA-0NQzD_QG56coJiJ7T-VModhy8VFZptCuYn88gBmzhw4L1iLpglt7zxxBlKYEmk59IMkbG8GzVcyf9vbFrF9Afc81xF.png) 
+    - Jeopardy Geometry
+        - 
+        - 
+    - Jeopardy Differential Calculus
+        - ![](https://remnote-user-data.s3.amazonaws.com/nmFVw1uz6tpFB11CjM2NTbt836K3Yg55Eo2QdHwVtXJNAo_xn91ya5cviITQakfdI6gdzbHBVpQEEPhnV-N9RJgMkl_gXkSC34ldPpzq_DTnSF67k5b7FpdfOO3Gmd9Y.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/5Jrb-SqAPg9o43zwrBnKCU6Or_BPpSxCzsGTy6D-o6p-3erI6kf3jCudVnN0r5VKUgn0at8hsNw565wbT2Msaal1Q_wpV6SRXtjba79sxZvZPOMG1fNmg0XfNDCuaiMU.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/2DqXe1wvGlWmkzXDDpWLhzGiLvmhfn8ZnpR2idlk2uz6c4ZtvYkGVebeXfDReu-uMKhV3eHUDjksInsXE2g_70e7eOb0JBOgGHlOzkmbji0zvsGMVWgmzsYWHTYYdr_s.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/xRWq_4o1xNMpJjAh97g1Cd18ShrWbtCKzhZYcLTkdqTBfoHiM737CzAvg0n7ZTRukVVdoTn9xmthWmsDa_7U6VZNeOCVlQPSMQ0wxiPA0tJn5iIzuSQmspumNfpC61Zn.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/OvdAoCCGXbfNKFT1t3BFOt_3GgCFvqJkJ3NnfBVpkOaEjwrJbRNBAvMUwqrEBONYyd8R6D8IhtWv5DVHyj8pvs8cMXpoEK3BFDUgJjgKl__NAQVKjhmTg2sbAHvKcX-o.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/rmu_XLvljZORvRyx6OHEYRwfzX_oWRZKSC68V6XIHbQb8UCovMG48MntHhl0t3ggRmdYKrpSR16524IXxuRs908KS93oX5gHeiNiCs7NIfjrAuwUEroo7PvIM56N_Vgp.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/SCYIOCYjypmESsRHyw2C6tY8JmQIqQ_yuAZJqZyq1QyHXUUWyS0PV-GJaGf_rmNjdJdXbpeWs8a1qOsFeiqQuqePKFkcOp-_jAbFNoVlKHfNQLUC5696uYwXZUYD5Tae.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/6vAmmymNUERT3xYR2F0qnEDK-YNnocnqbdUtUSbQGICAde85cDNdQunXwbohlW0d44SkeIlPXAcaqfjW6UjaOa2536n5mH7SNdaAQ3lpSg_WAmE-wSHiUXN7Zh_HNw0q.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/M5hA76k17jCdzZfm8w9MsW9AbLmwGHpr_OX7-VGqRnFC5HWquw8zx1kkfmVm5Eqnabx98iHi7iSRVTTH56j2ToVGx_0WNRlfUNmTyqYLrZVg-6Dixm_hUGuxMNtR2k12.png) 
+    - Jeopardy Trigonometry
+        - ![](https://remnote-user-data.s3.amazonaws.com/vmUykKTBlcIEnRJVOcAqOnQn__LRixzko8l0d--dDx-t8PxgSPgfJiO8f-g-ZTcYuRER3HubvFoLiT1JXrx3Zz9l9ccVMXZ73_Y2uKCGUdFse6GmmAfxkjiPW9clTkI4.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/sCnpEb3_VsS_g5NSGbjebehCCzsGy6PPj6Eh3PhgWOagL6BPukyveELm2Y3pjuz11MPgBsm9a3VpqfPwvCW0pd2ci7QL1nQi_j6pOk-Azm_g68UM-ErKY2wy-IIezRZP.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/uc6K9cH83y5KTBtHaauKmcSvxehTbG2HwJ-zaTOJXxjxRRLTLcNQli0fYyA3Ul-6d3EALcft1k15A0Rk7sSy86P1MiPkV5KynV2Fs0ujXyhpeNSTBo4T0OWco28s97iZ.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/uuXA7Oox1QWbG5MKMNcHHgenssPdbxnPTfdSvg1_AKc2pvLN93U_y8vrZdVNSH07HJsl6luZOvvSxliJZbUiLtdlPdtNEpaN7P3d_VUYe4-TBfWHc2YWnE7SlNAljlnP.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/jXY3_8xtbQwiJ_ubfm-WBgI34aaowM8wZ1oNWHOkeZvSOsx5YmmZmWtJPc7tAVbH8UTKqwZMtWCiXD_Z3IfwuswC727b83VS9FmIxEWxxVj_tgi4jglviClttDc8iWSq.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/Sf8tH3BnIOQO5ojMpchiho0d9yMCaCH8gwvIZl1lpvyosO88ttO2Uy0mNSI16UqHxWw_CpeZaA6Z_IteGB2WnfFqJnIO5a7ylTbAXwM7TdlG1iIaW33k0GrQMwc86a6R.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/1NvNzW7Iph4Y0ClVh02RExg1MqRwH9wOnQXLtdiq2itqHzI6xNV5JK_Kna5zhcb7VGyMKBmu5AJbg_DHI3fz4pRjDGjLX96f-F9lWciawg6dC0BqV41wdNVZrAfjo5Au.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/xpozdcFF3Rvl4rmRg0KkjtQIGzGyMUbdUBzehqOfEeWrmkdX4sV0WAMJtvOGUxNNKhL3_LtBRUN_GLvBnqcOJXf6NTExdXCno_R107CpQNNTZFid4qAd2DVBtBghacaF.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/7reqCNgb3tBrLSYLGajypdioR_C8GPszwl0T7D8e2uKJ6NxQ1dpg5NooTTVeYIPvKfg4ejO7HjxQN1FTY0Q8HXL4dCTJ_WLPX-WEcy9TWtvBIjze8bhmp5WhQdi79DCa.png) 
+    - Jeopardy Statistics
+        - ![](https://remnote-user-data.s3.amazonaws.com/2AUZeAm2PjKcUUS03r4L4aummIZkHQXGdZq7YVsszaQGZetpwowKeMg2FWWGojAbN83HtLL01Mu53tuJFJozLBR6JBt5odq5yEjaEPZVHKsaFkKJY6fvcVZ6Aa5rRgdw.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/tfQB06Wrdr9dEcWTSiukita_8ZGH2T9ParjoNtI83agnbzIskNWruwK9UFi-Wb8Z0xWglrzqtG3N_BB0XHfVTkYcAK1OJ7BN-zJfF15VaeyVKp4mwPf_9j7DmbjvsqLe.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/0GYCCzEFSUD27LQENLn_iJJbQ-20EHEWHT8sFGbyMrNkEAuQTnWJ_2RuznKnntuYZAQpf2pAlxZfMMbdHzSst7iNFX57S42A7tUE4JGou83JnXL3uJZtdv_KZbGhILrP.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/hItrFhrQbSGShJMJaCW7jSPWm654htgeywcvTlJv9RFgevD9iRtgiBW4_5KiJrOsX-E6x3Tpn6Mqnq5NdcQ8ApUnhAyiZQsbKfj-xH0zPKlotyRUbfApKfyAHiv1470C.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/KoKUfrwXSgnsYMc0um-XO7X5L4WYzjxEzcSIHTOH6jPKdfHc5-782xpygFWhYL6H1bJLm2m85cYf0sC-RQdKTRmcMp8s56x9QX-1AhchGA71SL7gCahfAhc0D_hkDiFQ.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/nSnVXSpK_tkZbVw5GVasXNtt0Thx8SKN6ZIM6EqbkcNhehQnMx6Ixzekjhwh8vP_fZ_l2BvQgFBGymw_U1bSLprABQsTepE0v8R036nVNZLUku4ahfwdFdEBPzPqPqTQ.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/ksJTnvj-Y5GcCNQIivbvDe4Du_BiV3Xv0RpX4HUmjg84NKDNDc3vXEezPucgJw02zI36C9Fj963PP_LmyI5anD3yqyW04zsmJsZlYwJXXzTT3TeSWcqXvMPGdGZO3Exr.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/1XNpn99mNAsCvFOpzeN3pwZUqGKhRXo5XZvgjmy9N2NVrvGEhv1hqNCdgWHrNv_eiblxO1KqpqV2eomPHCqUHVE_pjovhO6FDvrTPeyn1l4f2B2DcE20QNRgKMt4jdYt.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/Y31Z8qOapV0iWrub00z-YWcWrXmhf1aYZb7WQF53VqxYjZV3DfBq_b8T2olIdNoj3ZYd5PNQptPiivdHQ6mFqyYLqLMEAVl3reoWwjQIccJYJ-d7NijoAmrC9U_FIEaI.png) 
+- Partial Fraction Decomposition
+    - ![](https://remnote-user-data.s3.amazonaws.com/Cb1iY9gMgb_5_-zUgiTBSiunFiU2EZpdz4oDdT_K5YtsFU7xbFcHcg83d5yEiUglxJpgt0NTS5IS-aTFbNKcE3tzWzNkIBhydJ40oITyxZ9JGBAdyKMsfAKGIuZDA9Li.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/tFc8pQo2AFj4TGkzlS5id-RM3uHNorHnZVtA9g7BDz50_W3d_LEQYKRfm2iHRk_rrD9kSmYsKhRnCFeL-WE5JJniLoG0q-iEJsyxq1S7Tv2HcZLN7_KErD99gH219EDd.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/oW9Ypy1tUI-5E3927ughTUAryfjuDybGPmhkV2JIJdKBbE7EbADOv1pk8bMPyvL142bILsrGOXExOVgKxr7W-FlvrTJGvyqCIY1n8hC0gqK_G3lBx7h3eXLzt9t4m__w.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/5xhOjzaw7R6OhnrHVuKKly_M0n3RGeNld_iheTPtVh0PxxG-QN2YSXaApv3Z_KJQLlrzDrG6q0jdJID8lKM9GfYf7sUz-fLohxsD1g0jOrCJPklby3DEZg-o1XmAJPHM.png) 
+- Trigonometry Angle Identities
+    - ![](https://remnote-user-data.s3.amazonaws.com/RkOq6s-3GX3iSUcFXspBwOTtXeb4mrQCPvPX912L_g7XfrhQlA9OPr1wAPE7ZwEOr9wUpYq-7Hnd4R4NYghQOxg2JG2o6CZgoumDL12Ew-N9VC5gKZLexusmOFaW98uS.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/sYHo8BRPebbJzDVS5FwGzjBsTUejAzRnn14LUdmUROjxRqptZrn9TCUIitA9hpqVZwd3yZZ3qRPsLJwArYyeYcbufHXE4LRNU91ft2_Hs9AdlI3g9nbLGNxVnheL-eYo.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/SB_ZSgvrqSgUavnUezFjVT0fxUEr6bSL4EmajYryg6s2zNkVWiryb6TEDNbVq_zUX0vti-BLnEB9vgC_pq-q7Vlmhs7PYNaZCjNZixLk60vHRh1TNyzw4qGMXgkXTTnw.png) 
+- Conic Section Properties
+    - Ellipse
+    - ![](https://remnote-user-data.s3.amazonaws.com/WE47x1WciTXVGBeV0MZT9tX73FhJwO1tfZ0avFBxJBbTdYnlpObuVcLpiat2NNbJVnKQ1fpQdkcpcNlFa0PmEgAggQwBZfrhqRNFTApqiqomAfVqJoXTz_i-SM4FtqtW.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/1i0VypAnzZ1hg_C_Hc5EiTXydRPr2l-kQm4KNbztsOVJUbd-FVJefVk0oYK40yrmqZVhs82Qtl2MR-793rxZmSJdowF08VzmF5mOiqL-cAlTT3-S6f9vLtFrUsWOJuYU.png) 
+    - Eccentricity
+        - eccentricity→$e = \frac{c}{a}$  
+    - ![](https://remnote-user-data.s3.amazonaws.com/japO0bEsGBzQNIUZUTMCTzZmQv1XmTJPiFeYmgVr_mW4VT2FdmU-JmvNV97Ll5QLBY2rJotj1BdeaZJJa8KfC6QjozbH-eCMExHWw8agqH0gC8C2WG5IldPJabudzlYl.png) 
+    - 
+- Hyperbolic Functions
+    - ![](https://remnote-user-data.s3.amazonaws.com/gMtM46EqltiljU6C00UVYBQ7Db23x8tpU8Vc4mf4aScuyy4Ezg5a06VoaUpwCufOy3HpLdOw4aVc9cZ52m_Vyxv3NgKTEbfF1ryGoCGeh102Nk4dqJoSZVoTQ8ZOEQPQ.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/q-vD6piFFsFam5B2pmP9UrlrdNYp8VRdUK4Lc2996IRBpbf8CJHNgecp-0qoUtkmwkl-rafGrZvDHZEWN-e26KkCVhXABH9TexI7xCRLSWsweQcjR-Zbffgg4URUdLsI.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/_HbpWs2uTb0T1XQed3xzbOO03Xyt_MRKb_np9i9GyunzIaiWqjPt3hrO9kK3uW9XoFQcGH8pvfC58quSKXB89-QdX7HlTI-Reqeexjx_4dRJYQEGPHxA2BXTWRyEGB1r.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/j71nqr9sMAVzmJmVdoJimYJCo5eZOOIHreYXriFNuOAZdq8Dje87ByJ4CVGbMpFN6JY33XHSxQ1mlQDCoufU8hhf-fDAEqg9lEEZ44usXALaUOCrPGh6EUjuJTcKx8Tv.png)![](https://remnote-user-data.s3.amazonaws.com/kuAiopnRfY1kZajVC5nEV8L-48Ffm49knIkI5uW9_ktj_VEhKXACkavYJHdsB51Kga5w9TbgOjNpdWa9fPyzr8nopzngf3YoMDrqtOR6WI5K_QQA0-lUzysyqmQFpJem.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/UR_2DGHo9gzikTJbf00TJn29rLesWtu6-Fr6oyyffTagkWKroZKPq9y3rv8U3V1j5uOVso2hFO6MuDGhPe8bAoEEixKde5_47yj7YRt6fwRqQ83WVUV51ZoB5CofcSkh.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/Y443wbvYt8UIcNxQBD6F0Lk0FX6GWgu9gcNCf5CUv4pVJJWi1WnyBjYah-lk9j7F3fRk91n0dw2KWbPAgrBny9xtUcrabIuylIfHQuGpr3dIDvFeKkS8OfPyJVW_tOEX.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/TM6O2ddvCeJYdgL1XSszP9dvN1VkFFhEzrQ11sjIe9jKdZkWBoNm0L8On6k56VUuxPWj0iDJ5DhayIyfDugY1jE0FEav9m1ySU0I5ok3hAo-WscHntVpi7anf2zG-gIH.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/ms2ZhqtoWhpcnYGwfFPA-gDjpZi7c_tXQOyGCtejZFDZtwBJsWh1lWJ_TbaudhsKB2HiUNnUlNUcm_BcOHWhV0g-Q-nPs79E6UjjdsWwvOi0gZGXCVNMbRae-wQCKfyC.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/J2CsCjJeIxqcFQj9-kX1B9F_KrglSTqSLKnzRf6Br66kKhyZGOUdcTLBLoDDMe1eeX9hE4_cVjv3gfKJ0gr_lklQ9eZJs6m031UxkylP7DFqjfQZftqLDgEeOoIOidfg.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/UXJO3QvnTgqKjRs_mGOyVrgef1aZsdm6y9nnXUmmghDeYyXrzt18h4JXMLsUaPOIhvmumC0GBQjMSYSM64rfrpfqsxyBEmvfJjX5KUl2i61LeVc4mkD4hUSX4SRfrDJK.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/-YoukBGZnbHITlLvCdoSna8aZG2SoT4OqlbQNk8pfeXdsL-NgxTWzgM2EFcstHw53roP17K1Sk4t7aCLz-CgT4toIBW-jJQDm4CG_zK3wdGWdTopgM8b-x-GAg_QT7Dh.png) 
+- Infinite Geometric Sequence
+    - Infinite Geometric difference where r < 1
+        - ![](https://remnote-user-data.s3.amazonaws.com/CFcxTQJceIMcwLMGHTLRUtIAKSYZKieLvrgQXAGHKN4SKLjaWP4Mpdg5aUdzV8Ecvkgfsdv7E8zo5tIj5744q323HvDHfVnRnaixSzAGF4VO9RzepRAfBSWROg_J-uA0.png) 
+    - Sum of a Geometric Sequence
+    - ![](https://remnote-user-data.s3.amazonaws.com/nnLAhVhBkT-kqeqCjm5uzdQkdkmIKarOBBYM76bI-T9pudZEsfBB0SKIBZHByUjFdzY_ntUX8NWRQTtB6nco9jGGWZgsh2nkbbgvX9WXYja25AT1lY3VL6pS-7kRjgas.png) 

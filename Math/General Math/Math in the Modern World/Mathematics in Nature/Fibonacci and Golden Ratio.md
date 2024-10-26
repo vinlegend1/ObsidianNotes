@@ -1,0 +1,10 @@
+- [FIBONACCI SEQUENCE](../../../../undefined/undefined/undefined.md) 
+    - [Leonardo Pisano Bigollo](../../../../undefined/undefined/undefined.md) - who fibonacci was named after and inventor of fibonacci sequence
+    - [The Fibonacci sequence was the outcome of a mathematical problem about rabbit breeding.](../../../../undefined/undefined/undefined.md) 
+- Golden Ratio
+    - [https://remnote-user-data.s3.amazonaws.com/ZFVy451vtwA03pM_a_J463Syfd0IYUAiDa3VJgRgbLYJHfOp3sWNzn_NyEO5mse0Nuio9bXhnCulFELb6MUlvel0oTki7ZEingSoq_owqqKVqOFSwMU11lV6QYt6k9C8.png](../../../../undefined/undefined/undefined.md) 
+- [BINET’S FORMULA](../../../../undefined/undefined/undefined.md)
+    - [https://remnote-user-data.s3.amazonaws.com/LPt0eyEl2ERAPUCgKKbXvW-rJOggIxKDdvto2r6cres0MtRvx-T9v6VQMF98wNqelbIvvsG3eEWnkLGMmw672PxikCgwXxsSG0cGfPnfmjKzvbU_RDNaBhDIlzycE7Mt.png](../../../../undefined/undefined/undefined.md) 
+- [GOLDEN RATIO IN ARTS](../../../../undefined/undefined/undefined.md)
+    - [Shapes proportioned according to the golden ratio have long been considered aesthetically pleasing (especially in Ancient Greece). Many artists, including Da Vinci, have incorporated these shapes and ratio in their works.](../../../../undefined/undefined/undefined.md) 
+- 

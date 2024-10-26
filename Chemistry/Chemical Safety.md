@@ -1,0 +1,230 @@
+- Safety Data Sheet
+- Toxicology
+    - Toxicology>>>
+        - The study of the harmful effects of chemicals on humans and other organisms.
+        - {{Toxicity}} is a measure of the harmfulness of a substance. 
+        - Any synthetic or natural chemical can be harmful if ingested in a large enough quantity.
+    - In vivo testing>>>
+        - The most widely used method for determining toxicity is to expose a population of live laboratory animals to measured doses of a specific substance under controlled conditions.
+    - Dose Response Curve
+        - ![](https://remnote-user-data.s3.amazonaws.com/pWCX5nKZdYNwN1bzgBsjHkJcd0P4y31e_ZdlnOnds7n-uJT0GIfHNwxsMv_0zeCRgVuaqo2OxHLdnQDcRaA1v7ACwRxSli3HsNHwCFcLDHfbapL42E5Fjfr8gKHnNwcq.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/YvtN5eAi_9x0zqQgHoeHbOJ4YYkpVtb7mrUP8NJm8xE1KW_L7bFs5DtCZIr0q934aE6D6AfXM7IOkaZCGraK9BYVSB5SOQPUPxI-c_cQi9FeqNt5bLcHM_8U4DeuV8wf.png) 
+    - Many factors determine the harmful health effects of chemicals
+        - Toxicity also depends on {{genetic makeup}}, which determines an individual’s sensitivity to a particular toxin. 
+        - Some individuals are {{sensitive to a number of toxins}}—a condition known as {{multiple chemical sensitivity (MCS)}}. 
+        - How well the body’s {{detoxification systems}} (such as the liver, lungs, and kidneys) work.
+    - Many factors determine the harmful health effects of chemicals>>>
+        - Solubility―water-soluble toxins and oil- or fat-soluble toxins. 
+        - {{Persistence, or resistance to breakdown}} such as DDT and PCBs. 
+        - {{Biological magnification}}, in which the concentrations of some potential toxins in the environment increase as they pass through the successive trophic levels of food chains and webs.
+    - The damage to health resulting from exposure to a chemical is called the response.
+        - {{Acute effect}} is an immediate or rapid harmful reaction ranging from dizziness and nausea to death.
+        - {{Chronic effect}} is a permanent or long-lasting consequence (kidney or liver damage, for example) of exposure to a single dose or to repeated lower doses of a harmful substance.
+    - There are other ways to estimate the harmful effects of chemicals 
+        - Case reports>>>
+            - provide information about people suffering some adverse health effect or death after exposure to a chemical. 
+        - Epidemiological studies>>>
+            - which compare the health of people exposed to a particular chemical (the experimental group) with the health of a similar group of people not exposed to the agent (the control group).
+        - Limitations of case reports and epidemiological studies>>>
+            - Too few people have been exposed to high enough levels of a toxic agent
+            - Takes a long time
+            - People are exposed to many different toxic agents
+            - New technologies or chemicals
+            - Different sensitivity to chemicals
+    - All methods for estimating toxicity levels and risks{{ have serious limitations}}.
+    - Why do we know so little about the harmful effects of chemicals?
+        - Only 10% of 80,000+ registered synthetic chemicals in commercial use have been thoroughly screened for toxicity, and only 2% have been adequately tested to determine whether they are carcinogens, mutagens, or teratogens.
+    - Common groups that cause health risk
+    - Common groups>>>
+        - Acids and bases>>>
+            - corrosive
+                - ![](https://remnote-user-data.s3.amazonaws.com/I2soYMTtfoAMoGQye_BDLyn1TruOOg7oqIA5cPfsSqIsshfSFkO0MDJqn9hAYBxD1QGrEftEPd58aftYSYwMZF_SQBo3opG65FQW7ll-CWsaLO8eXdiZQ_1cqN8aIyVS.png) 
+            - Strong acids and bases, especially if concentrated, are corrosive
+        - Dusts, fumes, and gases
+        - solvents
+        - pesticides
+        - metals
+    - 
+    - Severity of harm from acids and bases
+    - Depends on the following>>>
+        - Concentration of chemical
+        - Duration of exposure
+        - Routes of exposure
+            - Skin/eye absorption: Mixing strong acids and bases or adding water to them produces heat
+            - AWA (Acid to Water)
+        - Ingestion
+        - Inhalation: Mists of concentrated acids and bases can be breathed in and attack the nose and lungs
+    - 
+    - Health Hazard
+        - Chemical Burns―Tissue damage caused by exposure to a strong acid or alkali. 
+            - A first-degree or superficial burn―affects only the epidermis, minor discoloration of the skin
+            - A second-degree or partial thickness burn―affects the epidermis and dermis. These burns can be very red, inflamed, and painful, and can blister.
+            - A third-degree or full thickness burn―can cause extensive damage to the epidermis and dermis, as well as bones, tendons, muscles
+            - Common causes>>>
+                - Car battery acid - sulfuric acid (H2SO4)
+                - Bleach -Sodium hypochlorite (NaOCl)
+                - Ammonia - NH3
+                - Pool chlorination products – Hypochlorous acid (HClO)
+                - Liquid lye - Sodium hydroxide (NaOH)
+        - Corrosive Poisoning―Poisoning with strong acids or alkalis capable of causing rapid tissue destruction and shrinkage
+            - Common causes>>>
+                - Metal/toilet bowl cleaner - Hydrochloric acid (HCl)
+                - Car battery acid - sulfuric acid (H2SO4)
+                - Paint remover/drain cleaner -Sodium hydroxide (NaOH)
+                - Metal cleaners (nitric acid)
+                - Rust removers (hydrogen fluoride)
+        - Acute Inhalation Injury―Injury in pulmonary epithelium at various levels of respiratory tract, leading from simple symptoms to severe disease due to short-term exposures to toxic substances on the lungs.
+            - dusts>>>
+                - A common air pollutant generated by many different sources and activities such as grinding, milling, sanding, etc. 
+                - Common in urban areas
+                - The natural erosion of soil, sand and rock is the most common source of dust
+            - fumes
+            - gases
+- Chemical Risks to Human Health
+    - Why worry about Chemical safety?>>>
+        - Chemicals used everyday at home and in the workplace can be hazardous.
+    - Risks and Hazards
+        - Approximately 1,000 new chemicals come onto the market every year, and about 100,000 chemical substances are used on a global scale.
+        - Hazard―Potential of a substance to cause damage
+        - Risk―Measure of the probability that harm will occur under defined conditions of exposure to a chemical
+        - risks are expressed as {{probability}} 
+        - Risk Assessment>>>
+            - hazard identification
+            - probability of risk
+            - consequences of risk
+        - Risk Management>>>
+            - comparative risk management―how does it compare to other risks?
+            - risk reduction
+            - risk reduction strategy
+            - financial commitment
+    - 
+    - Types of hazards
+    - Chemical hazards―from harmful chemicals in air, water, soil, food, and human-made products. 
+    - Biological hazards―from more than 1,400 pathogens that can infect humans. 
+    - Natural hazards―such as fire, earthquakes, volcanic eruptions, floods, and storms. 
+    - Cultural hazards―such as unsafe working conditions, unsafe highways, criminal assault, and poverty.
+    - Lifestyle choices―such as smoking, making poor food choices, drinking too much alcohol, and having unsafe sex.
+    - 
+    - Chemical risks to human health>>>
+        - organ damage
+        - weakening of the immune system
+        - development of allergies or asthma
+        - reproductive problems and birth defects
+        - effects on the overall development of children
+        - Blindness & death
+        - cancer
+    - Some toxic chemicals>>>
+        - [Vinyl chloride](../Chemistry/Chemicals/Vinyl chloride.md) 
+        - Asbestos
+        - Carbon tetrachloride
+        - Mercury
+        - Lead
+        - Thalidomide
+        - Methanol
+        - CO, CS_2
+        - Arsenic
+        - Polychlorinated biphenyls (PCBs)
+    - Types of Exposure>>>
+        - Air and inhalation
+        - Skin and eye contact/ absorption
+        - Food, water, and ingestion
+        - Transfer across the placenta
+    - Some chemicals can cause cancers, mutations, and birth defects
+    - There are three major types of potentially toxic agents. 
+    - {{Carcinogens }}are chemicals, types of radiation, or certain viruses that can {{cause or promote cancer}}. 
+    - {{Mutagens }}are chemicals or forms of radiation that cause{{ mutations, or changes, in the DNA molecules}} found in cells, or that increase the frequency of such changes. 
+    - {{Teratogens }}are chemicals that cause harm or birth defects to a fetus or embryo
+    - 
+    - Our body’s immune system protects us against disease and harmful substances by forming antibodies that render invading agents harmless, but some chemicals interfere with this process.
+        - Arsenic―DNA damage in immune cells
+        - Methylmercury―effects on inflammatory pathways 
+        - [Dioxins](../Chemistry/Chemicals/Dioxin.md)―immunosuppression
+    - Some natural and synthetic chemicals in the environment, called {{neurotoxins}}, can harm the human nervous system, causing the following effects.
+        - Behavioral changes. 
+        - Learning disabilities. 
+        - Retardation. 
+        - Attention deficit disorder. 
+        - Paralysis. 
+        - Death.
+        - Examples of neurotoxins>>>
+            - Polychlorinated biphenyls (PCBs) 
+                - ![](https://remnote-user-data.s3.amazonaws.com/or-S3AieaQ0H7q4orQnAmSeonyVeadpIOKgSfTUUyA8y8da5IrnCzciNS7ZB8rqHvvhohK--6Iqvr49dCQ-cJtuYHef2RzC_c8MvZb-ESYwRgWVpqZECPU6pc1V1RQYO.png)
+                - ![](https://remnote-user-data.s3.amazonaws.com/oeUs3_cKRr5X9YdIaGLBHgzjADUDJqCEpgMoLlkdHBjL-6GFxcm51G0NZR2lx0TqwSMGWwzRvJbNTyW1S1rcbB9WDqQIuUDy6auTOJDfXuvcjTU0hAp_LW1bPBWPuwB8.png) 
+            - Methylmercury 
+            - Arsenic
+            - Lead
+            - Certain pesticides
+    - Uses of Arsenic
+        - Industry 
+            - Glass 
+            - Pigments 
+            - Textile
+            - Paper
+            - Metal adhesive
+            - Wood preservative
+            - Ammunition
+        - Agriculture
+            - Pesticides
+            - Animal feeds
+    - Long-term effect of bushfires on water quality
+        - ![](https://remnote-user-data.s3.amazonaws.com/TToXAO2lhTW4F9Kb00-3n3ttgKQJPqXAzHS4mjaQ50TFaL5d8tnwQHYwGWGV-e4aM7Kz5gWiDf39woMEv_0scL09aTmEs01ZQVtF7T4_cLVwZlAfAZBn6B_884D_Y1GG.png) 
+    - Lead Contamination
+        - ![](https://remnote-user-data.s3.amazonaws.com/PR6XjNKX_v8V5cnLHl-ZJLefEeShDDzzmVHD8AKkKA3-G16eNHGfwApEP8Sngj_C0QHQrEnrI9XHf_FG5GqWTfVRPNfiUpsQVf2549wjoOlvTX1ZGG3LyPmuVIk75Mvw.png) 
+    - Low levels of mercury: These are the safest fish and you may eat up to two to three servings per week. Each serving weighs 180 grams or six ounces.>>>
+        - 1. Samaral 
+        - 2. Dilis (anchovies) 
+        - 3. Hito (catfish) 
+        - 4. Galunggong (mackerel) 
+        - 5. Salmon 
+        - 6. Sardines 
+        - 7. Tilapia 
+        - 8. Low in mercury are shrimp, squid, and crab. 
+        - 9. Bangus (milkfish) are safe but their mercury levels are a bit higher than the rest in this group. 
+    - Moderate levels of mercury: Limit eating to one to two times (or servings) per week. Each serving weighs 180 grams or 6 ounces.>>>
+        - 1. Banak (mullet) 
+        - 2. Tamban 
+        - 3. Maya-maya (snapper) 
+        - 4. Canned light tuna 
+    - High levels of mercury: At most, you should only eat three times (or three servings) in a month.>>>
+        - 1. Tuna fresh or sashimi 
+        - 2. Lapu-lapu (grouper) 
+        - 3. Sea bass
+    - 
+    - Methylmercury
+        - The EPA estimates that about {{1 in 12 women of childbearing age}} in the US has enough mercury in her blood to harm a developing fetus. 
+        - The greatest risk from exposure to low levels of methylmercury is{{ brain damage in fetuses and young children}}.
+        - Methylmercury may also harm the {{heart, kidneys, and immune system}} of adults. 
+        - EPA advised nursing mothers, pregnant women, and women who may become pregnant {{not to eat shark, swordfish, king mackerel, or tilefish and to limit their consumption of albacore tuna}}.
+    - 
+    - The main industrial sources of atmospheric mercury are {{mining, coal burning, and other industrial activities}} 
+    - About 50 tons of elemental mercury are emitted each year from {{U.S. coal-burning powerplants}}, with lesser amounts coming from{{ oil- and gas-burning}} units. 
+    - Recommendations to reduce mining and coal-burning, reduce or eliminate mercury in the production of batteries, paints, and chlorine by no later than 2020.
+    - The endocrine system is a complex network of glands that release tiny amounts of hormones that regulate human>>>
+        - Reproduction. 
+        - Growth. 
+        - Development. 
+        - Learning ability. 
+        - Behavior.
+    - Hormonally active agents (HAA)―synthetic chemicals that disrupt the endocrine system in humans and some other animals 
+        - HAA Examples>>>
+            - aluminum
+            - Atrazine™ and several other herbicides
+            - DDT
+            - PCBs
+            - mercury
+            - phthalates
+            - bisphenol A (BPA). 
+        - Some disrupt the endocrine system by attaching to{{ estrogen receptor molecules.}} 
+        - {{Thyroid disrupters}} cause growth, weight, brain, and behavioral disorders.
+    - 
+    - BPA>>>
+        - BPA is found in plastic water bottles, baby bottles and the plastic resins line food containers. 
+        - Studies found that low levels of BPA cause numerous problems such as brain damage, early puberty, prostate cancer, breast cancer, and heart disease.
+        - ![](https://remnote-user-data.s3.amazonaws.com/IYvdaLwJGoadDCg4Ivhwb6QG0IXz1PuVwE5oYM1DcPeSP9r2qprcdtvRUafaFSQmipk8mgNpnC6PbkVfjA795iPGz9zXuM2n0SIvaOGMVqt5cOpZpBmdBa8I7H91AsZR.png) 
+    - BPA Alternatives
+    - ![](https://remnote-user-data.s3.amazonaws.com/_ir-ZjvxQPNp0OFlRkUWNFkeFd8MeiNOWxEj3auJ3DQtfLzs2U3HLOX2gZZ_jp-49fuXVhXvH8nbajgvMV-YrzQZSBTzOJpCJFf-SEt2qxlaFoQ_lcQJXqPF07Cipjdq.png) 
+    - Phthalates
+    - ![](https://remnote-user-data.s3.amazonaws.com/sbgr_0RNbuuCTFjuhrz8ivU0ccduxdL2hn4gBeeM6so7u_0DVrOZKlLpzg-hcSFTRFgvMX0maHSBV2NAPTT80K-tTHqtvxyIn6vHG5JUMZL3Ffoqtfpyjn9X4VwgPIIV.png) 
+    - {{Phthalates }}cause cancer and reproductive problems in laboratory animals. What does its chemical structure look like?>>>
+        - ![](https://remnote-user-data.s3.amazonaws.com/D92RSDnsqrnlMG76S-JCbccxruSc9lJuqFrktBkOeylRF-M_zy2q4MA8DRxdIUdBvrVwXxCAReMw4lJ7H3bDdxk5dDXUOAZDPhEZFZZlrh0F4wkP9wJMw0OMBQ6PSbKU.png) 
+    - 

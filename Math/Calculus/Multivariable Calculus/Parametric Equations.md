@@ -1,0 +1,28 @@
+- ![](https://remnote-user-data.s3.amazonaws.com/8Fn27D2jkR1szRG69pDrVUDaBKIsEm5QWrjNsMLoj9a83NBLFgFrod2jxXnS7K3SPrrjPqg7RnwsmbaC7fRt7rtalhUOR4EhhoIpEkAo7jYabFUorelcZOvtWeV8jOzX.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/7hCkHCnwTGfQsJM97vaj6NvWV0BEHhaAIBvZat8pGS8x6D09R-6RsY_wk4rY7Z7qbz4yvKLb2Q6r4ygfWxnuRl0_MzejHFXq3eeLuLkjtK3lIPg7ytaMpGWs5Vwq7qZm.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/ZyswYM_RWs-hvDWvOAPpAXBrNBs9xfF5calDHuqvySP4RE5VpqUV8eSwO27dMc8mQ7sjftw-6wFAJKTPvUA1uMsdazPMoOhSMlz8uGIc3sHLs3RuLgr33ixW_AGMYSzv.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/MAezvBplpaEy6NkDku-u_tLYHdSky8F0D54yMLdq0V8sYvcLPnpDycnGaKAcsZCyg8dJHBE462zNYq4Nd8zrLPxjdnXBpB22NHObIAvtqrDKVUG3b09vsAyoRxfh6yZW.png) 
+- Cycloid
+    - ![](https://remnote-user-data.s3.amazonaws.com/U7DZ3DqpVpC8DJqx2WkIAjVjbOk6PuSObsKnbczOH3RwFSFfclgNTmD4p3Wg3dzPz8RCzU3w-GxFRVNo9fIlEJBa0Kt4VQoiywBmYS13osCRVOGPdM1ygRVTatkPqpql.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/kbfCYNwVO14eKdERVlDdBAnKGemCgIl2wTwzna35n6qKf6-ekHB2REYzOAEFhV8ts37LeQ9D9nMVtpww39Giu7sIkmFmGIbzOzg51sVNzh6cLEqFf_l64TKa59parRLU.png) 
+    - YOU DON'T HAVE TO ALWAYS PARAMETRIZE USING {{TIME}}, YOU CAN USE DISTANCE OR ANGLE DEPENDING ON WHAT'S BETTER
+    - ![](https://remnote-user-data.s3.amazonaws.com/HjSQQilIaOuchS2DGeeUJ22UmPYaUyjTLkmBQPQuScrpLUoY2cYxWzNmCdTXNDrQS83fufY-qib3WEcuMvmWAS2mqw-L8vuefAO5Gx59oSRYS0UWCMNyGg5GME41li3I.png)>>>
+        - ![](https://remnote-user-data.s3.amazonaws.com/Dr7zAch56HBsuuNzP5BLyXqTrff8BHIOyqCs_aUX5NFeIsgO02igmDAygQoM252KFNVIcG5XbeyeRhac1UI3S7EaEp1cYMdj0ydXI372NhnN0TymW2onMLs_0bQIZT8e.png) 
+    - cycloid at 0 2pi intervals
+        - ![](https://remnote-user-data.s3.amazonaws.com/3JCbal2dALUfZ2BJuAKIzpIJRR_rr1yshmPoR3V-tyyEG4reTw0o7Ydvg7Wo51as4qoQv9bukguT85x4pwz_vOZccS8uwXrAf5pSK26FU1iIHGqx-qb1kNaAsxlsNoUg.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/nLHd173rSBkN1be3oMcWYcWtJoiRF48D9QzIIJvsI2fZhQFWFRvPah7qht5D9qDxALkIWFNHY2A1fvKn3etcKf63e9ohoYhaMeUViHmRrPoUPXZVdgbhZU0bfkHapq52.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/ZV8kpyfuriL2ZNjeWpDpht42hM3tNQxFqNn_IwUNX-ZVffFDmVxBVZZvJ6EXOK_xaCCPBoUv_nLI9k3eaC0P61fxH4i9gmT4THngc8Xj2LQAQyCdltBut9BdkjwjZ40N.png) 
+- 
+- Velocity and Acceleration
+    - ![](https://remnote-user-data.s3.amazonaws.com/5768CeNhFNyq0Ll55mWLTXZkw2oNFUGnFhzNZeOu14lxmNRhJxhjpW_bfJ3MJISHCdCTrVpnIO9tx1Eo2irCErvTlbUC0mkhp97wH0RceMW5ZkI8VINHXTjPiN-XUJD0.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/X-qw7rATkqBhA1khmPyFVmklhbRnWpft1BDAPyfRn5MkrQC5opiaQali60AlTnrn2Mie8ugiNAKuNmXU0d0MHLDSV-EOsVsnDp0pE4_gyCFvh-FGvFWrWg733IA9QD1T.png) 
+    - Unit tangent vector:
+        - ![](https://remnote-user-data.s3.amazonaws.com/mJwqquqvFdKR8o95ygoHWX7D4aS_s44rCZHH1DiMW6Fah3gs8Dr9YBZkFp3dzwEGOqzk156vR4TkSrYBPeRIpUVZXbrZtxhnHGfUgR5lGqzM8FM4RL7Ju6EVuutGIFPM.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/HDS3WQwy8UqhkDOwKJOOsaiKf_YMOXZoxDWE1fMcWtRnsoLCTeZQ8Ac_XDocL7RFMbp-YO4wLE-9WFThkXoniR2xuvgEx1AM1PfecgPaq_hfJ3mXJz8Akud8DYuNurPJ.png) 
+- Kepler's law (in vector form):
+    - ![](https://remnote-user-data.s3.amazonaws.com/bFkNe_NEhYwGkfFnWGENiroFkxXPE-qolIy6aiW1YYTyClZx9OETGSUqYSg0O8u1jxIpVZ4tXwD7T7o78llzzOJ_wZxQ6J8pTj0uwGWVDtsXd5eIErUc1o3CViRSQHVA.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/aXip-32jOMzs9GtBnIByujdQ0n2r97Pn1vhIwu4RLncqb3dmDNsQ4c81t2ngzbb2soPECXPrAQLmtg2D6Ut8i1h9-OuKZ8tVa9D3V9Q3_DjcUg6K0drU2aCqMOYqsrQB.png) 
+    - YOU CAN APPLY PRODUCT RULE TO DOT AND CROSS PRODUCTS 
+- ![](https://remnote-user-data.s3.amazonaws.com/9NWL1GcUqNEh-wgN4EqjgJttot7uap_2Rm8QR7j2ZzRaEifixl2QH1D-oaoyMfH5vEucnd1Ws_yT5yrot7GddJltOL_O5wZ-hU-o3MFIF5zWXNawqyjrPJSv69ODlXwg.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/6vzRDamtiLWAZQ5fZbtjNtoaa9oQjfVDp4RtubpNLe_GnkCuCs7lnDKnf4R7776MfXIAfrnuUxJQHbEvXSXMRrvwV3hcKP5n6LIu25u3NFh-3NpJItYJykz7I9Ak_JNm.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/_NlsN86v6xAEvwAofhMgc6THesMWcnlB0OzpfwqB5VJt3Tqr7DRfiP6cAD0kave2kmgdGu_xTvXXdFwTANKxMeiHvzoyEXuZaof6cUiGKWs-9y6nnxv9p2LBhm5vmOZ4.png) 

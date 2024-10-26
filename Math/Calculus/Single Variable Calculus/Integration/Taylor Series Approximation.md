@@ -1,0 +1,3 @@
+- Taylor Series Approximation formula>>>
+    - ![](https://remnote-user-data.s3.amazonaws.com/0egU2GyKVy5PjxzFfIK_KpEItnuGSmpT2g6Xz1K0q9-cKyBFUBhc1SfyJ6qqqaEpBCSP0YUTfABB9l6CLmA5TSTK-C-utfHF297mUOpNS3-OapQ-lFeE9CFmiCl_4RZs.png) 
+- Maclaurin series is a special case of Taylor series where {{approximate about point 0 instead of any point}} 

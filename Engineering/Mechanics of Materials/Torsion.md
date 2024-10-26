@@ -1,0 +1,41 @@
+- --------------------- Portal ---------------------
+    - Engineering
+- ![](https://remnote-user-data.s3.amazonaws.com/80kwkt7XzDM_Fw1IVVTP7tQHTR2ohxf_xngqbnKEIh8RmKN3muCOymNWaLycH_JP1JGmCx0GObO78vEaFjefioDY5JWLhy7ISO6caZZZz48bR8DK73YbpV98inGAgEpf.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/cOAPd0ronefD2fwNX60GGDGwcngcJ82FCwGNFn7cEwDFO3YlpPPArkbE54v1hM587cUwQvy9kPi0xslN7kDCEGRST5aigEu9RAi2GT5pWljxS7vQIdhyQ2DVKQC98KUA.png) 
+- Torsion Formula
+    - ![](https://remnote-user-data.s3.amazonaws.com/o-UY-AZfQtLv8re5XvZ8Qm0U3pBYUG2uFNEDDUGSv6giTzCeioGzr1u3N1BeXpGxqHnagCf75mxRCEtgmlk43dJ8Skri3GvQekdP7OJPiGhD-p2mA9XuQgoqGN3o9ajG.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/gI13b5yM6NUNBLX1rgE0F5QGU_gN9NHHdXIUQD3lKS7YC1hXyaPBmitXupR4RuMqfFi0N0mYFMEpCaFwbh76Ae-PFqs9clB5YAGd-ryIEKTjf7nwq31Wg8wpdf1lKQxM.png) 
+- Polar Moment of Inertia
+    - Solid Shaft>>>
+        - ![](https://remnote-user-data.s3.amazonaws.com/nbuJwcFnHj6OIgc2UC8VuQvJ9DjlEiiNFLDekUNorA_gYfQHXGMvCu4TXySpWazM-sjD8vyWOpwUblrWA4i7Ew5tFvL84RRlqa7n8JLyQEA0DvMbjrV4qpKGUA6RGOWK.png) 
+    - Tubular Shaft>>>
+        - ![](https://remnote-user-data.s3.amazonaws.com/s_XQgyDeF8j7XckvrgVVgSE45WFPfOigrpdsqNCH-QeY1g0T2snCAAz14rED96VyTc9pT6ZlE44qibKiRsA817aFbfcJNN01JmLnQrAGP8jod3eY2G_Lg0eb37CZxYfz.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/MJJ6-OplqwUNGfpZW4J1tp_je5qkaujZCet1aGSX7QZUPgQQjR1mQcEpRQq2BfR8X09DE05h8zzjpDmB7z_LKrc8yCauXaIXHqw0kDYfZBgoP0pMJr9dNqhlea5MaX4B.png) 
+- 
+- Examples
+- ![](https://remnote-user-data.s3.amazonaws.com/0pdThqmufDR1z9o8DlE0FCSDMVkMyYyWhsQ4g2cLg__Cq_liIfmEAzzIG9A3hzLonuCICwEGxcQEc2SuXWjdw1aa_j6kmeweS2Y0QpozwxaxZ5vyhxEqQswMDdWKlyI6.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/94VxiGli2TKWdv-Aj7U8evwexomG0pjxmARwFWaMyv-cIAO2SsIBME-UXWtLgZeVFQzz_GXHw6yzl_bwvqjkJbLh0ueNDRnoYEYW6_5oGyPaJzVDWcAtDOK8NnTI4kDP.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/-YJX8nwScS-9F6t0Ob5S3AX8Sgedq7J88MB-N7ulYWsoNpnnXDOqUhOf7of14jqXfduWGVOOA3bNJmGMNT0s2n7ZYv3ZDYf_Wwr_Ndmb0K_dT4rigoSvY6C5i0BrveNM.png) 
+- Shaft Design
+- ![](https://remnote-user-data.s3.amazonaws.com/LmIexl0dpedaS2yBRdBr_2ZuHej-S_He1B50crKJNFgZ6s9tVS0SOQQ1VITXOZz8WY7BB97a4j0jXM-Bn-6VGVf17cCM9OjGeDMFME1sWGQZBRhSnYvWwr-B4gNPmHOJ.png) 
+- Power Transmission
+- ![](https://remnote-user-data.s3.amazonaws.com/P26UaF0A0MlQLsm-kQ2Lnl4k_JcG2kDofXwaEQtR5a5IkLI5pAWyKaC0Can1KJPrS5PeSrCIYIINg2L94Wkrko62ZPgro-3PSUrdRY-YoY8lnd7_zOkU5IDz0opzz3FN.png) 
+- 
+- ![](https://remnote-user-data.s3.amazonaws.com/ledpoK03C5M4_Z0FdrlyviTVnGeZuDXW2-l4MYPpzPsdp5J3TpnAGoVTRWB9HyrWI6t4IhXmdPPgrg5brbi_uKl_Rt-f0CSxf95c0wJK-hGqQkxJO0LX2SOHKzUa9tw5.png) 
+- 
+- Angle of Twist
+- Occasionally the design of a shaft depends on restricting the amount of rotation or twist that may occur when the shaft is subjected to a torque. Furthermore, being able to compute the angle of twist for a shaft is important when analyzing the reactions on statically indeterminate shafts.
+- ![](https://remnote-user-data.s3.amazonaws.com/BRP8EYDR22HXHYw-gaCl1uF7Nf0DVqvn3pzYvHA9HSyum222Qg2RIV0L5R5g23ZGtFwUWsPdKBPK94J777eEbFkicSJvpifUlAsvq4Yf2m2fiZtw2pAjUUAKfuGnoUQv.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/ZwSKWtYOW_pvnyAygK6enJz_0ZSBU0bW485T-SsUIJqLCTCcVrwlVFesjm-MFP2od10vul9nLwW3kz8KZICWpePbD46d9Dksc2qiIpu4GRl09RVGgVVZYd3Ik9Ru2Vi4.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/CKk6ocCoxo5wxPQ1XPmWKPbJ5POQBBlaLisJ9IpKW1q15S-n3KVGX3OMWp16DiR2i4uQEeb2JZow1mjn3f6mv5rrgWn9SVZzqe4YuTkEPqAos_-RC6uAWzHR9idRe4as.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/_RG-X5dUno8aoRTXl0ByTEfOtIu8dKQHrwpi90zNhdH8o2xLIlL5oCC88bYPkWGygdlYP2z-P2zcL6mXOAotVJWvKHhvTuIjnh564uO3oBKY5Ec0lOe5KuSI9CnnCVDR.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/LwM6uF7jx1FDJiSTQjt8goZuKbBrW1NGTMzvWihIExu4c3PWy-FSVWOoQzUpt-4cb0Z5pndFM6NZD3xdtB9VpPn4mNyvrkrCvsEW9rVa3KtDKVc0mTTdSt4GssLhb3GH.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/mXZwPyJi3pU4EHnEA2mlSnXMXfYECHuWTm-ivLKw02YfhyWS4WK7GgXe_WXg9_2BEcYVwV0yj3rCUrMJTPd_locsh1sB8A_wXQpuE17rIr0lIs5lF5v6EENDd3vVWYhv.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/Z46yooSyasVX6yHjROsOMZ5epWP5j5rb4w89jAq2vIOOMA3paIYKzAEb-mtUEbOdXEGnoYz3m5EDW2v1Q2-ALPj3Jh2B84EJSZ6zxA6M73OPXldMx6GxsYLrOayL79-z.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/YKeQqUk1bfhHJhZOTyrmdoQQ6DtG6TgRemey_oHtR5nz225haMuIOo2xXYiNC6w_7Q9hyqQC8RYiUcBmKTlIYBDBLioWKelraR83iwxWA3SiDZAsZwTWcDzcHACFUgIc.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/uI1jSPJzDPBofyeL6rh-ZCupQwxVJeF-6h_Ge6_EP4rVdu2lcBLuPcg7vnxeE5V0YaWdCH0d7Z12QOgKRgs1wNpNEf5m1lNIhc3704W93qxiqdH8u7L0mjLi5N-SJZJ0.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/CAUlG-vHaGZaF49F5fgQic2d34iDfirXOEHEPI9xRqzQaFuQctt1g2BfqEJZOEvktD478ia0DDwFbxO8TPnjceSK-N0v5xH5UCxtHjKoNSETyIWr3mWik3d_YNGI01Vi.png) 
+- Thin-Walled Tubes Having Closed Cross Sections
+- Stress Concentration
+- Inelastic Torsion
+- Residual Stress

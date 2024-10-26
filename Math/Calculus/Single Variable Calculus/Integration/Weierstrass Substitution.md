@@ -1,0 +1,4 @@
+- [youtu.be/q3IexrVsaqg](https://youtu.be/q3IexrVsaqg)
+- ![](https://remnote-user-data.s3.amazonaws.com/j_cX2HSywSJW5OHhKiAoBta5nzMin_hKSz0vhhOPeLcxg24BDitcI6LUIVaPqHwyQHwD-L8ZVEbcWSIlQdHoygKwNsEYmKY9wMozzT9ZRUF7axXI4FPPJu1LVEhuErp6.png) 
+- ![](https://remnote-user-data.s3.amazonaws.com/f98hAWq9jo81VdsqOv9EJrStKjXmCjKfudqp_uN_h8ddvaeRNZfEzyCcSXT6Imnnz_SAmiuAEPcpOhLcWHLBIYhxbnCxzzx1N2Y2QpACM96E-WwykkgTnZLFymsdNojp.png) 
+- 

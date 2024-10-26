@@ -1,0 +1,36 @@
+- Poisson Distribution
+    - ![](https://remnote-user-data.s3.amazonaws.com/giqryPo7NvzGQsy4G7JYFoNrT9nxa0nAnieH5QlYquZiugiqRqhVCZWvpXnR9UjJoCIbwXvc6tKBi1NhX024gQDwvahxYc5_fGwyPD2MS9v5DStgH80icI8C-rENpZVP.png) 
+- Hypergeometric Distribution
+    - Hypergeometric
+        - A random sample of {{size n is selected from N items.}} 
+        - The N items may be subdivided into two groups, k of the items are classified as successes. Thus, N — k of the items are considered failures. The choice of successes is arbitrary.
+        - Sampling is done {{without replacement}}.
+        - ![](https://remnote-user-data.s3.amazonaws.com/ajNJ2omde-NKT7NrVhchng3x7ZqmkvZy4m9jp66LpJnjneloBzOKHkxL1j2l29_2kAtNvQN-LW2pihnoKatd76FA7fqdf_8pVPEQu4lqIJ0bYxVKqTp7YL5RI-A1hxNI.png) 
+    - 
+    - ![](https://remnote-user-data.s3.amazonaws.com/VpcgB7wzGa23L6AXc8I-yixLnlQsebAmX19FS-OhDAzUOZIOjfC2VZqLvUF2hUKGxs5qtG7DfVnhVHqG0zzpcoArSlVWMxaRt2640_V9mLeNEZeWi2DUi1AnlJdbA5K9.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/4tqFykDAY3JgSdYGEwz8rWzIDzlcikEBx4hNdHT4vAAxmUYpv9NeCDaXPgNYnDPEEIFbb_QcqIgtp8uaSKtHNNWbbvTk_nB9JE0Hkno9MafMoVraTHSEgQB77oLgxbQJ.png) 
+    - 
+- Random Variable
+    - Discrete vs Continuous Random Variable
+        - ![](https://remnote-user-data.s3.amazonaws.com/rtQXgfTDqGU0H9mkScnwVFt4dD3GGO-TZc4IHO4kdVbu_geS3fJIdF5h5JUPh0YhtCq63ac_cUme-FURdGJCDqISzj9IDN9Ej_MXzOOv_YnVvULldVAySmo2vJhPnxhT.png) 
+    - Expectation Value and Variance
+        - ![](https://remnote-user-data.s3.amazonaws.com/A3SIRlxYzb9ZMArUhifujty4JHsDvNz_99rg8K6cRIym3ZHpqqr_cHbLpHZtFDI7W4xbprFI7E9tUgsvhhFXeqmlaUeNmwPyNClYH7u8GIWb5M8a7Vn3uqtVrF1CSmo-.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/OWrr8VpJpa1_JC6EPXcNJBg0U4-e8gavE2FKR6AoU_oJWIBWje-DXbeoP0RhnX2YszTcvqwJCPnE_ecgGHjxnPUqchK6cJhOeoiFawuVPVimYDkrU5SOTJ26yJSryn4K.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/HPf_acFe0yMlp0H0aYNPWEH72qh9s3QOb83RIFsYu42trSrsxOG87dohRjSYHHmN8lUOxMslCFtlB44zjxh_6ETph_pThKZP7PKC8FpIQEPmBtEPTCGUHNKn-cIYlug9.png) 
+    - 
+    - ![](https://remnote-user-data.s3.amazonaws.com/4fYK5aSp-At8Lr7DeJ2_Dw8o11-V7_vJK4E_sgn8XNXnaZdOKUP7JljhbUWmrIN9VLVn51xu9Jjx_92rchNkpAL5SevWdszPrtKAgA5inDljqfLJjCQtZcHB-DVH3SU8.png) 
+- Discrete Probability Distributions
+    - 4 main types discussed in FNDSTAT>>>
+        - Discrete Uniform Distribution
+        - Binomial Distribution
+        - Hypergeometric Distribution
+        - Poisson Distribution
+    - 
+    - Discrete Uniform Distribution
+        - self explanatory
+    - Binomial Distribution>>>
+        - The experiment consists of n repeated trials
+        - For each trial, there are only two mutually exclusive outcomes, success and failure. The event that corresponds to success is chosen arbitrarily. Usually, it isdefined in accordance to what is required in the problem.
+    - ![](https://remnote-user-data.s3.amazonaws.com/Y3wOZ-yZSUYttc4xbqK1cc4UkXW2ac-nF9cMTnwivyo79JfAtVDHG85mDu3XD5H1Itxtn-FDr95ken7Kfgpdxhr73NEbF4hYLBlmW7Tm1msLrQC70ht7mTefFWV8sm_A.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/RGW4qJw-92Mmtnm54LfalIxcOVy9aCUvfkTiO1jj5tjnQiB4yVmyIC8HuRI7wQJlyt2rMWPfYcJc75fRdg3LVsuEpmSNGM5BUnL0jSntJTZ9LbNp_WRSWPjz-KN8RU2l.png) 
+    - ![](https://remnote-user-data.s3.amazonaws.com/6a13eS1M51Y7BSIuB1etnIL6IgiHDtqTu0Ggzki2mjd53CZBV95gXa4bxeHfjrXuIE9cB2emHP3wSCttBmhd3aTGFDGGrmMyx8HbXvPhhi-c-F8Wmdxgpfa2-LXsmebz.png) 

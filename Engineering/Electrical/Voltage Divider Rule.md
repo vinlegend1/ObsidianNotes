@@ -1,0 +1,3 @@
+- ![](https://remnote-user-data.s3.amazonaws.com/5nX2HIsdeb_UCdEEfHlNtzBimhhsO32rzPkBJCSqizF4pDjWIV-oTpjUDctzKKcrCt8Pp0OHYPy44DnMLVBwwn2RzPtJzMnxgD-C0q30Gf8D2-LLTCdt1XMiX42X30s6.png) 
+- The {{potentiometer }}applies voltage divider rule to vary the output voltage in an analog fashion
+- 

@@ -1,0 +1,12 @@
+- Notes
+- 
+- ⭐ TinyKiwi ([https://simonl.ink/tinykiwidesign](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGJmZFl0dl9nd0l6XzBNRWVDQ3ZvRkN6X0dRQXxBQ3Jtc0tuMEdnS050VUQ3cklFQVh5a0dzT0d3R2ZEWXpTWFVBeGxMM0ZtR1A0ekhKblo0cWNCTWxoNGNianp3SVlHdWlBTTBrM1RrVXVUbDBEYjdheTJDVGNZYkJSVmFZUUJwSDBLQlI5Qjl1U3g0VW1DVUU3aw&q=https%3A%2F%2Fsimonl.ink%2Ftinykiwidesign&v=aSMxdBVTcLg))
+- 🔸 Framer ([https://simonl.ink/framer](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVpwR3B0YkgtT0laN1hVVWVKLS1rZFNTZmhqd3xBQ3Jtc0tucTJWWjVZUVpFWnhvczVWaUZJeVNNMGRQa3R6aG1yTzA0UTFTS1c2NHEzYjBYU01uRGNLWXpIdm1ra1A1QWFVelNLemVaTzNXSi1nUjBsYTFyQXUyeWlObTFEZGNqdFVkWElIdW8xTWVmRUZrSXlJaw&q=https%3A%2F%2Fsimonl.ink%2Fframer&v=aSMxdBVTcLg)  
+- 🔸 Figma ([https://simonl.ink/figma](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnNRN0dhTUUwSU9namVqWkV4TWo3Zm41d3JDZ3xBQ3Jtc0tsNHlfdVY1NlFYYkZNQ1lWSWlWTzJmQzVfbjBkcGxxcE8xR292aTVfd3BFNkNWT05VWDYwazkzZktTZnhNMS1WOXptWVEyQlJkYUpGckhLUnR6N1l3VXRtem1LQ2xRZV9pY2VjY2JpOG91S0IwTV9Ldw&q=https%3A%2F%2Fsimonl.ink%2Ffigma&v=aSMxdBVTcLg)) 
+- 🔸 Formspark ([https://simonl.ink/formspark](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbW44SDdUVTUtVlROQ19KXzlObDJuRjJSR2dnd3xBQ3Jtc0ttTi1vOVFKa2xNSlQ3eGN6eU1TYlZlS2VYY2k0LThGLThqclRMRXY4S0VnVlgtSW5kc3pDcDJxX0JDWU9VelNsNTVzREVnaXdKbjR3OFZ4cEFLd0JUTmd5dzQ3SjdGaUhVb0hZalM1V1dCQmtTX2xaTQ&q=https%3A%2F%2Fsimonl.ink%2Fformspark&v=aSMxdBVTcLg)) 
+- 🔸 ChatGPT ([https://simonl.ink/chatgptforads](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0VzWjZWZVN2TnlRRElIdkc5VnIycEdPX2lmUXxBQ3Jtc0tueEt0VmV6YnVpYVB6RWR3T2k3VWhfTDBBclJRRE1idWhLaF9CSkVJWDk1bEhSN0JxeGlFX0ZXcWQyTmdtcm4xTXlnalotNWpZMEJ2akx4V04xQlEtWHU1SHZSelpxbXBNVW9pNWo3MGM4VFQ4NnZvOA&q=https%3A%2F%2Fsimonl.ink%2Fchatgptforads&v=aSMxdBVTcLg))
+- facebook ad manager ([adsmanager.facebook.com](http://adsmanager.facebook.com))→optimize for traffic when doing validation, do leads and sales most of the time
+- Establish a Winning Criteria
+- kinda like how you want to establish a [Voting Methods](../../Math/General Math/Math in the Modern World/Social Choices/Voting Methods.md) at the start 
+- 3-5% sign up rate
+- 2-3 ad campaigns using different targeting and ad creatives to cover different angles
