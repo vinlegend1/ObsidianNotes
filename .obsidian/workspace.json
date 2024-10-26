@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
-                "mode": "preview",
+                "file": "STEM/Statistics/Continuous Distributions/Normal Distribution.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "MECFLUM Home Page"
+              "title": "Normal Distribution"
             }
           },
           {
@@ -180,7 +180,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": true,
       "canvas:Create new canvas": false,
@@ -188,17 +187,21 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
       "obsidian-git:Open Git source control": false,
-      "obsidian-omnivore:Omnivore": false
+      "obsidian-omnivore:Omnivore": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "6631b928f43f9bf4",
   "lastOpenFiles": [
+    "STEM/Statistics/Continuous Distributions/Continuous Random Variable.md",
+    "STEM/Statistics/Continuous Distributions/Normal Distribution.md",
+    "STEM/Computers/Dmenu Stream Lofi Script.md",
+    "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
     "DLSU/Orgs/Org Work Home Page.md",
     "DLSU/Orgs/Eco-Car thing.md",
     "STEM/Engineering/Electrical/Voltage Divider Rule.md",
     "STEM/Engineering/Fluid Mechanics/Control Volume Relations.md",
     "DLSU/Orgs/Script for MES Membership Card AY 24-25.md",
-    "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
     "STEM/Computers/Compilation of Automation Related Scripts and Notes.md",
     "Bible/GLC Online Training Compressed Notes.md",
     "Bible",
@@ -220,9 +223,6 @@
     "STEM/Engineering/Fluid Mechanics/Fluid Dynamics and Energy Equation.md",
     "STEM/Engineering/Fluid Mechanics/Hydrostatics on Curved Surfaces.md",
     "STEM/Engineering/Fluid Mechanics/Intro to Fluid Mechanics.md",
-    "Omnivore/2024-10-26/Obsidian Plugins for the Casual User - Kevin Quinn.md",
-    "Daily/2024-10-23.md",
-    "STEM/Engineering/Fluid Mechanics/Dimensional Analysis and Similarity.md",
     "Self-Help/Productivity",
     "Self-Help/Huberman Lab Podcast",
     "Self-Help",
