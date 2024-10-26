@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/General Math.md",
+                "file": "Statistics/Definitions and Introductions/Classical Probability and Counting Techniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Math"
+              "title": "Classical Probability and Counting Techniques"
             }
           },
           {
@@ -192,7 +192,13 @@
   },
   "active": "684a5e217d9b5298",
   "lastOpenFiles": [
+    "Statistics/Continuous Distributions/Normal Distribution.md",
+    "Statistics/Continuous Distributions/Continuous Random Variable.md",
+    "Math/General Math/Math in the Modern World/Mathematics in Nature.md",
+    "Math/General Math/Math in the Modern World/Game Theory.md",
+    "Math/General Math/Hyperbolic Functions.md",
     "Math/General Math/SMC Stuff/Weird Math Tricks.md",
+    "Math/General Math.md",
     "Math/General Math/SMC Stuff.md",
     "Math/General Math/SMC Stuff/Jeopardy Trigonometry.md",
     "Math/General Math/SMC Stuff/Jeopardy Algebra.md",
@@ -212,12 +218,6 @@
     "DLSU/Term 5/MEHETRA/Intro to Heat Transfer.md",
     "Engineering/Mechanics of Materials/Mechanical Properties of Materials.md",
     "DLSU/Untitled.md",
-    "Engineering/Mechanics of Materials/Strain.md",
-    "Engineering/Mechanics of Materials/Strain Transformation.md",
-    "DLSU/Term 5/MECHFLU/Hydrostatics.md",
-    "DLSU/Term 5/MECHFLU/Hydrostatics on Curved Surfaces.md",
-    "DLSU/Term 5/MECHFLU/Dimensional Analysis and Similarity.md",
-    "DLSU/Term 5/MECHFLU/Intro to Fluid Mechanics.md",
     "DLSU/Term 5",
     "Chemistry/The Chemistry of Engineering Materials",
     "Chemistry/Energy",
