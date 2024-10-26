@@ -1,10 +1,10 @@
 {
-  "accentColor": "#ec9e18",
+  "accentColor": "#1360dd",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "",
   "baseFontSize": 16,
   "cssTheme": "Minimal",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "nativeMenus": false
 }

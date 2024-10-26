@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STEM/Engineering/Electrical/Voltage Divider Rule.md",
+                "file": "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Voltage Divider Rule"
+              "title": "MECFLUM Home Page"
             }
           },
           {
@@ -180,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": true,
       "canvas:Create new canvas": false,
@@ -192,6 +193,9 @@
   },
   "active": "6631b928f43f9bf4",
   "lastOpenFiles": [
+    "DLSU/Orgs/Org Work Home Page.md",
+    "DLSU/Orgs/Eco-Car thing.md",
+    "STEM/Engineering/Electrical/Voltage Divider Rule.md",
     "STEM/Engineering/Fluid Mechanics/Control Volume Relations.md",
     "DLSU/Orgs/Script for MES Membership Card AY 24-25.md",
     "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
@@ -213,15 +217,12 @@
     "STEM/Engineering/Electrical/Intro to Transformers.md",
     "STEM/Computers/Tidyverse Notes.md",
     "STEM/Computers/Custom dmenu Scripts.md",
-    "DLSU/Orgs/Org Work Home Page.md",
     "STEM/Engineering/Fluid Mechanics/Fluid Dynamics and Energy Equation.md",
     "STEM/Engineering/Fluid Mechanics/Hydrostatics on Curved Surfaces.md",
     "STEM/Engineering/Fluid Mechanics/Intro to Fluid Mechanics.md",
     "Omnivore/2024-10-26/Obsidian Plugins for the Casual User - Kevin Quinn.md",
     "Daily/2024-10-23.md",
     "STEM/Engineering/Fluid Mechanics/Dimensional Analysis and Similarity.md",
-    "Omnivore/2024-10-26/Git Reset and Revert Tutorial for Beginners - DataCamp.md",
-    "Daily/2024-10-26.md",
     "Self-Help/Productivity",
     "Self-Help/Huberman Lab Podcast",
     "Self-Help",
