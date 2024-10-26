@@ -15,14 +15,60 @@
               "state": {
                 "file": "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
                 "mode": "preview",
+                "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
               "title": "MECFLUM Home Page"
-            }
+            },
+            "group": "d003148ae3d47130"
           }
         ],
         "stacked": true
+      },
+      {
+        "id": "3172aec543d18fab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6837347ca2900bc0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of MECFLUM Home Page"
+            },
+            "group": "d003148ae3d47130"
+          }
+        ]
       }
     ],
     "direction": "vertical"
