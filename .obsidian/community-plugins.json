@@ -4,7 +4,5 @@
   "oz-clear-unused-images",
   "obsidian-omnivore",
   "text-extractor",
-  "dataview",
-  "better-word-count",
-  "templater-obsidian"
+  "dataview"
 ]

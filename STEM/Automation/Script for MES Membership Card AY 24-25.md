@@ -2,7 +2,6 @@
 tags:
   - bash
   - MES
-  - automation
 ---
 ## Screenshots
 ![[Pasted image 20241023141724.png]]
