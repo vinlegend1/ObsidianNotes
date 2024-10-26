@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
-                "mode": "source",
+                "file": "Omnivore/2024-10-26/Dataview.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "MECFLUM Home Page"
+              "title": "Dataview"
             }
           }
         ]
@@ -157,8 +157,9 @@
   },
   "active": "d8a97ec04c799537",
   "lastOpenFiles": [
-    "Omnivore/2024-10-25/BEP - the Best Efficiency Point of a Pump.md",
+    "Omnivore/2024-10-26/Acosta_Hong_Valencerina_PS2.docx.md",
     "DLSU/Term 7/MECFLUM/MECFLUM Home Page.md",
+    "Omnivore/2024-10-25/BEP - the Best Efficiency Point of a Pump.md",
     "Omnivore/2024-10-25/Pumps - Suction Specific Speed.md",
     "Omnivore/2024-10-26/Get Started With Obsidian Periodic Notes and Templater - Kevin Quinn.md",
     "Omnivore/2024-10-25/Pumps - Affinity Laws.md",
@@ -206,7 +207,6 @@
     "/DLSU/Term 7/ELECME1/Transformers.md",
     "/Omnivore/2024-10-24/What Is a Low Pass Filter- A Tutorial on the Basics of Passive RC Filters - Technical Articles.md",
     "/Omnivore/2024-10-24/Voltage Regulation - Transformers - Electronics Textbook.md",
-    "/DLSU/Term 7/ELECME1/Voltage Regulator.md",
     "/ELECME1/DC Regulated Power Supply.canvas"
   ]
 }
